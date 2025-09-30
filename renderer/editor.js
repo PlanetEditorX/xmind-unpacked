@@ -617,6 +617,7 @@
         "editor.decreaseFontSize": { actionId: "mutate:decreaseFontSize" },
         "editor.boldText": { actionId: "mutate:setFontBold" },
         "editor.italicText": { actionId: "mutate:setFontItalic" },
+        "editor.underlineText": { actionId: "mutate:setTextUnderline" },
         "editor.strikethroughText": { actionId: "mutate:setTextLineThrough" },
         "editor.uppercaseText": { actionId: "mutate:setTextUppercase" },
         "editor.lowercaseText": { actionId: "mutate:setTextLowercase" },
@@ -1667,6 +1668,11 @@
               ),
               provider: e,
             },
+						{
+							id: "editor.underlineText",
+							enabled: Z("mindmap.inEditTitleMode"),
+							provider: e,
+						},
             {
               id: "editor.strikethroughText",
               enabled: Z("mindmap.inEditTitleMode"),
@@ -4071,6 +4077,7 @@
                 payload: [{ name: "mutate:insertImage", inputValue: e }],
               });
             })({ value: e }),
+					"editor.underlineText": o("textDecorationUnderLine"),
           "editor.strikethroughText": o("textDecorationLineThrough"),
           "editor.boldText": o("textFontBold"),
           "editor.italicText": o("textFontItalic"),
@@ -4881,7 +4888,8 @@
                   "insertText",
                   "editor.addMarker",
                   "editor.changeImage",
-                  "editor.strikethroughText",
+									"editor.underlineText",
+									"editor.strikethroughText",
                   "editor.boldText",
                   "editor.italicText",
                   "editor.increaseFontSize",

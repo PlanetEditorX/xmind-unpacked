@@ -610,6 +610,11 @@
             category: (0, o.WZ)("Edit Text & Style"),
           },
           {
+            commandId: "editor.underlineText",
+            label: (0, r.WZ)("Underline"),
+            category: (0, r.WZ)("Edit Text & Style"),
+          },
+          {
             commandId: "editor.strikethroughText",
             label: (0, o.WZ)("Strikethrough"),
             category: (0, o.WZ)("Edit Text & Style"),
