@@ -1,0 +1,5 @@
+/*!
+  * @xmindltd/snowmonster v1.2.0-alpha.202504241803
+  * (c) 2025 XRenSiu
+  * @license MIT
+  */

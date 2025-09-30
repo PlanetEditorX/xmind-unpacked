@@ -1,0 +1,37 @@
+{
+  "name": "Xmind",
+  "productName": "Xmind",
+  "buildNumber": "202505120645",
+  "arch": "64",
+  "releaseType": "vana_win32",
+  "commitHash": "d27502774d57ad6790aac87ef90b17fc68e9d230",
+  "version": "25.04.03033",
+  "buildVersion": "25.04.03033",
+  "description": "Xmind - The most popular mind mapping software.",
+  "author": {
+    "name": "XMIND LTD.",
+    "email": "xmind-2023@xmind.app",
+    "url": "https://www.xmind.app"
+  },
+  "homepage": "https://www.xmind.app/",
+  "private": true,
+  "main": "main/main.js",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "evernote": "2.0.5",
+    "fontkit": "1.8.1",
+    "iconv-lite": "0.4.24",
+    "native-keymap": "3.0.2",
+    "ncp": "2.0.0",
+    "posthtml": "^0.15.1",
+    "xmind-vana-osx-sandbox": "file:vendor/vana-osx-api/sandbox",
+    "xmind-vana-osx-tokenizer": "file:vendor/vana-osx-api/tokenizer",
+    "xmind-vana-osx-handoff": "file:vendor/vana-osx-api/handoff",
+    "xmind-vana-osx-iap": "file:vendor/vana-osx-api/iap",
+    "es6-set": "0.1.5",
+    "es5-ext": "0.10.53"
+  },
+  "vendor": {
+    "name": "XMIND LTD."
+  }
+}

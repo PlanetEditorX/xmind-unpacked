@@ -1,0 +1,20 @@
+/*!
+    localForage -- Offline Storage, Improved
+    Version 1.10.0
+    https://localforage.github.io/localForage
+    (c) 2013-2017 Mozilla, Apache License 2.0
+*/
+
+/*!
+  * @xmindltd/snowmonster v1.2.0-alpha.202504241803
+  * (c) 2025 XRenSiu
+  * @license MIT
+  */
+
+/*!
+ * canvas-size
+ * v1.2.6
+ * https://github.com/jhildenbiddle/canvas-size
+ * (c) 2015-2023 John Hildenbiddle <http://hildenbiddle.com>
+ * MIT license
+ */
