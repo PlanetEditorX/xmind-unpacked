@@ -1,1 +1,6906 @@
-(global.webpackChunkxmind_vana=global.webpackChunkxmind_vana||[]).push([[715,6070,9991,2366],{15070:(e,t,a)=>{"use strict";a.r(t),a.d(t,{default:()=>i});var o=a(23645),n=a.n(o)()((function(e){return e[1]}));n.push([e.id,".statusbar-divider-vertical[data-v-86573d84] {\n  margin: 0 8px;\n  width: 1px;\n  height: 11px;\n  background: var(--color-sheetbar-divider);\n}\n",""]);const i=n},85901:(e,t,a)=>{"use strict";a.r(t),a.d(t,{default:()=>i});var o=a(23645),n=a.n(o)()((function(e){return e[1]}));n.push([e.id,".statusbar-divider-vertical[data-v-303bd27c] {\n  margin: 0 8px;\n  width: 1px;\n  height: 11px;\n  background: var(--color-sheetbar-divider);\n}\n",""]);const i=n},23834:(e,t,a)=>{"use strict";a.r(t),a.d(t,{default:()=>i});var o=a(23645),n=a.n(o)()((function(e){return e[1]}));n.push([e.id,".statusbar-divider-vertical[data-v-3fc3929a] {\n  margin: 0 8px;\n  width: 1px;\n  height: 11px;\n  background: var(--color-sheetbar-divider);\n}\n.sheetbar-item[data-v-3fc3929a] {\n  line-height: 20px;\n  padding: 0;\n  overflow: hidden;\n}\n.sheetbar-item-container[data-v-3fc3929a] {\n  min-width: 24px;\n  max-width: 220px;\n}\n.sheet-title-edit-input[data-v-3fc3929a] {\n  height: 20px;\n  background: transparent !important;\n  box-shadow: none !important;\n}\n",""]);const i=n},4143:(e,t,a)=>{"use strict";a.r(t),a.d(t,{default:()=>i});var o=a(23645),n=a.n(o)()((function(e){return e[1]}));n.push([e.id,".uk-text-line-clamp[data-v-f08e9528] {\n  display: -webkit-box;\n  overflow: hidden;\n  -webkit-line-clamp: 2;\n  -webkit-box-orient: vertical;\n}\n.note-panel-note-text[data-v-f08e9528] {\n  margin-top: 8px;\n}\n",""]);const i=n},47063:(e,t,a)=>{"use strict";a.r(t),a.d(t,{default:()=>i});var o=a(23645),n=a.n(o)()((function(e){return e[1]}));n.push([e.id,".lm-select-icon[data-v-72789004] {\n  visibility: hidden;\n}\n.lm-view-item[data-v-72789004]:focus {\n  background-color: transparent;\n}\n.lm-view-item:hover .lm-select-icon[data-v-72789004] {\n  visibility: visible;\n}\n",""]);const i=n},35278:(e,t,a)=>{"use strict";a.r(t),a.d(t,{default:()=>i});var o=a(23645),n=a.n(o)()((function(e){return e[1]}));n.push([e.id,".search-panel-sheet-title[data-v-0fb2d3e2] {\n  margin: 20px 0 16px;\n  font-size: 21px;\n  font-weight: 700;\n  line-height: 27px;\n  letter-spacing: 0.21px;\n}\n",""]);const i=n},61610:(e,t,a)=>{"use strict";a.r(t),a.d(t,{default:()=>i});var o=a(23645),n=a.n(o)()((function(e){return e[1]}));n.push([e.id,".color-mode-popover[data-v-4ab154af] {\n  width: 200px;\n}\n.uk-lang-ja-JP .color-mode-popover[data-v-4ab154af] {\n  width: 220px;\n}\n.uk-lang-ru-RU .color-mode-popover[data-v-4ab154af] {\n  width: 230px;\n}\n",""]);const i=n},38536:(e,t,a)=>{"use strict";a.r(t),a.d(t,{default:()=>i});var o=a(23645),n=a.n(o)()((function(e){return e[1]}));n.push([e.id,".zen-mode-bar .zen-mode-show-full-content[data-v-5a840b36] {\n  left: 30px;\n  top: 30px;\n}\n.zen-mode-bar .zen-mode-show-full-content > button[data-v-5a840b36] {\n  padding-left: 12px;\n  padding-right: 12px;\n}\n@keyframes TopBarEnterAnimate-5a840b36 {\n0% {\n    opacity: 1;\n}\n85% {\n    opacity: 1;\n}\n100% {\n    opacity: 0.15;\n}\n}\n.zen-mode-bar .zen-mode-top-bar[data-v-5a840b36] {\n  margin-right: 30px;\n  margin-top: 30px;\n  height: 24px;\n  transition: 0.5s ease;\n  opacity: 0.15;\n  animation: TopBarEnterAnimate-5a840b36 3.5s ease-out;\n}\n.zen-mode-bar .zen-mode-top-bar[data-v-5a840b36]:hover {\n  opacity: 1;\n}\n.zen-mode-bar .zen-mode-left-bar[data-v-5a840b36] {\n  width: 378px;\n  height: calc(100% - 96px);\n  top: 64px;\n  left: 30px;\n}\n.zen-mode-bar .zen-mode-right-bar[data-v-5a840b36] {\n  width: 264px;\n  top: 64px;\n  height: calc(100% - 96px);\n  right: 30px;\n}\n.zen-mode-bar .zen-mode-bottom-bar[data-v-5a840b36] {\n  height: 24px;\n  bottom: 30px;\n  animation: BottomBarResetZIndex-5a840b36 0.5s linear forwards;\n}\n@keyframes BottomBarResetZIndex-5a840b36 {\n0% {\n    z-index: 1;\n}\n99% {\n    z-index: 1;\n}\n100% {\n    z-index: -1;\n}\n}\n.zen-mode-bar .zen-mode-bottom-bar > div[data-v-5a840b36] {\n  opacity: 0;\n  transition: 0.5s ease;\n  transform: translateY(56px);\n}\n.zen-mode-bar .zen-mode-bottom-bar.is-active[data-v-5a840b36],\n.zen-mode-bar .zen-mode-bottom-bar[data-v-5a840b36]:hover {\n  z-index: 1;\n  animation: none;\n}\n.zen-mode-bar .zen-mode-bottom-bar.is-active > div[data-v-5a840b36],\n.zen-mode-bar .zen-mode-bottom-bar:hover > div[data-v-5a840b36] {\n  opacity: 1;\n  transform: translateY(0);\n}\n.slide-fade-right-enter-active[data-v-5a840b36],\n.slide-fade-right-leave-active[data-v-5a840b36] {\n  transition: 0.5s ease;\n}\n.slide-fade-right-enter[data-v-5a840b36],\n.slide-fade-right-leave-to[data-v-5a840b36] {\n  transform: translateX(30px);\n  opacity: 0;\n}\n.slide-fade-left-enter-active[data-v-5a840b36],\n.slide-fade-left-leave-active[data-v-5a840b36] {\n  transition: 0.5s ease;\n}\n.slide-fade-left-enter[data-v-5a840b36],\n.slide-fade-left-leave-to[data-v-5a840b36] {\n  transform: translateX(-30px);\n  opacity: 0;\n}\n.shortcut-list-title[data-v-5a840b36] {\n  margin-bottom: 8px;\n  color: var(--color-text-primary);\n}\n.shortcut-list-item[data-v-5a840b36] {\n  margin-top: 8px;\n  font-size: 13px;\n  font-weight: 400;\n  line-height: 17px;\n  letter-spacing: 0.52px;\n}\n.shortcut-list-item span[data-v-5a840b36]:last-of-type {\n  color: var(--color-text-quaternary);\n}\n",""]);const i=n},47443:(e,t,a)=>{var o=a(42118);e.exports=function(e,t){return!!(null==e?0:e.length)&&o(e,t,0)>-1}},1196:e=>{e.exports=function(e,t,a){for(var o=-1,n=null==e?0:e.length;++o<n;)if(a(t,e[o]))return!0;return!1}},41848:e=>{e.exports=function(e,t,a,o){for(var n=e.length,i=a+(o?1:-1);o?i--:++i<n;)if(t(e[i],i,e))return i;return-1}},42118:(e,t,a)=>{var o=a(41848),n=a(62722),i=a(39375);e.exports=function(e,t,a){return t==t?i(e,t,a):o(e,n,a)}},62722:e=>{e.exports=function(e){return e!=e}},45652:(e,t,a)=>{var o=a(88668),n=a(47443),i=a(1196),l=a(74757),r=a(23593),s=a(21814);e.exports=function(e,t,a){var d=-1,c=n,u=e.length,p=!0,m=[],h=m;if(a)p=!1,c=i;else if(u>=200){var v=t?null:r(e);if(v)return s(v);p=!1,c=l,h=new o}else h=t?[]:m;e:for(;++d<u;){var g=e[d],b=t?t(g):g;if(g=a||0!==g?g:0,p&&b==b){for(var f=h.length;f--;)if(h[f]===b)continue e;t&&h.push(b),m.push(g)}else c(h,b,a)||(h!==m&&h.push(b),m.push(g))}return m}},23593:(e,t,a)=>{var o=a(58525),n=a(50308),i=a(21814),l=o&&1/i(new o([,-0]))[1]==1/0?function(e){return new o(e)}:n;e.exports=l},39375:e=>{e.exports=function(e,t,a){for(var o=a-1,n=e.length;++o<n;)if(e[o]===t)return o;return-1}},50308:e=>{e.exports=function(){}},45578:(e,t,a)=>{var o=a(67206),n=a(45652);e.exports=function(e,t){return e&&e.length?n(e,o(t,2)):[]}},66040:(e,t,a)=>{"use strict";a.d(t,{ed:()=>n,qr:()=>i,ys:()=>l});var o=a(96829);const n=[{commandId:"home",label:(0,o.WZ)("Open Home"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"new",label:(0,o.WZ)("New Blank Map"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"newFromTemplate",label:(0,o.WZ)("New"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"newFromLibrary",label:(0,o.WZ)("New From Library"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"open",label:(0,o.WZ)("Open"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"save",label:(0,o.WZ)("Save"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"saveAs",label:(0,o.WZ)("Save As"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"print",label:(0,o.WZ)("Print"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"closeSimpleWindow",label:(0,o.WZ)("Close Window/Tab"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},null,null,{commandId:"mergeAllWindows",label:(0,o.WZ)("Merge All Windows"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"editor.addSheet",label:(0,o.WZ)("New Sheet"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"editor.newSheetFromTopic",label:(0,o.WZ)("New Sheet From Topic"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"editor.previousSheet",label:(0,o.WZ)("Previous Sheet"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"editor.nextSheet",label:(0,o.WZ)("Next Sheet"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"frame.addNewTab",label:(0,o.WZ)("New Tab"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"frame.previousTab",label:(0,o.WZ)("Previous Tab"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"frame.nextTab",label:(0,o.WZ)("Next Tab"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"undo",label:(0,o.WZ)("Undo"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"redo",label:(0,o.WZ)("Redo"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"cut",label:(0,o.WZ)("Cut"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"copy",label:(0,o.WZ)("Copy"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"paste",label:(0,o.WZ)("Paste"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"duplicate",label:(0,o.WZ)("Duplicate"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"editor.copyStyle",label:(0,o.WZ)("Copy Style"),category:(0,o.WZ)("General")},{commandId:"editor.pasteStyle",label:(0,o.WZ)("Paste Style"),category:(0,o.WZ)("General")},{commandId:"editor.resetStyle",label:(0,o.WZ)("Reset Style"),category:(0,o.WZ)("General")},{commandId:"delete",label:(0,o.WZ)("Delete"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"deleteSingleTopic",label:(0,o.WZ)("Delete Single Topic"),category:(0,o.WZ)("General")},{commandId:"selectAll",label:(0,o.WZ)("Select All"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"workbench.toggleFindAndReplace",label:(0,o.WZ)("Find & Replace"),category:(0,o.WZ)("General"),isSupportedInOutliner:!0},{commandId:"editor.addSubTopic",label:(0,o.WZ)("Subtopic"),category:(0,o.WZ)("Insert Topics & Elements"),fixed:!0},{commandId:"editor.addTopic",label:(0,o.WZ)("Topic After"),category:(0,o.WZ)("Insert Topics & Elements")},{commandId:"editor.addTopicBefore",label:(0,o.WZ)("Topic Before"),category:(0,o.WZ)("Insert Topics & Elements")},{commandId:"editor.addParentTopic",label:(0,o.WZ)("Parent Topic"),category:(0,o.WZ)("Insert Topics & Elements")},{commandId:"editor.addCallout",label:(0,o.WZ)("Callout"),category:(0,o.WZ)("Insert Topics & Elements")},{commandId:"editor.addRelationship",label:(0,o.WZ)("Relationship"),category:(0,o.WZ)("Insert Topics & Elements")},{commandId:"editor.addBoundary",label:(0,o.WZ)("Boundary"),category:(0,o.WZ)("Insert Topics & Elements")},{commandId:"editor.addSummary",label:(0,o.WZ)("Summary"),category:(0,o.WZ)("Insert Topics & Elements")},{commandId:"editor.showNotesEditor",label:(0,o.WZ)("Note"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.showLabelEditor",label:(0,o.WZ)("Label"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.showHyperlinkEditor",getLabel:e=>e("Link(noun)")+" - "+e("Webpage"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.showTopiclinkEditor",getLabel:e=>e("Link(noun)")+" - "+e("Topic Link"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.addFileLink",getLabel:e=>e("Link(noun)")+" - "+e("Local File"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.addFolderLink",getLabel:e=>e("Link(noun)")+" - "+e("Local Folder"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.addAttachmentOnNewTopic",label:(0,o.WZ)("Attachment"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.addAudioOnNewTopic",label:(0,o.WZ)("Audio Note"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"workbench.toggleMarkerPanel",label:(0,o.WZ)("Marker"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"workbench.toggleStickerPanel",label:(0,o.WZ)("Sticker"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"workbench.toggleIllustrationPanel",label:(0,o.WZ)("Illustration"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.addLocalImage",label:(0,o.WZ)("Local Image"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.showEquationEditor",label:(0,o.WZ)("Equation"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.markPriorityByNumber",label:(0,o.WZ)("Mark Priority (1~7)"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.removeMarker",label:(0,o.WZ)("Remove Marker"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.removeStickerOrImageOrEquation",label:(0,o.WZ)("Remove Sticker/Image/Equation"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.removeLabel",label:(0,o.WZ)("Remove Label"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.removeLink",label:(0,o.WZ)("Remove Link"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.removeNote",label:(0,o.WZ)("Remove Note"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.keepTextOnly",label:(0,o.WZ)("Keep Text Only"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.addTodo",label:(0,o.WZ)("Add Task"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.removeTodo",label:(0,o.WZ)("Remove Task"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.checkTodo",label:(0,o.WZ)("Mark as Completed"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.uncheckTodo",label:(0,o.WZ)("Mark as Uncompleted"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.cancelTask",label:(0,o.WZ)("Mark as Canceled"),category:(0,o.WZ)("Insert Topics & Elements"),isSupportedInOutliner:!0},{commandId:"editor.showEditBox",label:(0,o.WZ)("Edit Topic Text"),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.enterLineBreak",label:(0,o.WZ)("Enter Line Break"),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.moveToBeginningOfText",label:(0,o.WZ)("Move to Beginning of Text"),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.moveToEndOfText",label:(0,o.WZ)("Move to End of Text"),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.boldText",label:(0,o.WZ)("Bold"),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.italicText",label:(0,o.WZ)("Italic"),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.strikethroughText",label:(0,o.WZ)("Strikethrough"),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.uppercaseText",label:(0,o.WZ)("Uppercase"),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.lowercaseText",label:(0,o.WZ)("Lowercase"),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.capitalizeText",label:(0,o.WZ)("Capitalize"),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.alignTextLeft",label:(0,o.WZ)("Align Text Left"),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.centerText",label:(0,o.WZ)("Center Text"),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.alignTextRight",label:(0,o.WZ)("Align Text Right"),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.increaseFontSize",label:(0,o.WZ)("Increase Font Size"),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.decreaseFontSize",label:(0,o.WZ)("Decrease Font Size"),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.setStyleAsVeryImportant",label:(0,o.WZ)('Set Style as "Very Important"'),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.setStyleAsImportant",label:(0,o.WZ)('Set Style as "Important"'),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.setStyleAsCrossOut",label:(0,o.WZ)('Set Style as "Cross Out"'),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.setStyleAsDefault",label:(0,o.WZ)('Set Style as "Default"'),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.updateStyleToSameLevelTopics",label:(0,o.WZ)("Update Style to Same-Level Topics"),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.updateStyleToSameTypeTopics",label:(0,o.WZ)("Update Style to Same-Type Topics"),category:(0,o.WZ)("Edit Text & Style")},{commandId:"editor.changeNumberingPatternToNone",label:(0,o.WZ)("Set Numbering as None"),category:(0,o.WZ)("Numbering")},{commandId:"editor.changeNumberingPatternToNumeralArabic",label:(0,o.WZ)('Set Numbering as "1.2.3."'),category:(0,o.WZ)("Numbering")},{commandId:"editor.changeNumberingPatternToAlphabetUppercase",label:(0,o.WZ)('Set Numbering as "A.B.C."'),category:(0,o.WZ)("Numbering")},{commandId:"editor.changeNumberingPatternToAlphabetLowercase",label:(0,o.WZ)('Set Numbering as "a.b.c."'),category:(0,o.WZ)("Numbering")},{commandId:"editor.changeNumberingPatternToNumeralRoman",label:(0,o.WZ)('Set Numbering as "I.II.III."'),category:(0,o.WZ)("Numbering")},{commandId:"editor.toggleNumberingTieredEnabled",label:(0,o.WZ)("Set Numbering Tiered Numbers"),category:(0,o.WZ)("Numbering")},{commandId:"editor.toggleNumberingStartsHereEnabled",label:(0,o.WZ)("Set Numbering Start From Begin"),category:(0,o.WZ)("Numbering")},{commandId:"editor.focusAndSelectCenter",label:(0,o.WZ)("Go to Central Topic"),category:(0,o.WZ)("Select & Move")},{commandId:"editor.moveSelection",label:(0,o.WZ)("Move Selection"),category:(0,o.WZ)("Select & Move")},{commandId:"editor.selectMultipleTopics",label:(0,o.WZ)("Select Multiple Topics"),category:(0,o.WZ)("Select & Move")},{commandId:"editor.exchangeSiblingTopicUp",label:(0,o.WZ)("Move Topic Up"),category:(0,o.WZ)("Select & Move")},{commandId:"editor.exchangeSiblingTopicDown",label:(0,o.WZ)("Move Topic Down"),category:(0,o.WZ)("Select & Move")},{commandId:"editor.moveTopicToTop",label:(0,o.WZ)("Move Topic to Top"),category:(0,o.WZ)("Select & Move")},{commandId:"editor.moveTopicToBottom",label:(0,o.WZ)("Move Topic to Bottom"),category:(0,o.WZ)("Select & Move")},{commandId:"selectAllDescendantTopics",label:(0,o.WZ)("Select All Subtopics"),category:(0,o.WZ)("Select & Move")},{commandId:"selectAllSiblingTopics",label:(0,o.WZ)("Select All Siblings"),category:(0,o.WZ)("Select & Move")},{commandId:"selectAllSameLevelTopics",label:(0,o.WZ)("Select All Same Level Topics"),category:(0,o.WZ)("Select & Move")},{commandId:"selectAllFloatingTopics",label:(0,o.WZ)("Select All Floating Topics"),category:(0,o.WZ)("Select & Move")},{commandId:"selectAllRelationships",label:(0,o.WZ)("Select All Relationships"),category:(0,o.WZ)("Select & Move")},{commandId:"selectAllSummaryTopics",label:(0,o.WZ)("Select All Summaries"),category:(0,o.WZ)("Select & Move")},{commandId:"selectAllBoundaries",label:(0,o.WZ)("Select All Boundaries"),category:(0,o.WZ)("Select & Move")},{commandId:"selectAllImages",label:(0,o.WZ)("Select All Images"),category:(0,o.WZ)("Select & Move")},{commandId:"selectAllEquations",label:(0,o.WZ)("Select All Equations"),category:(0,o.WZ)("Select & Move")},{commandId:"selectAllCalloutTopics",label:(0,o.WZ)("Select All Callouts"),category:(0,o.WZ)("Select & Move")},{commandId:"outliner.addTopic",label:(0,o.WZ)("Create Topic"),category:(0,o.WZ)("Select/Manipulate Topics (Outliner)"),groupName:"outliner"},{commandId:"outliner.deleteTopic",label:(0,o.WZ)("Quick-Delete Topic"),category:(0,o.WZ)("Select/Manipulate Topics (Outliner)"),groupName:"outliner"},{commandId:"outliner.indent",label:(0,o.WZ)("Indent"),category:(0,o.WZ)("Select/Manipulate Topics (Outliner)"),groupName:"outliner"},{commandId:"outliner.outdent",label:(0,o.WZ)("Outdent"),category:(0,o.WZ)("Select/Manipulate Topics (Outliner)"),groupName:"outliner"},{commandId:"outliner.multiSelectionNavigateUp",label:(0,o.WZ)("Multi-Select Topics Above"),category:(0,o.WZ)("Select/Manipulate Topics (Outliner)"),groupName:"outliner"},{commandId:"outliner.multiSelectionNavigateDown",label:(0,o.WZ)("Multi-Select Topics Below"),category:(0,o.WZ)("Select/Manipulate Topics (Outliner)"),groupName:"outliner"},{commandId:"outliner.exchangeSiblingTopicUp",label:(0,o.WZ)("Move Topic Up"),category:(0,o.WZ)("Select/Manipulate Topics (Outliner)"),groupName:"outliner"},{commandId:"outliner.exchangeSiblingTopicDown",label:(0,o.WZ)("Move Topic Down"),category:(0,o.WZ)("Select/Manipulate Topics (Outliner)"),groupName:"outliner"},{commandId:"editor.enterLineBreak",label:(0,o.WZ)("Enter Line Break"),category:(0,o.WZ)("Edit Text (Outliner)"),groupName:"outliner"},{commandId:"outliner.moveCaretCharacterToBeginning",label:(0,o.WZ)("Move to Beginning of Current Topic"),category:(0,o.WZ)("Edit Text (Outliner)"),groupName:"outliner"},{commandId:"outliner.moveCaretCharacterToEnd",label:(0,o.WZ)("Move to End of Current Topic"),category:(0,o.WZ)("Edit Text (Outliner)"),groupName:"outliner"},{commandId:"outliner.moveCaretCharacterToAboveSiblingTopic",label:(0,o.WZ)("Move to Previous Topic of Same Level"),category:(0,o.WZ)("Edit Text (Outliner)"),groupName:"outliner"},{commandId:"outliner.moveCaretCharacterToBelowSiblingTopic",label:(0,o.WZ)("Move to Next Topic of Same Level"),category:(0,o.WZ)("Edit Text (Outliner)"),groupName:"outliner"},{commandId:"workbench.switchToMapOrOutliner",label:(0,o.WZ)("Switch to Map/Outliner"),category:(0,o.WZ)("Adjust Map & View"),isSupportedInOutliner:!0},{commandId:"editor.toggleBranch",label:(0,o.WZ)("Fold/Unfold Subtopics"),category:(0,o.WZ)("Adjust Map & View"),isSupportedInOutliner:!0},{commandId:"editor.toggleBranchByNumber",label:(0,o.WZ)("Fold/Unfold Subtopics (Level 1~9)"),category:(0,o.WZ)("Adjust Map & View"),isSupportedInOutliner:!0},{commandId:"editor.toggleAllBranch",label:(0,o.WZ)("Fold/Unfold Sub-Branches"),category:(0,o.WZ)("Adjust Map & View"),isSupportedInOutliner:!0},{commandId:"editor.toggleBranchOnly",label:(0,o.WZ)("Show Branch Only"),category:(0,o.WZ)("Adjust Map & View"),isSupportedInOutliner:!0},null,{commandId:"editor.zoomIn",label:(0,o.WZ)("Zoom In"),category:(0,o.WZ)("Adjust Map & View"),isSupportedInOutliner:!0},{commandId:"editor.zoomOut",label:(0,o.WZ)("Zoom Out"),category:(0,o.WZ)("Adjust Map & View"),isSupportedInOutliner:!0},{commandId:"editor.resetZoom",label:(0,o.WZ)("Actual Size"),category:(0,o.WZ)("Adjust Map & View"),isSupportedInOutliner:!0},{commandId:"editor.fitMap",label:(0,o.WZ)("Fit Map"),category:(0,o.WZ)("Adjust Map & View")},{commandId:"frame.toggleTabbar",label:(0,o.WZ)("Show Tab Bar"),category:(0,o.WZ)("Adjust Map & View"),isSupportedInOutliner:!0},{commandId:"workbench.toggleTopicNavigationPanel",label:(0,o.WZ)("Show Navigation Panel - Topic"),category:(0,o.WZ)("Adjust Map & View"),isSupportedInOutliner:!0},{commandId:"workbench.toggleNoteNavigationPanel",label:(0,o.WZ)("Show Navigation Panel - Note"),category:(0,o.WZ)("Adjust Map & View")},{commandId:"workbench.toggleLabelAndMarkerNavigationPanel",label:(0,o.WZ)("Show Navigation Panel - Marker & Label"),category:(0,o.WZ)("Adjust Map & View")},{commandId:"workbench.toggleTopicPanel",label:(0,o.WZ)("Show Format Panel - Style"),category:(0,o.WZ)("Adjust Map & View")},{commandId:"workbench.toggleSlidePanel",label:(0,o.WZ)("Show Format Panel - Pitch"),category:(0,o.WZ)("Adjust Map & View")},{commandId:"workbench.toggleMapPanel",label:(0,o.WZ)("Show Format Panel - Map"),category:(0,o.WZ)("Adjust Map & View")},{commandId:"workbench.toggleSkeletonPanel",label:(0,o.WZ)("Show Format Panel - Skeleton"),category:(0,o.WZ)("Adjust Map & View")},{commandId:"workbench.toggleColorThemePanel",label:(0,o.WZ)("Show Format Panel - Color Theme"),category:(0,o.WZ)("Adjust Map & View")},{commandId:"editor.toggleTopicCountLabel",label:(0,o.WZ)("Show Topic Count"),category:(0,o.WZ)("Adjust Map & View"),isSupportedInOutliner:!0},{commandId:"editor.toggleSheetBar",label:(0,o.WZ)("Show Sheet Bar"),category:(0,o.WZ)("Adjust Map & View"),isSupportedInOutliner:!0},{commandId:"editor.toggleShowGuideline",label:(0,o.WZ)("Display/Hide Smart Guideline"),category:(0,o.WZ)("Adjust Map & View")},{commandId:"workbench.exportPng1",label:(0,o.WZ)("Export to PNG"),category:(0,o.WZ)("Export")},{commandId:"workbench.exportJpeg",label:(0,o.WZ)("Export to JPEG"),category:(0,o.WZ)("Export")},{commandId:"workbench.exportSvg1",label:(0,o.WZ)("Export to SVG"),category:(0,o.WZ)("Export")},{commandId:"workbench.exportPdf",label:(0,o.WZ)("Export to PDF"),category:(0,o.WZ)("Export"),isSupportedInOutliner:!0},{commandId:"workbench.exportMd",label:(0,o.WZ)("Export to Markdown"),category:(0,o.WZ)("Export"),isSupportedInOutliner:!0},{commandId:"workbench.exportWord",label:(0,o.WZ)("Export to Word"),category:(0,o.WZ)("Export"),isSupportedInOutliner:!0},{commandId:"workbench.exportExcel",label:(0,o.WZ)("Export to Excel"),category:(0,o.WZ)("Export"),isSupportedInOutliner:!0},{commandId:"workbench.exportOPML",label:(0,o.WZ)("Export to OPML"),category:(0,o.WZ)("Export"),isSupportedInOutliner:!0},{commandId:"workbench.exportTextBundle",label:(0,o.WZ)("Export to TextBundle"),category:(0,o.WZ)("Export"),isSupportedInOutliner:!0},{commandId:"mapShot",label:(0,o.WZ)("Map Shot"),category:(0,o.WZ)("Tools & Others")},{commandId:"mergeXMindFiles",label:(0,o.WZ)("Merge Xmind Files"),category:(0,o.WZ)("Tools & Others"),isSupportedInOutliner:!0},{commandId:"customizeTheme",label:(0,o.WZ)("Create/Customize Theme"),category:(0,o.WZ)("Tools & Others")},{commandId:"createTheme",label:(0,o.WZ)("Create Theme"),category:(0,o.WZ)("Tools & Others")},{commandId:"workbench.toggleZenMode",label:(0,o.WZ)("ZEN Mode"),category:(0,o.WZ)("Tools & Others")},{commandId:"editor.enterPitchMode",label:(0,o.WZ)("Pitch Mode"),category:(0,o.WZ)("Tools & Others")},{commandId:"editor.enterPitchModeWindowed",label:(0,o.WZ)("Pitch Mode - In Window"),category:(0,o.WZ)("Tools & Others")},{commandId:"editor.enterPitchPresenterViewMode",label:(0,o.WZ)("Pitch Mode - Presenter View"),category:(0,o.WZ)("Tools & Others")},{commandId:"keyAssist",label:(0,o.WZ)("Key Assist"),category:(0,o.WZ)("Tools & Others"),isSupportedInOutliner:!0},{commandId:"workbench.setpassword",label:(0,o.WZ)("Set File Password "),category:(0,o.WZ)("Tools & Others"),isSupportedInOutliner:!0},{commandId:"preferences",label:(0,o.WZ)("Preferences"),category:(0,o.WZ)("Tools & Others"),isSupportedInOutliner:!0}].filter(Boolean),i=[{commandId:"pitch.nextStep",label:(0,o.WZ)("Next Step"),category:(0,o.WZ)("Navigation"),accelerator:["Space","||","→","||","↓"]},{commandId:"pitch.previousStep",label:(0,o.WZ)("Previous Step"),category:(0,o.WZ)("Navigation"),accelerator:["←","||","↑"]},{commandId:"pitch.skipCurrentBranch",label:(0,o.WZ)("Skip Current Branch"),category:(0,o.WZ)("Navigation"),accelerator:["Shift","+","→"]},{commandId:"pitch.backParentTopic",label:(0,o.WZ)("Back to Parent Topic"),category:(0,o.WZ)("Navigation"),accelerator:["Shift","+","←"]},{commandId:"pitch.exit",label:(0,o.WZ)("Exit Pitch Mode"),category:(0,o.WZ)("Other"),accelerator:["Esc","||","Q"]},{commandId:"pitch.toggleAnimation",label:(0,o.WZ)("Enable/disable Animation"),category:(0,o.WZ)("Other"),accelerator:["A"]},{commandId:"pitch.showShortcuts",label:(0,o.WZ)("Show Keyboard Shortcuts"),category:(0,o.WZ)("Other"),accelerator:["?"]}],l=["open","saveAs","save","print","closeSimpleWindow","closeAllWindows","frame.addNewTab","frame.previousTab","frame.nextTab","undo","redo","cut","copy","paste","duplicate","delete","selectAll","switchBetweenXMindWindows","workbench.toggleFindAndReplace","editor.showEditBox","editor.boldText","editor.italicText","editor.enterLineBreak","editor.moveToBeginningOfText","editor.moveToEndOfText","editor.addSubTopic","editor.addTopic","editor.markPriorityByNumber","editor.moveSelection","editor.selectMultipleTopics","toggleFullScreen","editor.toggleBranchByNumber"]},53550:(e,t,a)=>{"use strict";a.d(t,{v:()=>u});var o=a(2954),n=a(87141),i=a(54856),l=a(96829),r=a(90435),s=a(84374),d=a(27049),c=a(46016);function u(){const{sheets:e,activeSheetId:t,executeAction:a,executeEditorAction:u,isMapOverviewShowing:p,getSheetViewer:m}=(0,s.nZ)(),{testSheetPasteVisible:h}=(0,s.pk)(),{handleCommand:v}=(0,n.JX)(),g=(0,o.Fl)((()=>e.value.map((e=>({id:e.id,title:e.title})))));return{sheets:e,activeSheetId:t,sheetIdTitleList:g,isMapOverviewShowing:p,switchSheet:async e=>{const a=m(e);(null==a?void 0:a.isInited())&&!(0,c.$)().isOutlinerMode||t.value!==e&&((0,d.E)().updateSheetRendering({sheetRendering:!0,sheetRenderingStartAt:(new Date).getTime()}),await(0,l._v)(100)),u({name:"mutateEditor:switchSheet",inputValue:e})},newSheet:async e=>{await r.ZP.fetch(i.Gy,{name:"action.addSheet",channel:(0,i.gk)(window.editorId)})&&u({name:"mutateEditor:newSheet",inputValue:e})},changeShowMapOverview:e=>u({name:"mutateEditor:changeShowMapOverview",inputValue:e}),changeSheetTitle:(e,t)=>{u({name:"mutateEditor:changeSheetTitle",inputValue:e,payload:{title:t}})},deleteSheet:e=>{u({name:"mutateEditor:deleteSheet",inputValue:e})},testSheetPasteVisible:h,copySheet:(e,t)=>{a({name:"copySheet",payload:{index:e,title:t}})},duplicateSheet:async e=>{await r.ZP.fetch(i.Gy,{name:"action.duplicateSheet",channel:(0,i.gk)(window.editorId)})&&((0,d.E)().updateSheetRendering({sheetRendering:!0,sheetRenderingStartAt:(new Date).getTime()}),await(0,l._v)(100),u({name:"mutateEditor:duplicateSheet",inputValue:e}))},pasteSheet:async t=>{var o;await r.ZP.fetch(i.Gy,{name:"action.duplicateSheet",channel:(0,i.gk)(window.editorId)})&&((0,d.E)().updateSheetRendering({sheetRendering:!0,sheetRenderingStartAt:(new Date).getTime()}),await(0,l._v)(100),a({name:"pasteSheet",payload:{index:t,sheetId:null===(o=e.value[t])||void 0===o?void 0:o.id}}))},saveSheetAs:({sheetIndex:e})=>{v("saveSheetAs",e)}}}},86673:(e,t,a)=>{"use strict";a.d(t,{Z:()=>r});var o=a(2954),n=a(60746),i=a(87141);const l=(0,o.aZ)({__name:"index",props:{typeCls:{default:"vk-tree-list-outliner"},items:{default:()=>[]},type:{default:"checkbox"},modelValue:{default:()=>[]},indent:{default:0},prefix:{default:""},index:null,container:null,highPerformanceMode:{type:Boolean,default:!1},width:{default:268},textWrap:{type:Boolean,default:!1},allowDirectionKey:{type:Boolean,default:!1},isLineDashVisible:{type:Boolean,default:!0}},emits:["click","update:modelValue","toggleitem"],setup(e,{expose:t,emit:a}){const l=e,{T:r}=(0,i.JE)(),s=(0,n.RS)(),d=(e,t)=>s(e,`${t} -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, Roboto, "Helvetica Neue", Arial, sans-serif`),c=(0,o.iH)({}),u=(0,o.iH)(new Set),p=(0,o.iH)({scrollTop:0,clientHeight:100});(0,o.YP)((()=>l.modelValue),((e,t)=>{null!=e&&e!==t&&(u.value=new Set(e))}),{immediate:!0});const m=e=>{const t=e.target;p.value={scrollTop:t.scrollTop,clientHeight:t.clientHeight}},h=(e=l.container)=>{e&&(p.value={scrollTop:e.scrollTop,clientHeight:e.clientHeight})};(0,o.YP)((()=>l.container),(e=>{e&&(e.addEventListener("scroll",m),h(e))}));const v=()=>{h()};(0,o.bv)((()=>{window.addEventListener("resize",v)})),(0,o.dl)((()=>{h()})),(0,o.Jd)((()=>{window.removeEventListener("resize",v),l.container&&l.container.removeEventListener("scroll",m)}));const g=(0,o.Fl)((()=>r("<Empty Text>"))),b=(0,o.Fl)((()=>{const{items:e,indent:t}=l;if(!e||!e.length)return[];const a="$ROOT_VALUE",o=[],n=(e,t,i=[])=>{const l=e.value===a,r=e.unindent||"sheetTitle"===e.slotType?t:t+1;if(l||o.push({value:e.value,current:e,indent:r,parentValues:i.map((e=>e.value))}),e.items)for(let t=0;t<e.items.length;t++){const a=e.items[t],o=i.concat(l?[]:e);n(a,r,o)}};return n({items:e,value:a},t||-1),o.forEach((e=>{const t=4+20*e.indent,a=l.width-(t+4);let o=d(e.current.text,"sheetTitle"===e.current.slotType?"700 21px":e.current.isTitle?"700 15px":"400 14px")+40;if(e.containerWidth=a,e.textWidth=o,e.singleLineWidth=t+4+o,l.textWrap){const t=Math.ceil(o/a);e.allocatedLine=t}else e.allocatedLine=1})),o})),f=(0,o.Fl)((()=>{const{value:e}=b,t=e=>S(e)&&k(e),a={},o={},n={};for(let t=0;t<e.length;t++){const o=e[t];a[o.value]=o}for(let i=0;i<e.length;i++){const l=e[i],r=l.parentValues.join(",");r in n?o[l.value]=n[r]:n[r]=o[l.value]=l.parentValues.every((e=>t(a[e].current)))}return o})),y=(0,o.Fl)((()=>{let e=b.value.filter((e=>!!f.value[e.value]));if(!l.highPerformanceMode)return{items:e,totalHeight:0};let t=0,a=0;return e.forEach((e=>{var o,n;e.currentTop=`${t}px`,e.currentTopNumber=t;let i=10+18*e.allocatedLine;"sheetTitle"===e.current.slotType&&(i=63);const r=[],s=e.textWidth/(null!==(n=null===(o=e.current.text)||void 0===o?void 0:o.length)&&void 0!==n?n:0),d=Math.floor(e.containerWidth/s);if(l.textWrap&&"sheetTitle"!==e.current.slotType)for(let t=0;t<e.allocatedLine;t++)r.push(e.current.text.slice(t*d,(t+1)*d));else a=Math.max(e.singleLineWidth,a),r.push(e.current.text);e.textLines=r,1!==r.length||r[0]||(r[0]=g.value),t+=i})),e=e.filter((e=>!(e.currentTopNumber<p.value.scrollTop-100)&&!(e.currentTopNumber>p.value.scrollTop+p.value.clientHeight+100))),{items:e,totalHeight:t,commonWidth:a}})),k=e=>e.value in c.value?Boolean(c.value[e.value]):Boolean(e.expanded),S=e=>"items"in e&&Array.isArray(e.items)&&e.items.length>0,x=e=>u.value.has(e.value),I=e=>{a("click",e)},T=e=>{c.value={...c.value,[e.value]:!k(e)},a("toggleitem",e.value)},w=async e=>{const t=new Set([e.value]);u.value=t,a("update:modelValue",Array.from(t)),I(e)},Z=async(e,t)=>{t.preventDefault(),t.stopPropagation(),T(e),await(0,o.Y3)(),t.currentTarget.parentNode.focus()},W=e=>{if(!l.allowDirectionKey)return;const t=Array.from(u.value);let a=null;if(t.length){const o=y.value.items.findIndex((e=>e.value===t[0]));a=y.value.items[o+("up"===e?-1:1)]}else y.value.items.find((e=>!e.current.slotType));if(a&&!a.current.slotType){w(a.current);const e=document.querySelector(`button[data-value="${a.value}"]`);e&&e.focus()}};return t({emptyText:g,currentItems:b,visibleItems:f,displayData:y,isItemExpandable:S,isItemExpanded:k,isItemChecked:x,onToggleClick:Z,onClickButton:w,onKeydown:W}),{__sfc:!0,$T:r,getTextWidthFn:s,getTextWidth:d,props:l,emit:a,itemExpansions:c,internalValue:u,scrollInfo:p,containerScrollEventHandler:m,updateScrollInfoByPropsContainer:h,windowResizeHandler:v,emptyText:g,currentItems:b,visibleItems:f,displayData:y,isItemExpanded:k,isItemExpandable:S,getTreeListItemIcon:e=>"sheetTitle"===e.slotType?"":S(e)?k(e)?"arrow-fill-down":"arrow-fill-right":l.isLineDashVisible?"outliner-point":"",isItemChecked:x,emitClick:I,toggleItem:T,onClickButton:w,onToggleClick:Z,onKeydown:W}}});const r=(0,a(51900).Z)(l,(function(){var e=this,t=e._self._c,a=e._self._setupProxy;return t("ul",{staticClass:"uk-tree-list",class:e.typeCls,staticStyle:{position:"relative"},style:{height:e.highPerformanceMode?`${a.displayData.totalHeight}px`:"auto","flex-shrink":0},on:{keydown:[function(t){return!t.type.indexOf("key")&&e._k(t.keyCode,"up",38,t.key,["Up","ArrowUp"])?null:a.onKeydown("up")},function(t){return!t.type.indexOf("key")&&e._k(t.keyCode,"down",40,t.key,["Down","ArrowDown"])?null:a.onKeydown("down")}]}},e._l(a.displayData.items,(function(o){return t("li",{key:o.value,class:{"uk-checked":a.isItemChecked(o.current)},staticStyle:{"min-width":"100%","word-break":"break-all"},style:e.highPerformanceMode?{position:"absolute",top:o.currentTop,width:e.textWrap?"100%":`${a.displayData.commonWidth}px`,"--vk-tree-list-indent":o.indent}:{width:"100%","--vk-tree-list-indent":o.indent}},[e._t(o.current.slotType,(function(){return[t("button",{staticClass:"uk-tree-list-item",class:{"uk-checked":a.isItemChecked(o.current),"uk-focus":a.isItemChecked(o.current),"is-title":o.current.isTitle},attrs:{type:"button","data-value":o.value,"data-indent":o.indent},on:{click:function(e){return a.onClickButton(o.current)}}},[t("div",{staticClass:"uk-flex uk-flex-middle"},[e.highPerformanceMode?e._l(o.textLines,(function(a,o){return t("p",{key:o,staticClass:"uk-text-nowrap uk-margin-remove uk-tree-list-item-text"},[e._v("\n              "+e._s(a)+"\n            ")])})):[t("span",{staticClass:"uk-tree-list-item-text"},[e._v(e._s(o.current.text||a.emptyText))])],e._v(" "),o.current.items&&o.current.items.length?t("span",{staticClass:"uk-tree-list-item-badge"},[e._v(e._s(o.current.items.length))]):e._e()],2)])]}),{data:o.current,checked:a.isItemChecked(o.current),index:e.index,offset:20*o.indent+4,onClick:()=>a.onClickButton(o.current)}),e._v(" "),a.getTreeListItemIcon(o.current)?t("span",{staticClass:"uk-tree-list-toggle",class:{"is-expandable":a.isItemExpandable(o.current)},attrs:{"uk-icon":`icon: ${a.getTreeListItemIcon(o.current)}; ratio: 0.8`},on:{click:function(e){return a.onToggleClick(o.current,e)}}}):e._e(),e._v(" "),e.isLineDashVisible?e._l(Array.from({length:o.indent-1},((e,t)=>t+1)),(function(e){return t("span",{key:e,staticClass:"uk-tree-list-toggle-line-dash",style:{left:12+20*(e-1)+"px"}})})):e._e()],2)})),0)}),[],!1,null,null,null).exports},69991:(e,t,a)=>{"use strict";a.r(t),a.d(t,{default:()=>s});var o=a(2954),n=a(12455),i=a(86026),l=a(81631);const r=(0,o.aZ)({__name:"readwrite-bottom-bar",emits:["work-in-process"],setup(e,{emit:t}){const r=(0,o.RC)((()=>a.e(7272).then(a.bind(a,7272)))),s=(0,o.Fl)((()=>(0,n.A)().aggregatedContexts["editor.inMapShotMode"]));return{__sfc:!0,emit:t,EditorTopicCount:r,isInMapShotMode:s,handleWorkInProcessChange:e=>{t("work-in-process",e)},SheetBar:i.Z,ZoomControl:l.Z}}});a(95127);const s=(0,a(51900).Z)(r,(function(){var e=this,t=e._self._c,a=e._self._setupProxy;return t("div",{staticClass:"uk-flex uk-flex-middle",staticStyle:{height:"28px"}},[t("div",{staticClass:"uk-flex uk-flex-middle uk-flex-between uk-flex-1",staticStyle:{height:"var(--spacing-sheetbar-height)"}},[t("div",{staticClass:"uk-width-expand"},[t(a.SheetBar,{on:{"work-in-process":a.handleWorkInProcessChange}})],1),e._v(" "),t("div",{staticClass:"uk-flex uk-flex-middle"},[a.isInMapShotMode?e._e():t(a.EditorTopicCount),e._v(" "),a.isInMapShotMode?e._e():t("div",{staticClass:"statusbar-divider-vertical"}),e._v(" "),t(a.ZoomControl)],1)])])}),[],!1,null,"86573d84",null).exports},26070:(e,t,a)=>{"use strict";a.r(t),a.d(t,{default:()=>m});var o=a(2954),n=a(12455),i=a(46016),l=a(86026),r=a(81631),s=a(87141);const d=(0,o.aZ)({setup(){const e=(0,i.$)(),t=(e,...t)=>(0,s.JE)().T(e,...t),a=(0,o.Fl)((()=>e.isOutlinerMode)),n=(0,o.Fl)((()=>e.mapshotMode));return{editorModeLabel:(0,o.Fl)((()=>a.value?t("Mind Map"):t("Outliner"))),isMapshotMode:n,handleEditorModeChange:()=>{const e=(0,s.JX)();a.value?e.handleCommand("workbench.mapMode"):e.handleCommand("workbench.outlineMode")}}}});var c=a(51900);const u=(0,c.Z)(d,(function(){var e=this,t=e._self._c;e._self._setupProxy;return t("button",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:no",arg:"no"}],staticClass:"vk-button-tile typography-subhead-mini",staticStyle:{height:"var(--spacing-sheetbar-height)",padding:"0 8px"},attrs:{disabled:e.isMapshotMode},on:{click:e.handleEditorModeChange}},[e._v("\n  "+e._s(e.editorModeLabel)+"\n")])}),[],!1,null,"241224bd",null).exports,p=(0,o.aZ)({__name:"index",emits:["work-in-process"],setup(e,{emit:t}){const s=(0,o.RC)((()=>a.e(7272).then(a.bind(a,7272)))),d=(0,o.RC)((()=>Promise.all([a.e(6486),a.e(2118),a.e(4761),a.e(4559),a.e(8825),a.e(4325)]).then(a.bind(a,64325)))),c=(0,i.$)(),p=(0,o.Fl)((()=>c.isOutlinerMode)),m=(0,o.Fl)((()=>(0,n.A)().aggregatedContexts["editor.inMapShotMode"]));return{__sfc:!0,emit:t,EditorTopicCount:s,OutlinerTopicCount:d,workbenchStore:c,isOutlineMode:p,isInMapShotMode:m,handleWorkInProcessChange:e=>{t("work-in-process",e)},SheetBar:l.Z,ZoomControl:r.Z,EditorMode:u}}});a(23951);const m=(0,c.Z)(p,(function(){var e=this,t=e._self._c,a=e._self._setupProxy;return t("div",{staticClass:"uk-flex uk-flex-middle",staticStyle:{height:"28px"}},[t("div",{staticClass:"uk-flex uk-flex-middle uk-flex-between uk-flex-1",staticStyle:{height:"var(--spacing-sheetbar-height)"}},[t("div",{staticClass:"uk-width-expand"},[t(a.SheetBar,{on:{"work-in-process":a.handleWorkInProcessChange}})],1),e._v(" "),t("div",{staticClass:"uk-flex uk-flex-middle"},[a.isOutlineMode||a.isInMapShotMode?e._e():t(a.EditorTopicCount),e._v(" "),a.isOutlineMode&&!a.isInMapShotMode?t(a.OutlinerTopicCount):e._e(),e._v(" "),a.isInMapShotMode?e._e():t("div",{staticClass:"statusbar-divider-vertical"}),e._v(" "),t(a.ZoomControl),e._v(" "),t("div",{staticClass:"statusbar-divider-vertical"}),e._v(" "),t(a.EditorMode)],1)])])}),[],!1,null,"303bd27c",null).exports},86026:(e,t,a)=>{"use strict";a.d(t,{Z:()=>m});var o=a(2954),n=a(53550),i=a(46016),l=a(12455),r=a(84374);var s=a(80356),d=a(87141),c=a(67657),u=a(81404);const p=(0,o.aZ)({__name:"sheet-bar",emits:["work-in-process"],setup(e,{emit:t}){const a=(0,o.iH)(),p=(0,o.iH)(),m=(0,o.iH)(),h=(0,o.iH)(),{sheets:v,activeSheetId:g,sheetIdTitleList:b,switchSheet:f,newSheet:y,copySheet:k,changeSheetTitle:S,saveSheetAs:x,testSheetPasteVisible:I,pasteSheet:T,duplicateSheet:w,deleteSheet:Z}=(0,n.v)(),{isDragArea:W,sheetsForDragging:C,onDrop:M,onDragEnd:_,onDragOver:E,onDragEnter:O,onDragLeave:A,onDragStart:P}=((e,t,a)=>{const n=(0,o.iH)(),i=(0,o.iH)(""),l=(0,o.iH)(!1),s="application/x-sheetbar-id",{executeEditorAction:d}=(0,r.nZ)();return{isDragArea:l,sheetsForDragging:n,onDragStart:(t,a)=>{const o=t.target;e.value.includes(o)?(t.dataTransfer.effectAllowed="all",t.dataTransfer.setData(s,a),i.value=a):t.preventDefault()},onDragEnter:a=>{const o=a.dataTransfer.types.includes(s);if(!i.value||!o)return;a.preventDefault();const l=e.value.slice().sort(((e,t)=>Number(e.dataset.index)-Number(t.dataset.index)));let r,d=0;for(;d<e.value.length;){let e=-1/0;if(l[d-1]){const t=l[d-1].getBoundingClientRect();e=(t.right+t.left)/2}let t=1/0;if(l[d]){const e=l[d].getBoundingClientRect();t=(e.right+e.left)/2}if(a.clientX>e&&a.clientX<t)break;d++}const c=t.value.filter((e=>e.id!==i.value||(r=e,!1)));c.splice(d,0,{id:i.value,title:r&&r.title}),n.value=c},onDragOver:e=>{i.value&&(e.preventDefault(),l.value=!0,e.dataTransfer.dropEffect="move")},onDrop:e=>{if(e.preventDefault(),l.value=!1,!t.value||!t.value.length)return;const a=e.dataTransfer.getData(s);if(i.value===a&&i.value){const e=n.value.findIndex((e=>e.id===i.value));d({name:"mutateEditor:moveSheetTo",inputValue:i.value,payload:{targetIndex:e}})}},onDragLeave:e=>{if(!i.value)return;const t=document.elementFromPoint(e.clientX,e.clientY);a.value.contains(t)||(l.value=!1)},onDragEnd:()=>{i.value=null}}})(h,b,a),{T:R}=(0,d.JE)(),{zenMode:N}=(0,i.$)(),B=(0,l.A)(),L={observeobser:null,inserted:e=>{L.observeobser=new ResizeObserver((()=>{q(e),J()})),L.observeobser.observe(e)},unbind:e=>{L.observeobser.unobserve(e)}},F=(0,o.iH)(!1),D=(0,o.iH)(!1),$=(0,o.iH)(!1),V=(0,o.iH)(null),H=(0,o.Fl)((()=>N)),z=(0,o.Fl)((()=>null==B?void 0:B.aggregatedContexts["editor.inMapShotMode"])),G=(0,o.Fl)((()=>W.value&&C.value||v.value)),U=(e,a)=>{V.value=e;const n=v.value.findIndex((t=>t.id===e));if(-1===n)return void(V.value=null);const i=h.value[n].clientWidth;t("work-in-process",!0),(0,o.Y3)((function(){m.value[0].value=a,m.value[0].style.width=i+"px",m.value[0].focus(),m.value[0].setSelectionRange(0,a.length)}))},j=e=>{(0,s.C)().checkLocked("mutateEditor:deleteSheet")||Z(e)},J=()=>{(0,o.Y3)((()=>{p.value&&(D.value=0===p.value.scrollLeft,$.value=p.value.scrollLeft+p.value.offsetWidth>=p.value.scrollWidth)}))},q=e=>{if(!e)return!1;F.value=e.scrollWidth>e.offsetWidth};return(0,o.YP)((()=>g.value),(e=>{if(!h.value)return;const t=h.value.find((t=>t.getAttribute("data-sheet-id")===e));t&&t.scrollIntoView({behavior:"smooth",block:"center"})})),{__sfc:!0,emit:t,container:a,sheetBarTab:p,sheetTitleEditor:m,sheetBarTabItems:h,sheets:v,activeSheetId:g,sheetIdTitleList:b,switchSheet:f,newSheet:y,copySheet:k,changeSheetTitle:S,saveSheetAs:x,testSheetPasteVisible:I,pasteSheet:T,duplicateSheet:w,deleteSheet:Z,isDragArea:W,sheetsForDragging:C,onDrop:M,onDragEnd:_,onDragOver:E,onDragEnter:O,onDragLeave:A,onDragStart:P,$T:R,zenMode:N,editorSharedStore:B,vResized:L,isSheetGroupOverflow:F,slideLeftDisable:D,slideRightDisable:$,editingSheetTitleId:V,isZenMode:H,isInMapShotMode:z,currentSheets:G,handleSheetItemClick:e=>f(e),handleAddSheet:()=>y(),showTitleEditor:U,handleSheetDelete:j,openSheetItemContextMenu:(e,t)=>{const a=v.value.findIndex((t=>t.id===e)),o=new c.Menu;[{label:R("Rename"),click:()=>U(e,t)},{type:"separator"},{label:R("Copy"),click:()=>k(a,t)},{label:R("Paste"),visible:I(),click:()=>T(a)},{label:R("Duplicate"),click:()=>w(e)},{label:R("Delete"),enabled:v&&v.value.length>1,click:()=>j(e)},{type:"separator"},{label:R("New Sheet"),click:()=>y(e)},{type:"separator"},{label:R("Save Sheet As")+"...",click:()=>x({sheetIndex:a})}].forEach((e=>o.append(new c.MenuItem(e)))),o.popup({window:(0,c.getCurrentWindow)()})},saveAndHideTitleEditor:e=>{const a=v.value.find((t=>t.id===e)),o=a&&a.id;if(o){const e=m.value[0].value,t=a.title;e&&e!==t&&S(o,e)}V.value=null,t("work-in-process",!1)},slideSheet:e=>{if(!p.value||!h.value)return;let t=0;if("left"===e){const e=p.value.scrollLeft;for(let a of h.value){if(t+a.offsetWidth+1>e)return void(p.value.scrollLeft=t-1);t+=a.offsetWidth+1}}else if("right"===e){const e=p.value.scrollLeft+p.value.offsetWidth;for(let a of h.value)if(t+=a.offsetWidth+1,t>e)return void(p.value.scrollLeft=t-p.value.offsetWidth+1)}},isSheetBarAbleSlide:J,checkSheetGroupOverflow:q,SheetSlideButton:u.Z}}});a(33040);const m=(0,a(51900).Z)(p,(function(){var e=this,t=e._self._c,a=e._self._setupProxy;return a.currentSheets.length>0?t("div",{ref:"container",staticClass:"uk-visible-toggle uk-flex uk-flex-row uk-flex-middle uk-height-1-1 uk-position-relative",style:{visibility:a.isInMapShotMode?"hidden":"visible"},on:{dragover:function(e){return a.onDragOver(e)},dragleave:function(e){return a.onDragLeave(e)},drop:function(e){return a.onDrop(e)},dragenter:function(e){return e.stopPropagation(),a.onDragEnter.apply(null,arguments)}}},[a.isInMapShotMode?t("div",{staticClass:"uk-height-1-1 uk-width-1-1 uk-position-absolute",staticStyle:{"z-index":"2"}}):e._e(),e._v(" "),t("div",{staticClass:"uk-workbench-sheet-bar uk-height-1-1 uk-overflow-hidden",class:[{"uk-invisible-hover":1===a.currentSheets.length&&null===a.editingSheetTitleId&&!a.isZenMode}]},[t("ul",{directives:[{name:"resized",rawName:"v-resized"}],ref:"sheetBarTab",staticClass:"uk-tab vk-tab-capsule uk-overflow-auto uk-scrollbar-hidden",staticStyle:{"flex-wrap":"nowrap"},attrs:{"uk-tab":""},on:{scroll:a.isSheetBarAbleSlide}},e._l(a.currentSheets,(function({id:o,title:n},i){return t("li",{key:o,ref:"sheetBarTabItems",refInFor:!0,class:{"uk-active":a.activeSheetId===o},attrs:{"data-index":i,draggable:null===a.editingSheetTitleId,"data-sheet-id":o},on:{dragstart:function(e){return a.onDragStart(e,o)},dragend:a.onDragEnd}},[t("a",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:no",arg:"no"}],staticClass:"uk-visible-toggle sheetbar-item uk-flex uk-flex-middle",attrs:{draggable:"false"},on:{click:function(e){return a.handleSheetItemClick(o)},dblclick:function(e){return a.showTitleEditor(o,n)},contextmenu:function(e){return a.openSheetItemContextMenu(o,n??"")}}},[a.editingSheetTitleId!==o?t("div",{staticClass:"sheetbar-item-container uk-flex uk-flex-center uk-flex-middle"},[t("span",{staticClass:"uk-text-truncate typography-subhead-mini",staticStyle:{margin:"0 4px 0 20px"}},[e._v(e._s(n||""))]),e._v(" "),t("span",{staticClass:"uk-invisible-hover",staticStyle:{"margin-right":"4px"},attrs:{"uk-icon":"icon: chevron-downward; ratio: 0.6"},on:{click:function(e){return a.openSheetItemContextMenu(o,n||"")}}})]):t("div",{staticClass:"sheetbar-item-container uk-flex uk-flex-row uk-flex-middle"},[t("input",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts",value:["focus.input"],expression:"['focus.input']"}],ref:"sheetTitleEditor",refInFor:!0,staticClass:"uk-input sheet-title-edit-input",staticStyle:{border:"none",width:"100%"},attrs:{type:"text"},on:{keyup:function(t){return!t.type.indexOf("key")&&e._k(t.keyCode,"enter",13,t.key,"Enter")?null:a.saveAndHideTitleEditor(o)},blur:function(e){return a.saveAndHideTitleEditor(o)}}})])])])})),0)]),e._v(" "),t("div",{staticClass:"statusbar-divider-vertical",class:{"uk-invisible-hover":a.currentSheets.length<=1}}),e._v(" "),t("div",{staticClass:"uk-flex uk-flex-row uk-flex-middle uk-height-1-1"},[t(a.SheetSlideButton,{directives:[{name:"show",rawName:"v-show",value:a.isSheetGroupOverflow,expression:"isSheetGroupOverflow"}],attrs:{"slide-left-disable":a.slideLeftDisable,"slide-right-disable":a.slideRightDisable,"slide-left-handler":()=>a.slideSheet("left"),"slide-right-handler":()=>a.slideSheet("right")}}),e._v(" "),t("div",{staticClass:"uk-padding-remove uk-margin-remove",class:[{"uk-invisible-hover":a.currentSheets.length<=1}]},[t("button",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:no",arg:"no"}],staticClass:"vk-button-tile uk-padding-remove",staticStyle:{height:"var(--spacing-sheetbar-height)",width:"var(--spacing-sheetbar-height)"},on:{click:a.handleAddSheet}},[t("span",{attrs:{"uk-icon":"icon: add; ratio: 0.8"}})])])],1)]):e._e()}),[],!1,null,"3fc3929a",null).exports},81404:(e,t,a)=>{"use strict";a.d(t,{Z:()=>n});const o=(0,a(2954).aZ)({__name:"sheet-slide-button",props:{slideLeftDisable:{type:Boolean},slideRightDisable:{type:Boolean},slideRightHandler:null,slideLeftHandler:null},setup:e=>({__sfc:!0})});const n=(0,a(51900).Z)(o,(function(){var e=this,t=e._self._c;e._self._setupProxy;return t("div",{staticClass:"uk-flex uk-flex-row uk-flex-middle uk-height-1-1"},[t("div",{staticClass:"uk-padding-remove uk-margin-remove uk-height-1-1"},[t("button",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:no",arg:"no"}],staticClass:"vk-button-tile uk-padding-remove",staticStyle:{height:"var(--spacing-sheetbar-height)",width:"var(--spacing-sheetbar-height)"},attrs:{disabled:e.slideLeftDisable},on:{click:e.slideLeftHandler}},[t("span",{attrs:{"uk-icon":"icon: chevron-backward; ratio: 0.8"}})])]),e._v(" "),t("div",{staticClass:"uk-padding-remove uk-margin-remove uk-height-1-1"},[t("button",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:no",arg:"no"}],staticClass:"vk-button-tile uk-padding-remove",staticStyle:{height:"var(--spacing-sheetbar-height)",width:"var(--spacing-sheetbar-height)"},attrs:{disabled:e.slideRightDisable},on:{click:e.slideRightHandler}},[t("span",{attrs:{"uk-icon":"icon: chevron-forward; ratio: 0.8"}})])])])}),[],!1,null,null,null).exports},81631:(e,t,a)=>{"use strict";a.d(t,{Z:()=>p});var o=a(2954),n=a(78198),i=a(86842),l=a(27049),r=a(46016),s=a(60746),d=a(67657),c=a(84374);const u=(0,o.aZ)({__name:"zoom-control",setup(e){const{isZoomGroupDisabled:t,handleZoomControlBtnClick:a,zoomControlLabel:u}=(()=>{const{T:e}=(0,i.C)(),{updateOutlinerSheetStatus:t,updateSheetStatus:a,getOutlinerZoomScaleForSheet:u}=(0,l.E)(),{executeEditorAction:p,activeSheetId:m,currentZoomScale:h}=(0,c.nZ)(),v=(0,o.Fl)((()=>(0,l.E)().sheetRendering||(0,r.$)().mapshotMode)),g=(0,o.Fl)((()=>"outliner"===(0,r.$)().editorMode)),b=(0,o.Fl)((()=>g.value?n.ZP.filter((e=>e>=80&&e<=300)):n.ZP)),f=(0,o.Fl)((()=>g.value?u(m.value):100*h.value)),y=(0,o.Fl)((()=>{let e=[...b.value,f.value];return e=Array.from(new Set(e)),e=e.sort(((e,t)=>Number(t)-Number(e))),e.map((e=>({text:(0,s.Ni)(e),value:e})))})),k=(0,o.Fl)((()=>(0,s.Ni)(f.value))),S=({value:e,isFitMap:o})=>{o?p({name:"mutateEditor:fitMap"}):isNaN(e)||(g.value?t({id:m.value,zoomScale:e}):(a({id:m.value,zoomScale:e}),p({name:"mutateEditor:zoomScale",inputValue:Number(e)/100})))};return{zoomValue:f,zoomOptions:y,zoomScaleLists:b,zoomControlLabel:k,isZoomGroupDisabled:v,handleZoomControlBtnClick:()=>{const t=new d.Menu;for(const e of y.value)t.append(new d.MenuItem({label:e.text,type:"checkbox",checked:f.value===e.value,click:async()=>{S({value:Number(e.value),isFitMap:!1})}}));g.value||(t.append(new d.MenuItem({type:"separator"})),t.append(new d.MenuItem({label:e("Fit Map"),type:"checkbox",click:()=>{S({isFitMap:!0})}}))),t.popup({window:(0,d.getCurrentWindow)()})}}})();return{__sfc:!0,isZoomGroupDisabled:t,handleZoomControlBtnClick:a,zoomControlLabel:u}}});const p=(0,a(51900).Z)(u,(function(){var e=this,t=e._self._c,a=e._self._setupProxy;return t("button",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:no",arg:"no"}],staticClass:"vk-button-tile keep-edit-session",staticStyle:{height:"var(--spacing-sheetbar-height)",padding:"0 4px",display:"flex"},attrs:{disabled:a.isZoomGroupDisabled},on:{click:a.handleZoomControlBtnClick}},[t("span",{staticClass:"typography-body-medium",attrs:{title:e.$T("Zoom in/out.")}},[e._v("\n    "+e._s(a.zoomControlLabel)+"\n  ")]),e._v(" "),t("span",{attrs:{"uk-icon":"icon: chevron-downward; ratio: 0.6"}})])}),[],!1,null,"ae6521b2",null).exports},12366:(e,t,a)=>{"use strict";a.r(t),a.d(t,{default:()=>l});var o=a(2954),n=a(87141);const i=(0,o.aZ)({__name:"index",setup:e=>({__sfc:!0,exitBranchOnlyMode:()=>{(0,n.JX)().handleCommand("editor.exitBranchOnly")}})});const l=(0,a(51900).Z)(i,(function(){var e=this,t=e._self._c,a=e._self._setupProxy;return t("div",{staticStyle:{border:"none"}},[t("button",{staticClass:"vk-button-secondary vk-size-small",on:{click:function(e){return e.preventDefault(),a.exitBranchOnlyMode.apply(null,arguments)}}},[t("span",{attrs:{"uk-icon":"icon: arrow-left"}}),e._v(" "),t("span",{staticStyle:{"margin-left":"var(--spacing-margin-xxs)"}},[e._v(e._s(e.$T("Show Full Content")))])])])}),[],!1,null,null,null).exports},32470:(e,t,a)=>{"use strict";a.r(t),a.d(t,{default:()=>z});var o=a(2954),n=a(87141),i=a(46016),l=a(64805),r=a(69931),s=a(89411),d=a(84374),c=a(40623),u=a(77995);const p=e=>{const{T:t}=(0,n.JE)(),{handleCommand:a}=(0,n.JX)(),{activeSheet:l,sheets:r,executeEditorAction:s,executeMutationAction:p,markerModule:k}=(0,d.nZ)(),S=(0,o.Fl)((()=>(0,i.$)().isOutlinerMode)),x=(0,o.iH)(""),I=(0,o.iH)(""),T=(0,o.iH)(e.menuOptions),w=(0,o.iH)("find"),Z=(0,o.iH)([]),W=(0,o.Fl)((()=>Z.value[0])),C=(0,o.Fl)((()=>{const e=x.value;if(e.length<=0)return null;const t=!T.value.isCurrentMapMode,a=t?r.value.map((e=>e.rootTopic)):[l.value.rootTopic],o=t?r.value.map((e=>e.relationships)).reduce(((e,t)=>e.concat(t))):l.value.relationships,{filters:n}=T.value,{wholeWords:i,matchCase:s}=n;return{keyword:e,rootTopics:a,relationships:o,rgx:g(e,i,s,!0)}})),M=(0,o.Fl)((()=>{if(!C.value)return[];const{filters:e}=T.value,{rootTopics:t,relationships:a,rgx:o}=C.value;let n=[];const i={};return t.forEach((t=>{var s,u,p,m,h,g;let f=[];const k=(e,t,a,o,n,i)=>{f.push({isSearchResult:!0,value:t,text:a,title:o,type:e,topicId:n,slotType:"searchItem",sheetId:i})};for(const a of y([t],S.value)){if(e.topic&&(null!==(s=a.title)&&void 0!==s?s:"").match(o)&&k("topic",a.id,a.title,a.title,a.id,a.ownerSheet.id),e.label){let e=[];const t=r.value.find((e=>a.ownerSheet.id===e.id));if(t){const o=null===(u=t.query({id:a.id}))||void 0===u?void 0:u.asTopic();o&&(e=d.HG.getLabels(o))}i[a.id]={labels:e,sheet:t}}if(e.note&&(null===(p=a.notes)||void 0===p?void 0:p.text)&&a.notes.text.match(o)){const e=`note-${a.id}-${a.notes.text}`;k("note",e,a.notes.text,a.title,a.id,a.ownerSheet.id)}if(e.link&&a.href&&b(a.href)&&a.href.match(o)){const e=`link-${a.id}-${a.href}`;k("link",e,a.href,a.title,a.id,a.ownerSheet.id)}if(e.boundary&&(null===(m=a.boundaries)||void 0===m?void 0:m.length)>0)for(const e of a.boundaries)(null===(h=e.title)||void 0===h?void 0:h.match(o))&&k("boundary",e.id,e.title,a.title,a.id,a.ownerSheet.id)}if(e.relationship&&a)for(const e of a)(null===(g=e.title)||void 0===g?void 0:g.match(o))&&t.ownerSheet.id===e.ownerSheet.id&&k("relationship",e.id,e.title,e.title,null,e.ownerSheet.id);e.label&&Object.keys(i).forEach((e=>{var a,n,r,s,d;let u=i[e].labels;const p=i[e].sheet;if(!p)return;if(t.ownerSheet.id!==p.id)return;const m=null===(a=p.query({id:e}))||void 0===a?void 0:a.asTopic();if(!m)return;const h=null===(r=null===(n=m.parentTopic)||void 0===n?void 0:n.parentTopic)||void 0===r?void 0:r.id,v=h?null===(s=l.value.query({id:h}))||void 0===s?void 0:s.asTopic():null;if(!m.extensionProviders.includes(c.vP.SPREADSHEET)&&v&&v.extensionProviders.includes(c.vP.SPREADSHEET)){const e=(null===(d=i[v.id])||void 0===d?void 0:d.labels)||[];u=u.filter((t=>!e.includes(t)))}u.sort().forEach((t=>{if(t&&t.match(o)){k("label",`label-${e}-${t}`,t,m.title,e,m.ownerSheet.id)}}))})),f=v(o,f),T.value.isCurrentMapMode?n=f:f.length&&n.push(((e,t)=>{const a=e.map((e=>({...e,unindent:!0})));return{isSearchResult:!0,value:t.id,text:t.title,type:"topic",topicId:t.rootTopic.id,slotType:"sheetTitle",sheetId:t.id,expanded:!0,items:a}})(f,t.ownerSheet))})),n})),_=(0,o.Fl)((()=>{const{isCurrentMapMode:e}=T.value;if(!r.value.length)return[];const a=(e?[l.value]:r.value).map((e=>{const{rootTopic:a,title:o}=e;return{value:a.id,text:`[${o}]${m(a,t)}`,expanded:!0,items:h(a,(e=>({value:e.id,text:m(e,t),expanded:!0,items:[],sheetId:e.ownerSheet.id,slotType:"topicItem",type:"topic"})),((e,t)=>({...e,items:[...e.items,t]})),S.value).items,sheetId:e.id,type:"topic",slotType:"sheetTitle"}}));return a.map(((e,t)=>a[t].items.map(((e,o)=>{a[t].items[o].isTitle=!0})))),a})),E=(0,o.Fl)((()=>{const{isCurrentMapMode:e}=T.value;if(!r.value.length)return[];return(e?[l.value]:r.value).map((e=>{const{rootTopic:t}=e;return h(t,(e=>{var t,a;return[{expanded:!0,value:e.id,text:null!==(a=null===(t=e.notes)||void 0===t?void 0:t.text)&&void 0!==a?a:"",title:e.title,slotType:"noteItem",sheetId:e.ownerSheet.id,type:"note"}]}),((e,t)=>e.concat(t)),S.value)})).reduce(((e,t)=>e.concat(t))).filter((e=>e.text.length>0))})),O=(0,o.Fl)((()=>{const e=((e,t)=>{const a=new Map;return e.filter((e=>!a.has(e[t])&&a.set(e[t],1)))})(h(l.value.rootTopic,(e=>e.markers.map((t=>{var a;const o=k.getMarkerInfoById(t);return{type:"marker",value:t,text:(null===(a=l.value.markerDescriptionFor(t))||void 0===a?void 0:a.name)||o.name,icon:o.imageSrc,unindent:!0,slotType:"item",sheetId:e.ownerSheet.id}}))),((e,t)=>e.concat(t)),S.value),"value"),a=[];e.length&&a.push({type:"marker",isTitle:!0,text:t("Marker"),value:"$tag-view-marker",expanded:!0,items:e,slotType:"item",sheetId:l.value.id});const o=d.HG.allLabelsFromSheet(l.value).sort().map((e=>({type:"label",value:e,text:e,unindent:!0,slotType:"item",sheetId:l.value.id})));o.length>0&&a.push({type:"label",isTitle:!0,text:t("Label"),value:"$tag-view-label",expanded:!0,items:o,slotType:"item",sheetId:l.value.id});const n=new Map;return h(l.value.rootTopic,(e=>{if(e.taskPresentation){const a={status:1===e.taskProgress?"done":"todo"},o="status:"+("done"===a.status?"checked":"unchecked");n.has(e.id)||n.set(o,{type:"task",value:JSON.stringify(a),text:"done"===a.status?t("Completed"):t("Uncompleted"),icon:"",unindent:!0,slotType:"item",sheetId:e.ownerSheet.id})}}),(()=>{}),S.value),n.size>0&&(a.push({type:"task",isTitle:!0,text:t("Task"),value:"$tag-view-task",expanded:!0,items:Array.from(n.values()),slotType:"item",sheetId:l.value.id}),n.clear()),a})),A=e=>{p({name:"mutate:replaceText",payload:e})},P=e=>{if(!C.value)return;const{rgx:t}=C.value,a=I.value,o=e.filter((e=>"topic"===e.type)).map((e=>({id:e.topicId,type:"topic",sheetId:e.sheetId}))),n=e.filter((e=>"note"===e.type)).map((e=>({id:e.topicId,type:"note",sheetId:e.sheetId}))),i=e.filter((e=>"label"===e.type)).map((e=>({id:`${e.topicId}-${e.value}`,type:"label",sheetId:e.sheetId,topicId:e.topicId,value:e.value}))),l=e.filter((e=>"link"===e.type)).map((e=>({id:e.topicId,type:"link",sheetId:e.sheetId}))),r=e.filter((e=>"boundary"===e.type)).map((e=>({id:e.value,type:"boundary",sheetId:e.sheetId}))),s=e.filter((e=>"relationship"===e.type)).map((e=>({id:e.value,type:"relationship",sheetId:e.sheetId})));A({topics:o,notes:n,labels:i,links:l,boundaries:r,relationships:s,rgx:t,text:a})};return(0,o.YP)((()=>M.value),(e=>{Z.value=Z.value.filter((t=>e.find((e=>{let a=!0;return"topicId"in t&&"topicId"in e&&(a=t.topicId===e.topicId),a&&t.type===e.type&&t.value===e.value}))))}),{immediate:!0}),{mode:w,searchContent:x,replaceContent:I,options:T,searchResult:M,workbookData:_,workbookNotesData:E,workbookTagsData:O,selectedItems:Z,selectedItem:W,selectItem:e=>Z.value=[e],openSearchResultItem:e=>{var t;const o=f(e),n=e.type,l=o?e.topicId:e.value;switch(n){case"topic":S.value?a("editor.selectTopicById",{topicId:l}):p({name:"mutate:selectTopics",payload:{topics:[l],centerOn:!0}});break;case"note":S.value?a("editor.selectTopicById",{topicId:l}):p({name:"mutate:selectTopics",payload:{topics:[l],centerOn:!0}}),setTimeout((()=>{(0,i.$)().setPopoverEditorVisible("notes")}),100);break;case"label":"item"===e.slotType?s({name:"mutateEditor:setHighlightLabels",payload:Z.value.filter((e=>"label"===e.type)).map((e=>e.value))}):(S.value?a("editor.selectTopicById",{topicId:l}):p({name:"mutate:selectTopics",payload:{topics:[l],centerOn:!0}}),setTimeout((()=>{(0,i.$)().setPopoverEditorVisible("label")}),100));break;case"link":S.value?a("editor.selectTopicById",{topicId:l}):p({name:"mutate:selectTopics",payload:{topics:[l],centerOn:!0}}),setTimeout((()=>{(0,u.H)()}),100);break;case"boundary":s({name:"mutateEditor:unfoldTopicAncestors",payload:{topicId:l}}),p({name:"mutate:selectBoundaries",payload:{boundaries:[e.value],centerOn:!0}});break;case"relationship":s({name:"mutateEditor:unfoldTopicAncestors",payload:{topicId:l}}),p({name:"mutate:selectRelationships",payload:{relationships:[e.value],centerOn:!0}});break;case"marker":s({name:"mutateEditor:setHighlightMarkers",payload:Z.value.filter((e=>"marker"===e.type)).map((e=>e.value))});break;case"task":s({name:"mutateEditor:setHighlightTasks",payload:Z.value.filter((e=>"task"===e.type)).map((e=>JSON.parse(e.value)))})}if(!S.value){const{activeSheetViewer:e}=(0,d.nZ)();null===(t=e.value)||void 0===t||t.focus()}},replaceText:A,onReplace:()=>{if(!W.value||!C.value)return;const e=W.value,t=f(e),a=t?e.type:"topic",o=t?["boundary","relationship"].includes(a)?e.value:e.topicId:e.value,n=W.value.sheetId,{rgx:i}=C.value,l=I.value;A({rgx:i,text:l,topics:"topic"===a?[{id:o,type:"topic",sheetId:n}]:[],notes:"note"===a?[{id:o,type:"note",sheetId:n}]:[],labels:"label"===a?[{id:`${o}-${e.value}`,type:"label",sheetId:n,topicId:o,value:e.value}]:[],links:"link"===a?[{id:o,type:"link",sheetId:n}]:[],boundaries:"boundary"===a?[{id:o,type:"boundary",sheetId:n}]:[],relationships:"relationship"===a?[{id:o,type:"relationship",sheetId:n}]:[]})},onReplaceAll:async(e=M.value)=>{const{isCurrentMapMode:t}=T.value;t?P(e):e.reduce((async(e,t)=>(await e,new Promise((e=>{setTimeout((()=>{e(P(t.items||[]))}))})))),Promise.resolve())}}};function m(e,t){return e.imageSource?`[${t("Image")}] ${e.title||""}`:e.title}function h(e,t,a,o){let n=t(e);for(const i of e.children)n=a(n,h(i,t,a,o));for(const i of e.detachedChildren)n=a(n,h(i,t,a,o));if(!o){for(const i of e.summaries.map((e=>e.topic)))n=a(n,h(i,t,a,o));e.callout&&(n=a(n,h(e.callout,t,a,o)))}return n}const v=(e,t)=>t.map((t=>{const a=t.text,o=[],n=a.split(e),i=a.match(e);let l=!1;const r=n.length+i.length;for(let e=0;e<r;e++)l?o.push({text:i.shift(),isHighlight:!0}):o.push({text:n.shift(),isHighlight:!1}),l=!l;return t.highlight=o.filter((e=>!!e.text)),t})),g=(e,t,a,o)=>{if(!e)return;e=(e=>e.replace(/[-\\{}*+?|^$.[\]()#]/g,"\\$&"))(e),t&&(/\B/.test(e.charAt(0))||(e="\\b"+e),/\B/.test(e.charAt(e.length-1))||(e+="\\b"));let n="";return a||(n+="i"),o&&(n+="g"),new RegExp(e,n)},b=e=>e.startsWith("http"),f=e=>!!e.isSearchResult;function*y(e,t){var a,o;for(const n of e){yield n;for(const e of y(n.children,t))yield e;for(const e of y(null!==(a=n.detachedChildren)&&void 0!==a?a:[],t))yield e;if(!t){for(const e of y((null!==(o=n.summaries)&&void 0!==o?o:[]).map((e=>e.topic)),t))yield e;n.callout&&(yield n.callout)}}}var k=a(89019);const S=e=>{const t=(0,n.JE)().T,{activeSheet:a,sheets:l,executeEditorAction:r,executeMutationAction:s,markerModule:p}=(0,d.nZ)(),S=(0,o.iH)(""),x=(0,o.iH)(""),I=(0,o.iH)(e.menuOptions),T=(0,o.iH)("find"),w=(0,o.iH)([]),Z=(0,o.Fl)((()=>w.value[0])),W=(0,o.Fl)((()=>(0,k.c)().editingCollaborationTopics.map((e=>e.id)))),C=(0,o.Fl)((()=>{const e=S.value;if(e.length<=0)return null;const t=!I.value.isCurrentMapMode,o=t?l.value.map((e=>e.rootTopic)):[a.value.rootTopic],n=t?l.value.map((e=>e.relationships)).reduce(((e,t)=>e.concat(t))):a.value.relationships,{filters:i}=I.value,{wholeWords:r,matchCase:s}=i;return{keyword:e,rootTopics:o,relationships:n,rgx:g(e,r,s,!0)}})),M=(0,o.Fl)((()=>{if(!C.value)return[];const{filters:e}=I.value,{rootTopics:t,relationships:o,rgx:n}=C.value;let i=[];const r={};return t.forEach((t=>{var s,u,p,m,h,g;let f=[];const k=(e,t,a,o,n,i)=>{f.push({isSearchResult:!0,value:t,text:a,title:o,type:e,topicId:n,slotType:"searchItem",sheetId:i})};for(const a of y([t],!1))if(!W.value.includes(a.id)){if(e.topic&&(null!==(s=a.title)&&void 0!==s?s:"").match(n)&&k("topic",a.id,a.title,a.title,a.id,a.ownerSheet.id),e.label){let e=[];const t=l.value.find((e=>a.ownerSheet.id===e.id));if(t){const o=null===(u=t.query({id:a.id}))||void 0===u?void 0:u.asTopic();o&&(e=d.HG.getLabels(o))}r[a.id]={labels:e,sheet:t}}if(e.note&&(null===(p=a.notes)||void 0===p?void 0:p.text)&&a.notes.text.match(n)){const e=`note-${a.id}-${a.notes.text}`;k("note",e,a.notes.text,a.title,a.id,a.ownerSheet.id)}if(e.link&&a.href&&b(a.href)&&a.href.match(n)){const e=`link-${a.id}-${a.href}`;k("link",e,a.href,a.title,a.id,a.ownerSheet.id)}if(e.boundary&&(null===(m=a.boundaries)||void 0===m?void 0:m.length)>0)for(const e of a.boundaries)(null===(h=e.title)||void 0===h?void 0:h.match(n))&&k("boundary",e.id,e.title,a.title,a.id,a.ownerSheet.id)}if(e.relationship&&o)for(const e of o)(null===(g=e.title)||void 0===g?void 0:g.match(n))&&t.ownerSheet.id===e.ownerSheet.id&&k("relationship",e.id,e.title,e.title,null,e.ownerSheet.id);e.label&&Object.keys(r).forEach((e=>{var o,i,l,s,d;let u=r[e].labels;const p=r[e].sheet;if(!p)return;if(t.ownerSheet.id!==p.id)return;const m=null===(o=p.query({id:e}))||void 0===o?void 0:o.asTopic();if(!m)return;const h=null===(l=null===(i=m.parentTopic)||void 0===i?void 0:i.parentTopic)||void 0===l?void 0:l.id,v=h?null===(s=a.value.query({id:h}))||void 0===s?void 0:s.asTopic():null;if(!m.extensionProviders.includes(c.vP.SPREADSHEET)&&v&&v.extensionProviders.includes(c.vP.SPREADSHEET)){const e=(null===(d=r[v.id])||void 0===d?void 0:d.labels)||[];u=u.filter((t=>!e.includes(t)))}u.sort().forEach((t=>{if(t&&t.match(n)){k("label",`label-${e}-${t}`,t,m.title,e,m.ownerSheet.id)}}))})),f=v(n,f),I.value.isCurrentMapMode?i=f:f.length&&i.push(((e,t)=>{const a=e.map((e=>({...e,unindent:!0})));return{isSearchResult:!0,value:t.id,text:t.title,type:"topic",topicId:t.rootTopic.id,slotType:"sheetTitle",sheetId:t.id,expanded:!0,items:a}})(f,t.ownerSheet))})),i})),_=(0,o.Fl)((()=>{const{isCurrentMapMode:e}=I.value;if(!l.value.length)return[];const o=(e?[a.value]:l.value).map((e=>{const{rootTopic:a,title:o}=e;return{value:a.id,text:`[${o}]${m(a,t)}`,expanded:!0,items:h(a,(e=>({value:e.id,text:m(e,t),expanded:!0,items:[],sheetId:e.ownerSheet.id,slotType:"topicItem",type:"topic"})),((e,t)=>({...e,items:[...e.items,t]})),!1).items,sheetId:e.id,type:"topic",slotType:"sheetTitle"}}));return o.map(((e,t)=>o[t].items.map(((e,a)=>{o[t].items[a].isTitle=!0})))),o})),E=(0,o.Fl)((()=>{const{isCurrentMapMode:e}=I.value;if(!l.value.length)return[];return(e?[a.value]:l.value).map((e=>{const{rootTopic:t}=e;return h(t,(e=>{var t,a;return[{expanded:!0,value:e.id,text:null!==(a=null===(t=e.notes)||void 0===t?void 0:t.text)&&void 0!==a?a:"",title:e.title,slotType:"noteItem",sheetId:e.ownerSheet.id,type:"note"}]}),((e,t)=>e.concat(t)),!1)})).reduce(((e,t)=>e.concat(t))).filter((e=>e.text.length>0))})),O=(0,o.Fl)((()=>{const e=((e,t)=>{const a=new Map;return e.filter((e=>!a.has(e[t])&&a.set(e[t],1)))})(h(a.value.rootTopic,(e=>e.markers.map((t=>{var o;const n=p.getMarkerInfoById(t);return{type:"marker",value:t,text:(null===(o=a.value.markerDescriptionFor(t))||void 0===o?void 0:o.name)||n.name,icon:n.imageSrc,unindent:!0,slotType:"item",sheetId:e.ownerSheet.id}}))),((e,t)=>e.concat(t)),!1),"value"),o=[];e.length&&o.push({type:"marker",isTitle:!0,text:t("Marker"),value:"$tag-view-marker",expanded:!0,items:e,slotType:"item",sheetId:a.value.id});const n=d.HG.allLabelsFromSheet(a.value).sort().map((e=>({type:"label",value:e,text:e,unindent:!0,slotType:"item",sheetId:a.value.id})));n.length>0&&o.push({type:"label",isTitle:!0,text:t("Label"),value:"$tag-view-label",expanded:!0,items:n,slotType:"item",sheetId:a.value.id});const i=new Map;return h(a.value.rootTopic,(e=>{if(e.taskPresentation){const a={status:1===e.taskProgress?"done":"todo"},o="status:"+("done"===a.status?"checked":"unchecked");i.has(e.id)||i.set(o,{type:"task",value:JSON.stringify(a),text:"done"===a.status?t("Completed"):t("Uncompleted"),icon:"",unindent:!0,slotType:"item",sheetId:e.ownerSheet.id})}}),(()=>{}),!1),i.size>0&&(o.push({type:"task",isTitle:!0,text:t("Task"),value:"$tag-view-task",expanded:!0,items:Array.from(i.values()),slotType:"item",sheetId:a.value.id}),i.clear()),o})),A=e=>{s({name:"mutate:replaceText",payload:e})},P=e=>{if(!C.value)return;const{rgx:t}=C.value,a=x.value,o=e.filter((e=>"topic"===e.type)).map((e=>({id:e.topicId,type:"topic",sheetId:e.sheetId}))),n=e.filter((e=>"note"===e.type)).map((e=>({id:e.topicId,type:"note",sheetId:e.sheetId}))),i=e.filter((e=>"label"===e.type)).map((e=>({id:`${e.topicId}-${e.value}`,type:"label",sheetId:e.sheetId,topicId:e.topicId,value:e.value}))),l=e.filter((e=>"link"===e.type)).map((e=>({id:e.topicId,type:"link",sheetId:e.sheetId}))),r=e.filter((e=>"boundary"===e.type)).map((e=>({id:e.value,type:"boundary",sheetId:e.sheetId}))),s=e.filter((e=>"relationship"===e.type)).map((e=>({id:e.value,type:"relationship",sheetId:e.sheetId})));A({topics:o,notes:n,labels:i,links:l,boundaries:r,relationships:s,rgx:t,text:a})};return(0,o.YP)((()=>M.value),(e=>{w.value=w.value.filter((t=>e.find((e=>{let a=!0;return"topicId"in t&&"topicId"in e&&(a=t.topicId===e.topicId),a&&t.type===e.type&&t.value===e.value}))))}),{immediate:!0}),{mode:T,searchContent:S,replaceContent:x,options:I,searchResult:M,workbookData:_,workbookNotesData:E,workbookTagsData:O,selectedItems:w,selectedItem:Z,selectItem:e=>w.value=[e],openSearchResultItem:e=>{const t=f(e),a=e.type,o=t?e.topicId:e.value;switch(a){case"topic":s({name:"mutate:selectTopics",payload:{topics:[o],centerOn:!0}});break;case"note":s({name:"mutate:selectTopics",payload:{topics:[o],centerOn:!0}}),setTimeout((()=>{(0,i.$)().setPopoverEditorVisible("notes")}),100);break;case"label":"item"===e.slotType?r({name:"mutateEditor:setHighlightLabels",payload:w.value.filter((e=>"label"===e.type)).map((e=>e.value))}):(s({name:"mutate:selectTopics",payload:{topics:[o],centerOn:!0}}),setTimeout((()=>{(0,i.$)().setPopoverEditorVisible("label")}),100));break;case"link":s({name:"mutate:selectTopics",payload:{topics:[o],centerOn:!0}}),setTimeout((()=>{(0,u.H)()}),100);break;case"boundary":r({name:"mutateEditor:unfoldTopicAncestors",payload:{topicId:o}}),s({name:"mutate:selectBoundaries",payload:{boundaries:[e.value],centerOn:!0}});break;case"relationship":r({name:"mutateEditor:unfoldTopicAncestors",payload:{topicId:o}}),s({name:"mutate:selectRelationships",payload:{relationships:[e.value],centerOn:!0}});break;case"marker":r({name:"mutateEditor:setHighlightMarkers",payload:w.value.filter((e=>"marker"===e.type)).map((e=>e.value))});break;case"task":r({name:"mutateEditor:setHighlightTasks",payload:w.value.filter((e=>"task"===e.type)).map((e=>JSON.parse(e.value)))})}},replaceText:A,onReplace:()=>{if(!Z.value||!C.value)return;const e=Z.value,t=f(e),a=t?e.type:"topic",o=t?["boundary","relationship"].includes(a)?e.value:e.topicId:e.value,n=Z.value.sheetId,{rgx:i}=C.value,l=x.value;A({rgx:i,text:l,topics:"topic"===a?[{id:o,type:"topic",sheetId:n}]:[],notes:"note"===a?[{id:o,type:"note",sheetId:n}]:[],labels:"label"===a?[{id:`${o}-${e.value}`,type:"label",sheetId:n,topicId:o,value:e.value}]:[],links:"link"===a?[{id:o,type:"link",sheetId:n}]:[],boundaries:"boundary"===a?[{id:o,type:"boundary",sheetId:n}]:[],relationships:"relationship"===a?[{id:o,type:"relationship",sheetId:n}]:[]})},onReplaceAll:async(e=M.value)=>{const{isCurrentMapMode:t}=I.value;t?P(e):e.reduce((async(e,t)=>(await e,new Promise((e=>{setTimeout((()=>{e(P(t.items||[]))}))})))),Promise.resolve())}}},x={menuOptions:{isReplaceMode:!1,isCurrentMapMode:!0,filters:{topic:!0,label:!0,note:!0,link:!0,boundary:!0,relationship:!0}}},I=(e=x)=>(0,s.FU)().source.startsWith("cloud://")?S(e):p(e);var T=a(3004),w=a(86673),Z=a(67657),W=a(60746);const C=(0,o.aZ)({__name:"toolbar",props:{searchContent:{default:""},replaceContent:{default:""},showFiltersOptions:{type:Boolean,default:!0},showReplaceOptions:{type:Boolean,default:!0},menuOptions:null,searchText:null,replaceText:null,disabledSearch:{type:Boolean,default:!1},disabledReplace:{type:Boolean,default:!0},disabledReplaceAll:{type:Boolean,default:!0},disabledItems:{default:()=>[]}},emits:["update:searchContent","update:replaceContent","update:menuOptions","replace","replaceAll"],setup(e,{emit:t}){const a=e,{T:i}=(0,n.JE)(),{Menu:l}=Z,r=(0,o.iH)(null),s=e=>!a.disabledItems.includes(e),d=(e,o)=>{let n={...a.menuOptions};["isReplaceMode","isCurrentMapMode"].includes(e)?n[e]=o:(n=Object.assign({},a.menuOptions),n.filters=Object.assign({},a.menuOptions.filters),n.filters[e]=o),t("update:menuOptions",n)},c=(e,t)=>{const{filters:o}=a.menuOptions;return{label:t,id:e,click:t=>{d(e,!o[e]),t.checked=!o[e]},type:"checkbox",enabled:s(e),checked:o[e]}};return(0,o.bv)((()=>{var e,t;null===(t=null===(e=r.value)||void 0===e?void 0:e.$el)||void 0===t||t.querySelector("input").focus()})),{__sfc:!0,$T:i,Menu:l,props:a,emit:t,searchInput:r,onUpdateSearchContent:e=>t("update:searchContent",e),onUpdateReplaceContent:e=>t("update:replaceContent",e),onReplace:()=>t("replace",a.replaceContent),onReplaceAll:()=>{t("replaceAll",a.replaceContent)},getMenuOptionEnabled:s,updateMenuOptions:d,getCheckboxMenuOption:c,onToggleConfig:()=>{const{isReplaceMode:e,isCurrentMapMode:t}=a.menuOptions;let o=[{type:"separator"},{label:i("Current Map"),id:"currentMap",click:e=>{d("isCurrentMapMode",!0),e.checked=!0},type:"radio",enabled:s("currentMap"),checked:t},{label:i("Current File"),id:"wholeWorkbook",click:e=>{d("isCurrentMapMode",!1),e.checked=!0},type:"radio",enabled:s("wholeWorkbook"),checked:!t},{type:"separator"},c("wholeWords",i("Whole Words")),c("matchCase",i("Match Case"))];a.showReplaceOptions&&(o=[{label:i("Find"),id:"find",click:e=>{d("isReplaceMode",!1),e.checked=!0},type:"radio",enabled:s("find"),checked:!e},{label:i("Find & Replace").replace(/(&)/g,"$1$1"),id:"replace",click:e=>{d("isReplaceMode",!0),e.checked=!0},type:"radio",enabled:s("replace"),checked:e}].concat(o)),a.showFiltersOptions&&(o=o.concat([{type:"separator"},c("topic",i("Topic")),c("note",i("Note")),c("relationship",i("Relationship")),c("boundary",i("Boundary")),c("label",i("Label")),c("link",i("Link(noun)"))])),l.buildFromTemplate(o).popup({window:Z.getCurrentWindow()})},showInputMenu:W.Sr}}});var M=a(51900);const _=(0,M.Z)(C,(function(){var e=this,t=e._self._c,a=e._self._setupProxy;return t("div",{staticClass:"uk-flex uk-flex-middle uk-flex-between",staticStyle:{margin:"0 20px"}},[t("div",{staticStyle:{width:"306px"}},[t("vk-input",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts",value:["focus.input"],expression:"['focus.input']"}],ref:"searchInput",attrs:{prefix:"search",placeholder:e.searchText||a.$T("Find"),disabled:e.disabledSearch,value:e.searchContent},on:{input:a.onUpdateSearchContent,contextmenu:a.showInputMenu}}),e._v(" "),t("vk-input",{directives:[{name:"show",rawName:"v-show",value:e.menuOptions.isReplaceMode,expression:"menuOptions.isReplaceMode"},{name:"focus-contexts",rawName:"v-focus-contexts",value:["focus.input"],expression:"['focus.input']"}],staticClass:"uk-margin-small-top",attrs:{prefix:"eyedrop",placeholder:e.replaceText||a.$T("Replace"),value:e.replaceContent},on:{input:a.onUpdateReplaceContent}}),e._v(" "),t("div",{directives:[{name:"show",rawName:"v-show",value:e.menuOptions.isReplaceMode,expression:"menuOptions.isReplaceMode"}],staticClass:"uk-margin-small-top uk-flex uk-flex-row uk-flex-right"},[t("button",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:no",arg:"no"}],staticClass:"vk-button-default vk-size-small uk-margin-small-right",attrs:{disabled:e.disabledReplace},on:{click:a.onReplace}},[e._v("\n        "+e._s(a.$T("Replace"))+"\n      ")]),e._v(" "),t("button",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:no",arg:"no"}],staticClass:"vk-button-default vk-size-small",attrs:{disabled:e.disabledReplaceAll},on:{click:a.onReplaceAll}},[e._v("\n        "+e._s(a.$T("Replace All"))+"\n      ")])])],1),e._v(" "),t("button",{staticClass:"vk-button-link-secondary",on:{click:a.onToggleConfig}},[t("span",{attrs:{"uk-icon":"setting"}})])])}),[],!1,null,null,null).exports;var E=a(53775);const O=(0,o.aZ)({__name:"topic-panel",props:{panelWidth:null,sheetRendering:{type:Boolean}},setup(e){const{searchContent:t,replaceContent:a,options:n,searchResult:l,workbookData:r,selectedItem:s,selectItem:d,openSearchResultItem:c,onReplace:u,onReplaceAll:p}=I(),m=(0,o.iH)(),h=(0,o.Fl)((()=>t.value.length>0)),v=(0,o.Fl)((()=>(0,i.$)().isOutlinerMode)),g=(0,o.Fl)((()=>!t.value||(!s.value||!("isSearchResult"in s.value)))),b=(0,o.Fl)((()=>{const{isCurrentMapMode:e}=n.value;if(!t.value)return!0;if(e){if(!l.value||!l.value.length)return!0}else if(l.value.every((e=>{var t;return 0===(null===(t=e.items)||void 0===t?void 0:t.length)})))return!0;return!1})),f=(0,o.Fl)((()=>h.value&&l.value&&l.value[0]&&"sheetTitle"!==l.value[0].slotType?"margin: 24px 0 20px":"margin: 24px 0 0")),y=(0,E.Ds)((e=>{t.value=e}),300);return(0,o.YP)((()=>v.value),(e=>{n.value.filters.relationship=!e,n.value.filters.boundary=!e}),{immediate:!1}),{__sfc:!0,searchContent:t,replaceContent:a,options:n,searchResult:l,workbookData:r,selectedItem:s,selectItem:d,openSearchResultItem:c,onReplace:u,onReplaceAll:p,containerEl:m,isSearchMode:h,isOutlinerMode:v,computedDisabledReplace:g,computedDisabledReplaceALL:b,dividerStyle:f,handleSelect:e=>{d(e),c(e)},handleSearchContentUpdate:y,CommonNonePanel:T.Z,TreeListV2:w.Z,Toolbar:_}}});a(80108);const A=(0,M.Z)(O,(function(){var e=this,t=e._self._c,a=e._self._setupProxy;return t("div",{staticClass:"uk-flex uk-flex-column uk-height-expand uk-panel uk-flex-column",staticStyle:{"padding-right":"1px"}},[t(a.Toolbar,{attrs:{"search-content":a.searchContent,"replace-content":a.replaceContent,"menu-options":a.options,"disabled-search":e.sheetRendering,"disabled-replace":a.computedDisabledReplace,"disabled-replace-all":a.computedDisabledReplaceALL,"disabled-items":a.isOutlinerMode?["relationship","boundary"]:[]},on:{"update:searchContent":a.handleSearchContentUpdate,"update:replaceContent":e=>a.replaceContent=e,"update:menuOptions":e=>a.options=e,replace:function(e){return a.onReplace()},replaceAll:function(e){return a.onReplaceAll()}}}),e._v(" "),t("hr",{staticClass:"vk-divider-on-surface",style:a.dividerStyle}),e._v(" "),a.isSearchMode&&0===a.searchResult.length?t(a.CommonNonePanel,{attrs:{type:"NO_RESULT","section-style":"margin-top: -30px;"}}):t("div",{ref:"containerEl",staticClass:"uk-height-expand uk-panel uk-overflow-auto uk-flex uk-flex-column",class:{"uk-disabled":!1},staticStyle:{width:"100%",padding:"0 20px"},style:{zIndex:0,opacity:1}},[t("keep-alive",[t(a.TreeListV2,{attrs:{items:a.isSearchMode?a.searchResult:a.workbookData,"high-performance-mode":!0,container:a.containerEl,"model-value":a.selectedItem?[a.selectedItem.value]:[],width:e.panelWidth,"is-line-dash-visible":!a.isSearchMode,"allow-direction-key":"",type:"radio"},on:{click:a.handleSelect},scopedSlots:e._u([{key:"sheetTitle",fn:function({data:a}){return[t("div",{staticClass:"search-panel-sheet-title"},[e._v("\n            "+e._s(a.text)+"\n          ")])]}},{key:"searchItem",fn:function({data:a,onClick:o,checked:n}){return[t("button",{staticClass:"uk-tree-list-item uk-width-1-1 uk-position-relative",class:{"uk-checked":n,"uk-focus":n},style:{"padding-left":16+("topic"!==a.type?18:0)+"px"},on:{click:o}},["topic"!==a.type?t("img",{staticClass:"uk-icon uk-position-absolute",class:{"uk-checked":n},staticStyle:{top:"7px",left:"16px",opacity:"0.7"},attrs:{"uk-svg":"","data-src":e.$toResourceURL(`static/images/search-panel-icon/${a.type}.svg`),draggable:"false"}}):e._e(),e._v(" "),a.highlight?t("p",{staticClass:"uk-margin-remove",staticStyle:{"line-height":"1.4em"}},e._l(a.highlight,(function({text:a,isHighlight:o},n){return t("span",{key:n,class:{"uk-tree-list-highlight":o}},[e._v(e._s(a))])})),0):t("p",{staticClass:"uk-margin-remove"},[e._v(e._s(a.text))])])]}}])})],1)],1)],1)}),[],!1,null,"0fb2d3e2",null).exports;const P=(0,o.aZ)({__name:"note-panel",props:{highlightParam:{default:null},sheetRendering:{type:Boolean}},setup(e){const t=e,{T:a}=(0,n.JE)(),{searchContent:i,searchResult:l,replaceContent:r,workbookNotesData:s,options:d,selectedItem:c,selectItem:u,onReplace:p,onReplaceAll:m,openSearchResultItem:h}=I({menuOptions:{filters:{note:!0}}});(0,o.YP)((()=>t.highlightParam),(e=>{(0,o.Y3)((()=>{u({value:e.topicId,text:void 0,sheetId:void 0,type:void 0})}))}),{immediate:!0});const v=(0,o.Fl)((()=>a("<Empty Text>"))),g=(0,o.Fl)((()=>{const{isCurrentMapMode:e}=d.value,t=[];return e?t.push(...l.value):l.value.forEach((e=>{t.push(...e.items)})),t.filter((e=>"note"===e.type)).map((e=>({...e,type:"note",slotType:"noteItem"})))})),b=(0,o.Fl)((()=>i.value.length>0)),f=(0,o.Fl)((()=>!i.value||(!c.value||!("isSearchResult"in c.value)))),y=(0,o.Fl)((()=>{const{isCurrentMapMode:e}=d.value;if(!i.value)return!0;if(e){if(!l.value||!l.value.length)return!0}else if(l.value.every((e=>{var t;return 0===(null===(t=e.items)||void 0===t?void 0:t.length)})))return!0;return!1}));return{__sfc:!0,$T:a,props:t,searchContent:i,searchResult:l,replaceContent:r,workbookNotesData:s,options:d,selectedItem:c,selectItem:u,onReplace:p,onReplaceAll:m,openSearchResultItem:h,emptyText:v,noteSearchResult:g,isSearchMode:b,handleSelect:e=>{u(e),h(e)},computedDisabledReplace:f,computedDisabledReplaceALL:y,CommonNonePanel:T.Z,TreeListV2:w.Z,Toolbar:_}}});a(98085);const R=(0,M.Z)(P,(function(){var e=this,t=e._self._c,a=e._self._setupProxy;return t("div",{staticClass:"uk-height-expand uk-panel uk-flex uk-flex-column"},[t(a.Toolbar,{attrs:{"search-content":a.searchContent,"replace-content":a.replaceContent,"menu-options":a.options,"disabled-search":e.sheetRendering,"disabled-replace":a.computedDisabledReplace,"disabled-replace-all":a.computedDisabledReplaceALL,"search-text":a.$T("Search notes"),"show-filters-options":!1},on:{"update:searchContent":e=>a.searchContent=e,"update:replaceContent":e=>a.replaceContent=e,"update:menuOptions":e=>a.options=e,replace:function(e){return a.onReplace()},replaceAll:function(e){return a.onReplaceAll()}}}),e._v(" "),t("hr",{staticClass:"vk-divider-on-surface",staticStyle:{margin:"var(--spacing-margin-l) 0 var(--spacing-margin-m)"}}),e._v(" "),(a.isSearchMode?0===a.noteSearchResult.length:0===a.workbookNotesData.length)?t(a.CommonNonePanel,{attrs:{type:a.isSearchMode?"NO_RESULT":"NO_NOTE","section-style":"margin-top: -30px;"}}):t("div",{staticClass:"uk-height-expand uk-panel uk-overflow-auto uk-flex uk-flex-column",class:{"uk-disabled":e.sheetRendering},staticStyle:{width:"100%"},style:{zIndex:0,opacity:e.sheetRendering?.3:1}},[t(a.TreeListV2,{attrs:{items:a.isSearchMode?a.noteSearchResult:a.workbookNotesData,"is-line-dash-visible":!1,"model-value":a.selectedItem?[a.selectedItem.value]:[]},on:{"!click":function(e){return a.handleSelect.apply(null,arguments)}},scopedSlots:e._u([{key:"sheetTitle",fn:function({data:a,offset:o}){return[t("hr",{staticClass:"uk-separator"}),e._v(" "),t("button",{staticClass:"uk-tree-list-item uk-tree-list-solid-background",style:{"padding-left":o+"px"}},[e._v("\n          "+e._s(a.text)+"\n        ")]),e._v(" "),t("hr",{staticClass:"uk-separator"})]}},{key:"noteItem",fn:function({data:o,checked:n,onClick:i}){return[t("button",{staticClass:"uk-tree-list-item",class:{"uk-checked":n,"uk-focus":n},staticStyle:{padding:"16px","overflow-wrap":"break-word"},attrs:{name:o.value},on:{click:i}},[t("div",{staticClass:"typography-subhead-small"},[e._v("\n            "+e._s(o.title||a.emptyText)+"\n          ")]),e._v(" "),t("div",{staticClass:"note-panel-note-text typography-body-large uk-text-line-clamp"},[a.isSearchMode&&o.highlight?t("p",{staticClass:"uk-margin-remove"},e._l(o.highlight,(function({text:a,isHighlight:o},n){return t("span",{key:n,class:{"uk-tree-list-highlight":o}},[e._v(e._s(a))])})),0):t("p",{staticClass:"uk-margin-remove"},[e._v("\n              "+e._s(o.text||a.emptyText)+"\n            ")])])]),e._v(" "),t("hr",{staticClass:"uk-separator",staticStyle:{padding:"0 16px"}})]}}])})],1)],1)}),[],!1,null,"f08e9528",null).exports;var N=a(45578),B=a.n(N),L=a(90435),F=a(54856),D=a(20993);const $=(0,o.aZ)({__name:"tag-panel",props:{highlightParam:{default:null},sheetRendering:{type:Boolean}},setup(e){const t=e,{workbookTagsData:a,selectedItem:n,selectedItems:i,openSearchResultItem:l,selectItem:r}=I();(0,o.YP)((()=>t.highlightParam),(e=>{(0,o.Y3)((()=>{const t={value:void 0,text:void 0,sheetId:void 0,type:void 0};e.selectedLabel?(t.value=e.selectedLabel,t.type="label"):e.markerId?(t.value=e.markerId,t.type="marker"):e.taskInfo&&(t.value=JSON.stringify(e.taskInfo),t.type="task"),r(t)}))}),{immediate:!0});const s=e=>i.value.find((t=>t.value===e.value)),d=e=>{const t=a.value.find((t=>t.type===e));return!!t&&i.value.filter((t=>t.type===e)).length===t.items.length};return{__sfc:!0,props:t,workbookTagsData:a,selectedItem:n,selectedItems:i,openSearchResultItem:l,selectItem:r,handleSelect:async e=>{if(await L.ZP.fetch(F.Gy,{name:"action.topicFilter",channel:(0,F.gk)(window.editorId)})){if("task"===e.type)try{const t=JSON.parse(e.value);(0,D.kI)("done"===t.status?"highlightCheckedTask":"highlightUncheckedTask")}catch(e){}e.isTitle?d(e.type)?i.value=i.value.filter((t=>t.type!==e.type)):i.value=B()([...i.value,...e.items],"value"):s(e)?i.value=i.value.filter((t=>t.value!==e.value)):i.value=B()([...i.value,e],"value"),l(e)}},isItemChecked:s,isTitleChecked:d,CommonNonePanel:T.Z,TreeListV2:w.Z}}});a(71887);const V=(0,M.Z)($,(function(){var e=this,t=e._self._c,a=e._self._setupProxy;return t("div",{staticClass:"uk-height-expand uk-panel uk-flex uk-flex-column"},[t("hr",{staticClass:"vk-divider-on-surface",staticStyle:{margin:"12px 0 var(--spacing-margin-m)"}}),e._v(" "),0===a.workbookTagsData.length?t(a.CommonNonePanel,{attrs:{type:"NO_TAG","section-style":"margin-top: -30px;"}}):t("div",{staticClass:"uk-height-expand uk-panel uk-overflow-auto uk-flex uk-flex-column",class:{"uk-disabled":e.sheetRendering},staticStyle:{width:"100%",padding:"0 20px"},style:{zIndex:0,opacity:e.sheetRendering?.3:1}},[t(a.TreeListV2,{attrs:{items:a.workbookTagsData,"model-value":a.selectedItem?[a.selectedItem.value]:[],"is-line-dash-visible":!1},scopedSlots:e._u([{key:"item",fn:function({data:o}){return[t("button",{staticClass:"uk-tree-list-item lm-view-item",class:{"is-title":o.isTitle},attrs:{"lm-checked":!0,name:o.value,"data-indent":o.indent},on:{click:()=>a.handleSelect(o)}},["marker"!==o.type||o.isTitle?e._e():t("img",{staticStyle:{width:"16px",height:"16px","vertical-align":"middle"},attrs:{draggable:"false","uk-img":"",src:o.icon}}),e._v(" "),t("span",{staticClass:"uk-tree-list-item-text"},[e._v(e._s(o.text))]),e._v(" "),t("div",{staticClass:"lm-select-icon uk-float-right",style:(o.isTitle?a.isTitleChecked(o.type):a.isItemChecked(o))?"visibility: visible !important;":""},[t("div",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:no",arg:"no"}],staticClass:"uk-filter uk-display-inline-block",class:{"uk-checked":o.isTitle?a.isTitleChecked(o.type):a.isItemChecked(o)},attrs:{src:(o.isTitle?a.isTitleChecked(o.type):a.isItemChecked(o))?e.$toResourceURL("/static/images/navigation-panel/sun-fill.svg"):e.$toResourceURL("/static/images/navigation-panel/sun.svg"),"uk-svg":""}})])])]}}])})],1)],1)}),[],!1,null,"72789004",null).exports,H=(0,o.aZ)({__name:"index",props:{panelWidth:{default:378}},setup(e){const t=(e,...t)=>(0,n.JE)().T(e,...t),{updateSearchPanel:a,updateSearchPanelHighlightItem:s}=(0,i.$)(),c=(0,o.Fl)((()=>(0,n.S)().appearance)),u=(0,o.Fl)((()=>"dark"===c.value?(0,r.ju)("static/assets/images/close-btn-dark.svg"):(0,r.ju)("static/assets/images/close-btn-light.svg"))),p=(0,o.Fl)((()=>(0,i.$)().searchPanelTab)),m=(0,o.Fl)((()=>(0,i.$)().searchPanelHighlightParam)),h=(0,o.Fl)((()=>(0,i.$)().isOutlinerMode)),v=(0,o.Fl)((()=>l.JK.map((e=>({...e,label:t("$$",e.label),tooltip:t("$$",e.tooltip)}))))),g=(0,o.Fl)((()=>{switch(p.value){case l.It.TOPIC:return A;case l.It.NOTE:return R;case l.It.TAG:return V}})),b=e=>{a({tab:e})},f=()=>{s({});const{executeEditorAction:e}=(0,d.nZ)();e({name:"mutateEditor:setHighlightLabels",payload:[]}),e({name:"mutateEditor:setHighlightMarkers",payload:[]}),e({name:"mutateEditor:setHighlightTasks",payload:[]})};(0,o.YP)((()=>(0,i.$)().searchPanelTab),((e,t)=>{t===l.It.TAG&&e!==l.It.TAG&&f()}));return(0,o.YP)((()=>(0,i.$)().isOutlinerMode),(e=>{e&&b(l.It.TOPIC)})),{__sfc:!0,$T:t,updateSearchPanel:a,updateSearchPanelHighlightItem:s,appearance:c,closeIcon:u,searchPanelTab:p,searchPanelHighlightParam:m,isOutlinerMode:h,searchPanelTabs:v,searchPanelTabComponent:g,switchSearchPanelTab:b,handleLeaveTagPanel:f,handleSearchPanelClose:()=>{a({visible:!1}),f()}}}});const z=(0,M.Z)(H,(function(){var e=this,t=e._self._c,a=e._self._setupProxy;return t("div",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:group",value:["focus.searchPanel"],expression:"['focus.searchPanel']",arg:"group"}],staticClass:"uk-flex uk-flex-column uk-height-1-1 uk-panel uk-position-left uk-format-panel vk-scrollbar",style:`width: ${e.panelWidth}px`},[t("div",{staticClass:"uk-flex uk-flex-between uk-flex-middle",staticStyle:{margin:"0 20px 12px"}},[t("div",{staticStyle:{height:"40px"}},[a.isOutlinerMode?e._e():t("ul",{staticClass:"uk-tab vk-tab-indicator",attrs:{"uk-tab":""}},e._l(a.searchPanelTabs,(function(o){return t("li",{key:o.key,class:{"uk-active":o.key===a.searchPanelTab},on:{click:function(e){return a.switchSearchPanelTab(o.key)}}},[t("a",{attrs:{href:"#",title:o.tooltip,draggable:"false"}},[e._v("\n            "+e._s(o.label)+"\n          ")])])})),0)]),e._v(" "),t("img",{staticStyle:{position:"absolute",right:"16px",top:"16px"},attrs:{draggable:"false",src:a.closeIcon},on:{click:a.handleSearchPanelClose}})]),e._v(" "),t("keep-alive",[t(a.searchPanelTabComponent,{tag:"component",attrs:{"panel-width":e.panelWidth,"highlight-param":a.searchPanelHighlightParam}})],1)],1)}),[],!1,null,"6d5b14ba",null).exports},90715:(e,t,a)=>{"use strict";a.r(t),a.d(t,{default:()=>B});var o=a(2954),n=a(77282),i=a(53775),l=a(63111),r=a(87141),s=a(96829),d=a(64805),c=a(46016),u=a(27049),p=a(84374),m=a(19741),h=a(89411),v=a(89019),g=a(18621),b=a(69297),f=a(66040),y=a(60746),k=a(3004),S=a(5361),x=a(32470),I=a(26070),T=a(69991),w=a(12366),Z=a(7836),W=a(69931),C=a(38629),M=a(2563),_=a(12455),E=a(54856),O=a(90435);const A=(0,o.aZ)({__name:"color-mode",emits:["is-original-change"],setup(e,{emit:t}){const a=(0,r.JE)().T,{activeSheetId:n,activeSheetViewerAppearance:i,activeSheetViewerOriginalAppearance:d,getSheetViewer:m}=(0,p.nZ)(),{setZenModeNightMode:h}=(0,c.$)(),{updateIgnoreAppearance:v}=(0,M.O)(),{updateSheetRendering:b}=(0,u.E)(),f={},y=(0,o.Fl)((()=>i.value||d.value)),k=(0,o.Fl)((()=>"dark"===(0,r.S)().appearance)),S=(0,o.Fl)((()=>(0,W.ju)(k.value?"static/assets/images/pro/pro-small-with-no-border-dark.svg":"static/assets/images/pro/pro-small-with-no-border.svg"))),x=(0,o.Fl)((()=>[{value:p.QS.Light,label:a("Light"),icon:"sun",trialRequest:"action.switchZenModeColor"},{value:p.QS.Dark,label:a("Dark"),icon:"moon",trialRequest:"action.switchZenModeColor"},{value:p.QS.UltraLight,label:a("Ultra Light"),icon:"sun",trialRequest:"action.switchZenModeColor"},{value:p.QS.UltraDark,label:a("Ultra Dark"),icon:"moon",trialRequest:"action.switchZenModeColor"}])),I=e=>[p.QS.Dark,p.QS.UltraDark].includes(e),T=e=>{const t=I(e);(0,C.Z)(t?"dark":"default")},w=e=>{(0,g.L9)({eventAction:"swithAppearance",eventName:{light:"Light",dark:"Dark","ultra-light":"UltraLight","ultra-dark":"UltraDark"}[e]})},A=(0,o.Fl)((()=>{const{activeSheet:e,allTopicsWithin:t}=(0,p.nZ)();return e.value?Array.from(t([e.value.rootTopic])).length:0})),P=(0,o.Fl)((()=>(0,_.A)().contexts["activation.isValid"]));return(0,o.YP)((()=>y.value),(async e=>{if(!e)return;const{updateSheetRendering:a,sheetRenderingStartAt:o,sheetRendering:n}=(0,u.E)();if(n&&o){const e=(new Date).getTime()-o;e<l.oY&&await(0,s._v)(l.oY-e),a({sheetRendering:!1,sheetRenderingStartAt:null})}T(e),t("is-original-change",e===d.value);const i=I(e);h(!i)}),{immediate:!0}),(0,o.bv)((()=>{v(!0)})),(0,o.Jd)((()=>{Object.entries(f).forEach((([e,t])=>{const a=m(e);a&&a.setSheetAppearance(t)})),v(!1),h(!1)})),{__sfc:!0,emit:t,$T:a,activeSheetId:n,activeSheetViewerAppearance:i,activeSheetViewerOriginalAppearance:d,getSheetViewer:m,setZenModeNightMode:h,updateIgnoreAppearance:v,updateSheetRendering:b,resetAppearanceMap:f,displayedColorMode:y,isDarkMode:k,proIcon:S,colorModeItems:x,isDarkTheme:I,changeAppearanceByColorMode:T,trackSwithAppearance:w,topicCount:A,handleColorModeChange:async(e,t)=>{if(d.value!==e&&t){if(!await O.ZP.fetch(E.Gy,{name:t,channel:(0,E.gk)(window.editorId)}))return}A.value>=l.pD&&b({sheetRendering:!0,sheetRenderingStartAt:(new Date).getTime()}),n.value in f||(f[n.value]=i.value);m(n.value).setSheetAppearance(e===d.value?null:e),w(e)},isActivationValid:P,Vue2Teleport:Z.Z}}});a(19305);var P=a(51900);const R=(0,P.Z)(A,(function(){var e=this,t=e._self._c,a=e._self._setupProxy;return t("li",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:group",value:["focus.popover"],expression:"['focus.popover']",arg:"group"}],attrs:{title:a.$T("Switch appearance.")}},[t("label",[t("input",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:no",arg:"no"}],attrs:{type:"radio",name:"left-bar"}}),e._v(" "),t("span",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:no",arg:"no"}],staticClass:"vk-segment-button",attrs:{id:"change-color-mode-btn","uk-icon":"icon: progress-half"}})]),e._v(" "),t(a.Vue2Teleport,{attrs:{to:"#popover-container-for-editor"}},[t("div",{ref:"popover",staticClass:"color-mode-popover",attrs:{"uk-popover":"","data-target":"#change-color-mode-btn","data-toggle":"#change-color-mode-btn",tabindex:"-1","data-sel-close":"[uk-menu] > li > button"}},[t("ul",{attrs:{"uk-menu":""}},e._l(a.colorModeItems,(function(o){return t("li",{key:o.value},[t("button",{staticClass:"uk-flex-between",staticStyle:{"padding-left":"4px","padding-right":"4px"},on:{click:function(e){return a.handleColorModeChange(o.value,o.trialRequest)}}},[t("div",{staticClass:"uk-flex uk-flex-middle"},[t("span",{style:{visibility:a.displayedColorMode===o.value?"visible":"hidden"},attrs:{"uk-icon":"check"}}),e._v(" "),t("span",{staticStyle:{"margin-left":"8px"}},[e._v("\n                "+e._s(o.label)+"\n              ")]),e._v(" "),a.activeSheetViewerOriginalAppearance===o.value?t("span",{staticStyle:{"margin-left":"4px"}},[e._v("\n                "+e._s(a.$T("(Original)"))+"\n              ")]):e._e(),e._v(" "),a.activeSheetViewerOriginalAppearance!==o.value&&o.trialRequest&&!a.isActivationValid?t("img",{staticStyle:{"margin-left":"8px",height:"14px"},attrs:{src:a.proIcon}}):e._e()]),e._v(" "),t("span",{attrs:{"uk-icon":o.icon}})])])})),0)])])],1)}),[],!1,null,"4ab154af",null).exports,N=(0,o.aZ)({__name:"index",setup(e){const t={..."darwin"===n.platform?{Command:"⌘",Shift:"⇧",Ctrl:"⌃",Alt:"⌥",Option:"⌥"}:{Meta:"Meta",Shift:"Shift",Ctrl:"Ctrl",Alt:"Alt",Option:"Alt"}},a={},Z=(0,r.JE)().T,W=(0,m.y)(),C=(0,c.$)(),{updateSheetStatus:M}=(0,u.E)(),{selection:_,isInBranchOnly:E,activeSheet:O,activeSheetViewerState:A,getSheetViewer:P,executeAction:N}=(0,p.nZ)(),B=(0,o.iH)(null),L=(0,o.iH)(`popover_${(0,s.hb)()}`),F=(0,o.iH)(`popover_${(0,s.hb)()}`),D=(0,o.iH)(-1),$=(0,o.iH)(0),V=(0,o.iH)(""),H=(0,o.iH)(!0),z=(0,o.iH)(null),G=(0,o.iH)(!1),U=(0,o.iH)(!1),j=(0,o.Fl)((()=>(0,h.FU)().source.startsWith("cloud://"))),J=(0,o.Fl)((()=>(0,v.c)().connectionMode)),q=(0,o.Fl)((()=>C.isRightbarVisible)),Y=(0,o.Fl)((()=>C.isSearchPanelVisible)),Q=(0,o.Fl)((()=>C.rightBarPanel)),X=(0,o.Fl)((()=>B.value===d.QN.FORMAT&&!H.value)),K=(0,o.Fl)((()=>E.value)),ee=(0,o.Fl)((()=>C.zenModeNightMode)),te=(0,o.Fl)((()=>[{panel:d.QN.IMAGE,tooltip:Z("Add a marker to selected topics."),icon:"marker",commandId:"workbench.toggleMarkerPanel"},{panel:d.QN.FORMAT,tooltip:Z("Show or hide style and format options."),icon:"right-panel",commandId:"workbench.toggleRightPanel"}])),ae=(0,o.Fl)((()=>[["editor.addTopic","editor.addSubTopic","editor.addRelationship","editor.addSummary","editor.addBoundary"],["editor.showHyperlinkEditor","editor.showTopiclinkEditor","vana_mas"!==n.env.VANA_RELEASE_ENV?"editor.addFileLink":null,"vana_mas"!==n.env.VANA_RELEASE_ENV?"editor.addFolderLink":null,"editor.showNotesEditor","editor.showLabelEditor","editor.addLocalImage","editor.addAudioOnNewTopic"],["editor.zoomIn","editor.zoomOut","editor.resetZoom","editor.focusAndSelectCenter"]].map((e=>e.filter(Boolean).map((e=>{const t=f.ed.find((t=>t&&t.commandId===e));if(t)return{...t,label:t.getLabel?t.getLabel(Z):Z("$$",t.label),accelerator:(0,r.f7)().keybindingByCommandId(t.commandId)}})).filter(Boolean))).filter((e=>e.length)))),oe=(0,o.Fl)((()=>{const e=(Y.value?264:0)+30+8;return{width:`calc(100% - ${e+((q.value?264:0)+30+8)}px)`,left:`${e}px`}})),ne=()=>{(0,r.JX)().handleCommand("workbench.toggleZenMode")},ie=()=>{const e=(0,b.N1)()[new Date((new Date).setHours(0,0,0,0)).getTime()];return(null==e?void 0:e.dwellTimeInZenMode)||0};let le=null;const re=e=>("0"+e).slice(-2),se=e=>{let t=Math.floor(e/1e3),a=Math.floor(t/60);t%=60;let o=Math.floor(a/60);return a%=60,`${re(o)}:${re(a)}:${re(t)}`},de=()=>{ce();const e=new Date;D.value=e.getTime(),$.value=e.getDate();const t=ie();V.value=se(t),le||(le=setInterval((()=>{(0,b.Do)();const e=(new Date).getTime()-D.value+t;V.value=se(e)}),1e3))},ce=()=>{le&&(clearInterval(le),le=null)},ue=()=>{if(D.value<0)return;let e=new Date,t=$.value==e.getDate()?e.getTime()-D.value:0;(0,g.L9)({eventCategory:"ZenMode",eventAction:"durationZenMode",eventValue:t}),D.value=-1},pe=()=>{ce(),ue()},me=()=>{de()};let he=null;const ve=(0,i.Ds)((e=>{if(!z.value||!e)return;const t=z.value.getBoundingClientRect(),a=t.left,o=t.top-17.5,n=t.height+35,i=t.width,l=e.pageX,r=e.pageY,s=a<l&&a+i>l,d=o<r&&o+n>r;G.value=s&&d}),100),ge=()=>{W.registerCommands([{id:"editor.copyStyle",provider:`editor/${window.editorId}/mindmap`,enabledFn:()=>!0,handler:()=>{ee.value&&N({name:"copyStyle"})}},{id:"editor.pasteStyle",provider:`editor/${window.editorId}/mindmap`,enabledFn:()=>!0,handler:()=>{ee.value&&N({name:"pasteStyle"})}},{id:"editor.resetStyle",provider:`editor/${window.editorId}/mindmap`,enabledFn:()=>!0,handler:()=>{ee.value&&N({name:"mutate:resetStyle"})}},{id:"workbench.outlineMode",provider:`editor/${window.editorId}`,handler:()=>{ne(),setTimeout((()=>{C.setEditorMode(l.Pq)}))}}])},be=()=>{W.unregisterCommands([{id:"editor.copyStyle",provider:`editor/${window.editorId}/mindmap`},{id:"editor.pasteStyle",provider:`editor/${window.editorId}/mindmap`},{id:"editor.resetStyle",provider:`editor/${window.editorId}/mindmap`},{id:"workbench.outlineMode",provider:`editor/${window.editorId}`}])};return(0,o.bv)((()=>{ge(),window.addEventListener("blur",pe),window.addEventListener("focus",me),window.addEventListener("mousemove",ve),de()})),(0,o.Jd)((()=>{be(),window.removeEventListener("blur",pe),window.removeEventListener("focus",me),window.removeEventListener("mousemove",ve),D.value>0&&(ce(),ue()),he&&window.clearTimeout(he),Object.keys(a).forEach((e=>{const t=P(e);if(!t)return;const o=a[e];M({id:e,zoomScale:100*o}),t.changeZoomScale(o)}))})),(0,o.YP)((()=>Q.value),(e=>{e===d.QN.IMAGE&&(B.value=d.QN.IMAGE),[d.QN.FORMAT,d.QN.THEME].includes(e)&&(B.value=d.QN.FORMAT)})),(0,o.YP)((()=>{var e;return null===(e=A.value)||void 0===e?void 0:e.zoomScale}),(e=>{var t;const o=null===(t=O.value)||void 0===t?void 0:t.id;if(!o||a[o])return;a[o]=e;const n=P(o);M({id:o,zoomScale:150}),n.changeZoomScale(1.5)}),{immediate:!0}),{__sfc:!0,AcceleratorSymbols:t,resetZoomMap:a,$T:Z,appStore:W,workbenchStore:C,updateSheetStatus:M,selection:_,isInBranchOnly:E,activeSheet:O,activeSheetViewerState:A,getSheetViewer:P,executeAction:N,activatedPanel:B,shortcutPopoverId:L,zenModeTimerPopoverId:F,startTime:D,startDate:$,timerString:V,isZenOriginalColorMode:H,bottomBarRef:z,isHoveringOnBottomBar:G,isBottomBarWorkInProcess:U,isFromCloud:j,connectionMode:J,isRightbarVisible:q,isSearchPanelVisible:Y,rightBarPanel:Q,isRightNonePanelVisible:X,isBranchOnlyMode:K,isZenModeNightMode:ee,panelItems:te,shortcutGroups:ae,bottomBarStyles:oe,exitZenMode:ne,toAcceleratorSymbol:e=>{const a=e.split("+").map((e=>t[e]||e)),o={Control:!1,undefined:!1};return a.filter((e=>void 0===o[e])).join(" ").replace("=","+")},openShortcutsDialog:()=>{(0,r.JX)().handleCommand("preferences",{query:{tab:"shortcuts"}})},switchRightPanel:e=>{let t=!1;if(t=B.value!==e||!q.value,e===d.QN.IMAGE)return C.updateRightBarPanel({panel:d.QN.IMAGE,tab:d.ll.MARKER,visible:t}),void(B.value=d.QN.IMAGE);_.value.isMulti?C.updateRightBarPanel({panel:d.QN.FORMAT,tab:d.zZ.TOPIC,visible:t}):C.updateRightBarPanel({panel:d.QN.THEME,tab:d.x9.MAP,visible:t}),B.value=d.QN.FORMAT},getDwellTimeInZenMode:ie,timer:le,formatNumberWithTwoDigit:re,toTimerString:se,startTimer:de,stopTimer:ce,storeTimer:ue,handleBlur:pe,handleFocus:me,bottomBarTimer:he,bottomBarHoveringDetect:ve,handleBottomBarWorkStatusChange:e=>{const t=U.value&&!e;null!==he&&(e||t)&&(clearTimeout(he),he=null),t?he=setTimeout((()=>{U.value=e,he=null}),3e3):U.value=e},registerCommands:ge,unregisterCommands:be,wrappedTooltipWithKeybinding:y.RL,CommonNonePanel:k.Z,FormatPanel:S.default,SearchPanel:x.default,BottomBar:I.default,ReadwriteBottomBar:T.default,BranchOnlyBar:w.default,ColorMode:R}}});a(5577);const B=(0,P.Z)(N,(function(){var e=this,t=e._self._c,a=e._self._setupProxy;return t("div",{staticClass:"uk-position-relative zen-mode-bar"},[t("div",{staticClass:"zen-mode-top-bar uk-position-absolute uk-position-right uk-flex uk-flex-row uk-flex-right",staticStyle:{"-webkit-app-region":"no-drag"}},[t("ul",{staticClass:"vk-segment-button-group uk-margin-small-right"},[t("li",{attrs:{title:a.$T("Exit ZEN Mode.")}},[t("label",[t("input",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:no",arg:"no"}],attrs:{type:"radio",name:"left-bar"}}),e._v(" "),t("span",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:no",arg:"no"}],staticClass:"vk-segment-button",attrs:{"uk-icon":"signout"},on:{click:a.exitZenMode}})])]),e._v(" "),t("li",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:group",value:["focus.popover"],expression:"['focus.popover']",arg:"group"}],attrs:{title:a.$T("View common shortcuts.")}},[t("label",[t("input",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:no",arg:"no"}],attrs:{type:"radio",name:"left-bar"}}),e._v(" "),t("span",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:no",arg:"no"}],staticClass:"vk-segment-button",attrs:{id:a.shortcutPopoverId,"uk-icon":"keyboard"}})])]),e._v(" "),t("li",{attrs:{title:a.$T("Show or hide timer.")}},[t("label",[t("input",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:no",arg:"no"}],attrs:{type:"radio",name:"left-bar"}}),e._v(" "),t("span",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:no",arg:"no"}],staticClass:"vk-segment-button",attrs:{id:a.zenModeTimerPopoverId,"uk-icon":"recent"}})])]),e._v(" "),t(a.ColorMode,{on:{"is-original-change":e=>a.isZenOriginalColorMode=e}})],1),e._v(" "),t("ul",{staticClass:"vk-segment-button-group"},e._l(a.panelItems,(function(o){return t("li",{key:o.panel,class:{"uk-active":a.isRightbarVisible&&a.activatedPanel===o.panel},attrs:{title:a.wrappedTooltipWithKeybinding(o.tooltip,o.commandId)}},[t("label",[t("input",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:no",arg:"no"}],attrs:{type:"radio",name:"right-bar"},domProps:{checked:a.isRightbarVisible&&a.activatedPanel===o.panel}}),e._v(" "),t("span",{staticClass:"vk-segment-button",attrs:{"uk-icon":o.icon},on:{click:function(e){return a.switchRightPanel(o.panel)}}})])])})),0)]),e._v(" "),t("div",{staticStyle:{width:"264px","max-height":"600px",outline:"none"},attrs:{"uk-popover":"","data-toggle":"#"+a.shortcutPopoverId,tabindex:"-1"}},[t("div",{staticClass:"uk-flex uk-flex-column uk-flex-left",staticStyle:{padding:"20px",outline:"none"},attrs:{autofocus:"",tabindex:"-1"}},[t("h2",{staticClass:"shortcut-list-title typography-headline-small"},[e._v("\n        "+e._s(a.$T("Shortcut List"))+"\n      ")]),e._v(" "),e._l(a.shortcutGroups,(function(o,n){return[e._l(o,(function(o){return[o.accelerator?t("div",{key:o.commandId,staticClass:"uk-flex uk-flex-between uk-width-1-1 shortcut-list-item"},[t("span",{staticClass:"typography-body-medium"},[e._v(e._s(o.label))]),e._v(" "),t("span",[e._v(e._s(a.toAcceleratorSymbol(o.accelerator)))])]):e._e()]})),e._v(" "),a.shortcutGroups.length-1!==n?t("hr",{key:n,staticClass:"vk-divider-on-surface",staticStyle:{margin:"12px 0 4px"}}):e._e()]})),e._v(" "),t("button",{directives:[{name:"focus-contexts",rawName:"v-focus-contexts:no",arg:"no"}],staticClass:"vk-button-default vk-size-small uk-width-1-1",staticStyle:{"margin-top":"16px"},on:{click:a.openShortcutsDialog}},[e._v("\n        "+e._s(a.$T("Customize Shortcut"))+"\n      ")])],2)]),e._v(" "),t("div",{staticStyle:{width:"194px",outline:"none"},attrs:{"uk-popover":"","data-toggle":"#"+a.zenModeTimerPopoverId,tabindex:"-1"}},[t("div",{staticClass:"uk-padding uk-flex uk-flex-column uk-flex-left"},[t("span",{staticClass:"uk-text-muted uk-text-bold",staticStyle:{"font-size":"16px"}},[e._v("\n        "+e._s(a.$T("Today in ZEN"))+"\n      ")]),e._v(" "),t("span",{staticClass:"uk-margin-xsmall-top",staticStyle:{"line-height":"1","font-size":"20px"}},[e._v("\n        "+e._s(a.timerString)+"\n      ")])])]),e._v(" "),t("transition",{attrs:{name:"slide-fade-right"}},[a.isRightbarVisible?t("div",{staticClass:"zen-mode-right-bar uk-position-fixed"},[t("keep-alive",[a.isRightNonePanelVisible?t("div",{staticClass:"uk-format-panel uk-box-shadow-floating uk-border-rounded uk-background-default uk-height-1-1 uk-flex uk-flex-middle uk-flex-column uk-flex-center"},[t(a.CommonNonePanel,{attrs:{type:"BULB"}})],1):t(a.FormatPanel,{staticClass:"uk-box-shadow-floating uk-border-rounded uk-background-default uk-overflow-hidden",staticStyle:{width:"268px","user-select":"none"}})],1)],1):e._e()]),e._v(" "),t("transition",{attrs:{name:"slide-fade-left"}},[a.isSearchPanelVisible?t("div",{staticClass:"zen-mode-left-bar uk-position-fixed uk-height-1-1 uk-box-shadow-floating uk-border-rounded uk-background-default"},[t(a.SearchPanel)],1):e._e()]),e._v(" "),t("div",{ref:"bottomBarRef",staticClass:"zen-mode-bottom-bar uk-position-fixed uk-flex uk-flex-middle",class:{"is-active":a.isBottomBarWorkInProcess||a.isHoveringOnBottomBar},style:a.bottomBarStyles},[a.isFromCloud&&"readwrite"===a.connectionMode?t(a.ReadwriteBottomBar,{staticClass:"uk-width-1-1 uk-box-shadow-floating uk-border-rounded uk-background-default uk-height-1-1",on:{"work-in-process":a.handleBottomBarWorkStatusChange}}):t(a.BottomBar,{staticClass:"uk-width-1-1 uk-box-shadow-floating uk-border-rounded uk-background-default uk-height-1-1",on:{"work-in-process":a.handleBottomBarWorkStatusChange}})],1),e._v(" "),a.isBranchOnlyMode?t("div",{staticClass:"zen-mode-show-full-content uk-position-fixed"},[t(a.BranchOnlyBar)],1):e._e()],1)}),[],!1,null,"5a840b36",null).exports},95127:(e,t,a)=>{var o=a(15070);o.__esModule&&(o=o.default),"string"==typeof o&&(o=[[e.id,o,""]]),o.locals&&(e.exports=o.locals);(0,a(45346).Z)("6ab5417e",o,!0,{})},23951:(e,t,a)=>{var o=a(85901);o.__esModule&&(o=o.default),"string"==typeof o&&(o=[[e.id,o,""]]),o.locals&&(e.exports=o.locals);(0,a(45346).Z)("013874c3",o,!0,{})},33040:(e,t,a)=>{var o=a(23834);o.__esModule&&(o=o.default),"string"==typeof o&&(o=[[e.id,o,""]]),o.locals&&(e.exports=o.locals);(0,a(45346).Z)("3415697e",o,!0,{})},98085:(e,t,a)=>{var o=a(4143);o.__esModule&&(o=o.default),"string"==typeof o&&(o=[[e.id,o,""]]),o.locals&&(e.exports=o.locals);(0,a(45346).Z)("8e95c344",o,!0,{})},71887:(e,t,a)=>{var o=a(47063);o.__esModule&&(o=o.default),"string"==typeof o&&(o=[[e.id,o,""]]),o.locals&&(e.exports=o.locals);(0,a(45346).Z)("d7dc4abc",o,!0,{})},80108:(e,t,a)=>{var o=a(35278);o.__esModule&&(o=o.default),"string"==typeof o&&(o=[[e.id,o,""]]),o.locals&&(e.exports=o.locals);(0,a(45346).Z)("588e7da6",o,!0,{})},19305:(e,t,a)=>{var o=a(61610);o.__esModule&&(o=o.default),"string"==typeof o&&(o=[[e.id,o,""]]),o.locals&&(e.exports=o.locals);(0,a(45346).Z)("b633742a",o,!0,{})},5577:(e,t,a)=>{var o=a(38536);o.__esModule&&(o=o.default),"string"==typeof o&&(o=[[e.id,o,""]]),o.locals&&(e.exports=o.locals);(0,a(45346).Z)("6d80eabc",o,!0,{})}}]);
+(global.webpackChunkxmind_vana = global.webpackChunkxmind_vana || []).push([
+  [715, 6070, 9991, 2366],
+  {
+    15070: (e, t, a) => {
+      "use strict";
+      a.r(t), a.d(t, { default: () => i });
+      var o = a(23645),
+        n = a.n(o)()(function (e) {
+          return e[1];
+        });
+      n.push([
+        e.id,
+        ".statusbar-divider-vertical[data-v-86573d84] {\n  margin: 0 8px;\n  width: 1px;\n  height: 11px;\n  background: var(--color-sheetbar-divider);\n}\n",
+        "",
+      ]);
+      const i = n;
+    },
+    85901: (e, t, a) => {
+      "use strict";
+      a.r(t), a.d(t, { default: () => i });
+      var o = a(23645),
+        n = a.n(o)()(function (e) {
+          return e[1];
+        });
+      n.push([
+        e.id,
+        ".statusbar-divider-vertical[data-v-303bd27c] {\n  margin: 0 8px;\n  width: 1px;\n  height: 11px;\n  background: var(--color-sheetbar-divider);\n}\n",
+        "",
+      ]);
+      const i = n;
+    },
+    23834: (e, t, a) => {
+      "use strict";
+      a.r(t), a.d(t, { default: () => i });
+      var o = a(23645),
+        n = a.n(o)()(function (e) {
+          return e[1];
+        });
+      n.push([
+        e.id,
+        ".statusbar-divider-vertical[data-v-3fc3929a] {\n  margin: 0 8px;\n  width: 1px;\n  height: 11px;\n  background: var(--color-sheetbar-divider);\n}\n.sheetbar-item[data-v-3fc3929a] {\n  line-height: 20px;\n  padding: 0;\n  overflow: hidden;\n}\n.sheetbar-item-container[data-v-3fc3929a] {\n  min-width: 24px;\n  max-width: 220px;\n}\n.sheet-title-edit-input[data-v-3fc3929a] {\n  height: 20px;\n  background: transparent !important;\n  box-shadow: none !important;\n}\n",
+        "",
+      ]);
+      const i = n;
+    },
+    4143: (e, t, a) => {
+      "use strict";
+      a.r(t), a.d(t, { default: () => i });
+      var o = a(23645),
+        n = a.n(o)()(function (e) {
+          return e[1];
+        });
+      n.push([
+        e.id,
+        ".uk-text-line-clamp[data-v-f08e9528] {\n  display: -webkit-box;\n  overflow: hidden;\n  -webkit-line-clamp: 2;\n  -webkit-box-orient: vertical;\n}\n.note-panel-note-text[data-v-f08e9528] {\n  margin-top: 8px;\n}\n",
+        "",
+      ]);
+      const i = n;
+    },
+    47063: (e, t, a) => {
+      "use strict";
+      a.r(t), a.d(t, { default: () => i });
+      var o = a(23645),
+        n = a.n(o)()(function (e) {
+          return e[1];
+        });
+      n.push([
+        e.id,
+        ".lm-select-icon[data-v-72789004] {\n  visibility: hidden;\n}\n.lm-view-item[data-v-72789004]:focus {\n  background-color: transparent;\n}\n.lm-view-item:hover .lm-select-icon[data-v-72789004] {\n  visibility: visible;\n}\n",
+        "",
+      ]);
+      const i = n;
+    },
+    35278: (e, t, a) => {
+      "use strict";
+      a.r(t), a.d(t, { default: () => i });
+      var o = a(23645),
+        n = a.n(o)()(function (e) {
+          return e[1];
+        });
+      n.push([
+        e.id,
+        ".search-panel-sheet-title[data-v-0fb2d3e2] {\n  margin: 20px 0 16px;\n  font-size: 21px;\n  font-weight: 700;\n  line-height: 27px;\n  letter-spacing: 0.21px;\n}\n",
+        "",
+      ]);
+      const i = n;
+    },
+    61610: (e, t, a) => {
+      "use strict";
+      a.r(t), a.d(t, { default: () => i });
+      var o = a(23645),
+        n = a.n(o)()(function (e) {
+          return e[1];
+        });
+      n.push([
+        e.id,
+        ".color-mode-popover[data-v-4ab154af] {\n  width: 200px;\n}\n.uk-lang-ja-JP .color-mode-popover[data-v-4ab154af] {\n  width: 220px;\n}\n.uk-lang-ru-RU .color-mode-popover[data-v-4ab154af] {\n  width: 230px;\n}\n",
+        "",
+      ]);
+      const i = n;
+    },
+    38536: (e, t, a) => {
+      "use strict";
+      a.r(t), a.d(t, { default: () => i });
+      var o = a(23645),
+        n = a.n(o)()(function (e) {
+          return e[1];
+        });
+      n.push([
+        e.id,
+        ".zen-mode-bar .zen-mode-show-full-content[data-v-5a840b36] {\n  left: 30px;\n  top: 30px;\n}\n.zen-mode-bar .zen-mode-show-full-content > button[data-v-5a840b36] {\n  padding-left: 12px;\n  padding-right: 12px;\n}\n@keyframes TopBarEnterAnimate-5a840b36 {\n0% {\n    opacity: 1;\n}\n85% {\n    opacity: 1;\n}\n100% {\n    opacity: 0.15;\n}\n}\n.zen-mode-bar .zen-mode-top-bar[data-v-5a840b36] {\n  margin-right: 30px;\n  margin-top: 30px;\n  height: 24px;\n  transition: 0.5s ease;\n  opacity: 0.15;\n  animation: TopBarEnterAnimate-5a840b36 3.5s ease-out;\n}\n.zen-mode-bar .zen-mode-top-bar[data-v-5a840b36]:hover {\n  opacity: 1;\n}\n.zen-mode-bar .zen-mode-left-bar[data-v-5a840b36] {\n  width: 378px;\n  height: calc(100% - 96px);\n  top: 64px;\n  left: 30px;\n}\n.zen-mode-bar .zen-mode-right-bar[data-v-5a840b36] {\n  width: 264px;\n  top: 64px;\n  height: calc(100% - 96px);\n  right: 30px;\n}\n.zen-mode-bar .zen-mode-bottom-bar[data-v-5a840b36] {\n  height: 24px;\n  bottom: 30px;\n  animation: BottomBarResetZIndex-5a840b36 0.5s linear forwards;\n}\n@keyframes BottomBarResetZIndex-5a840b36 {\n0% {\n    z-index: 1;\n}\n99% {\n    z-index: 1;\n}\n100% {\n    z-index: -1;\n}\n}\n.zen-mode-bar .zen-mode-bottom-bar > div[data-v-5a840b36] {\n  opacity: 0;\n  transition: 0.5s ease;\n  transform: translateY(56px);\n}\n.zen-mode-bar .zen-mode-bottom-bar.is-active[data-v-5a840b36],\n.zen-mode-bar .zen-mode-bottom-bar[data-v-5a840b36]:hover {\n  z-index: 1;\n  animation: none;\n}\n.zen-mode-bar .zen-mode-bottom-bar.is-active > div[data-v-5a840b36],\n.zen-mode-bar .zen-mode-bottom-bar:hover > div[data-v-5a840b36] {\n  opacity: 1;\n  transform: translateY(0);\n}\n.slide-fade-right-enter-active[data-v-5a840b36],\n.slide-fade-right-leave-active[data-v-5a840b36] {\n  transition: 0.5s ease;\n}\n.slide-fade-right-enter[data-v-5a840b36],\n.slide-fade-right-leave-to[data-v-5a840b36] {\n  transform: translateX(30px);\n  opacity: 0;\n}\n.slide-fade-left-enter-active[data-v-5a840b36],\n.slide-fade-left-leave-active[data-v-5a840b36] {\n  transition: 0.5s ease;\n}\n.slide-fade-left-enter[data-v-5a840b36],\n.slide-fade-left-leave-to[data-v-5a840b36] {\n  transform: translateX(-30px);\n  opacity: 0;\n}\n.shortcut-list-title[data-v-5a840b36] {\n  margin-bottom: 8px;\n  color: var(--color-text-primary);\n}\n.shortcut-list-item[data-v-5a840b36] {\n  margin-top: 8px;\n  font-size: 13px;\n  font-weight: 400;\n  line-height: 17px;\n  letter-spacing: 0.52px;\n}\n.shortcut-list-item span[data-v-5a840b36]:last-of-type {\n  color: var(--color-text-quaternary);\n}\n",
+        "",
+      ]);
+      const i = n;
+    },
+    47443: (e, t, a) => {
+      var o = a(42118);
+      e.exports = function (e, t) {
+        return !!(null == e ? 0 : e.length) && o(e, t, 0) > -1;
+      };
+    },
+    1196: (e) => {
+      e.exports = function (e, t, a) {
+        for (var o = -1, n = null == e ? 0 : e.length; ++o < n; )
+          if (a(t, e[o])) return !0;
+        return !1;
+      };
+    },
+    41848: (e) => {
+      e.exports = function (e, t, a, o) {
+        for (var n = e.length, i = a + (o ? 1 : -1); o ? i-- : ++i < n; )
+          if (t(e[i], i, e)) return i;
+        return -1;
+      };
+    },
+    42118: (e, t, a) => {
+      var o = a(41848),
+        n = a(62722),
+        i = a(39375);
+      e.exports = function (e, t, a) {
+        return t == t ? i(e, t, a) : o(e, n, a);
+      };
+    },
+    62722: (e) => {
+      e.exports = function (e) {
+        return e != e;
+      };
+    },
+    45652: (e, t, a) => {
+      var o = a(88668),
+        n = a(47443),
+        i = a(1196),
+        l = a(74757),
+        r = a(23593),
+        s = a(21814);
+      e.exports = function (e, t, a) {
+        var d = -1,
+          c = n,
+          u = e.length,
+          p = !0,
+          m = [],
+          h = m;
+        if (a) (p = !1), (c = i);
+        else if (u >= 200) {
+          var v = t ? null : r(e);
+          if (v) return s(v);
+          (p = !1), (c = l), (h = new o());
+        } else h = t ? [] : m;
+        e: for (; ++d < u; ) {
+          var g = e[d],
+            b = t ? t(g) : g;
+          if (((g = a || 0 !== g ? g : 0), p && b == b)) {
+            for (var f = h.length; f--; ) if (h[f] === b) continue e;
+            t && h.push(b), m.push(g);
+          } else c(h, b, a) || (h !== m && h.push(b), m.push(g));
+        }
+        return m;
+      };
+    },
+    23593: (e, t, a) => {
+      var o = a(58525),
+        n = a(50308),
+        i = a(21814),
+        l =
+          o && 1 / i(new o([, -0]))[1] == 1 / 0
+            ? function (e) {
+                return new o(e);
+              }
+            : n;
+      e.exports = l;
+    },
+    39375: (e) => {
+      e.exports = function (e, t, a) {
+        for (var o = a - 1, n = e.length; ++o < n; ) if (e[o] === t) return o;
+        return -1;
+      };
+    },
+    50308: (e) => {
+      e.exports = function () {};
+    },
+    45578: (e, t, a) => {
+      var o = a(67206),
+        n = a(45652);
+      e.exports = function (e, t) {
+        return e && e.length ? n(e, o(t, 2)) : [];
+      };
+    },
+    66040: (e, t, a) => {
+      "use strict";
+      a.d(t, { ed: () => n, qr: () => i, ys: () => l });
+      var o = a(96829);
+      const n = [
+          {
+            commandId: "home",
+            label: (0, o.WZ)("Open Home"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "new",
+            label: (0, o.WZ)("New Blank Map"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "newFromTemplate",
+            label: (0, o.WZ)("New"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "newFromLibrary",
+            label: (0, o.WZ)("New From Library"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "open",
+            label: (0, o.WZ)("Open"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "save",
+            label: (0, o.WZ)("Save"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "saveAs",
+            label: (0, o.WZ)("Save As"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "print",
+            label: (0, o.WZ)("Print"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "closeSimpleWindow",
+            label: (0, o.WZ)("Close Window/Tab"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          null,
+          null,
+          {
+            commandId: "mergeAllWindows",
+            label: (0, o.WZ)("Merge All Windows"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.addSheet",
+            label: (0, o.WZ)("New Sheet"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.newSheetFromTopic",
+            label: (0, o.WZ)("New Sheet From Topic"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.previousSheet",
+            label: (0, o.WZ)("Previous Sheet"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.nextSheet",
+            label: (0, o.WZ)("Next Sheet"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "frame.addNewTab",
+            label: (0, o.WZ)("New Tab"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "frame.previousTab",
+            label: (0, o.WZ)("Previous Tab"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "frame.nextTab",
+            label: (0, o.WZ)("Next Tab"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "undo",
+            label: (0, o.WZ)("Undo"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "redo",
+            label: (0, o.WZ)("Redo"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "cut",
+            label: (0, o.WZ)("Cut"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "copy",
+            label: (0, o.WZ)("Copy"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "paste",
+            label: (0, o.WZ)("Paste"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "duplicate",
+            label: (0, o.WZ)("Duplicate"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.copyStyle",
+            label: (0, o.WZ)("Copy Style"),
+            category: (0, o.WZ)("General"),
+          },
+          {
+            commandId: "editor.pasteStyle",
+            label: (0, o.WZ)("Paste Style"),
+            category: (0, o.WZ)("General"),
+          },
+          {
+            commandId: "editor.resetStyle",
+            label: (0, o.WZ)("Reset Style"),
+            category: (0, o.WZ)("General"),
+          },
+          {
+            commandId: "delete",
+            label: (0, o.WZ)("Delete"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "deleteSingleTopic",
+            label: (0, o.WZ)("Delete Single Topic"),
+            category: (0, o.WZ)("General"),
+          },
+          {
+            commandId: "selectAll",
+            label: (0, o.WZ)("Select All"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "workbench.toggleFindAndReplace",
+            label: (0, o.WZ)("Find & Replace"),
+            category: (0, o.WZ)("General"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.addSubTopic",
+            label: (0, o.WZ)("Subtopic"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            fixed: !0,
+          },
+          {
+            commandId: "editor.addTopic",
+            label: (0, o.WZ)("Topic After"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+          },
+          {
+            commandId: "editor.addTopicBefore",
+            label: (0, o.WZ)("Topic Before"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+          },
+          {
+            commandId: "editor.addParentTopic",
+            label: (0, o.WZ)("Parent Topic"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+          },
+          {
+            commandId: "editor.addCallout",
+            label: (0, o.WZ)("Callout"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+          },
+          {
+            commandId: "editor.addRelationship",
+            label: (0, o.WZ)("Relationship"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+          },
+          {
+            commandId: "editor.addBoundary",
+            label: (0, o.WZ)("Boundary"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+          },
+          {
+            commandId: "editor.addSummary",
+            label: (0, o.WZ)("Summary"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+          },
+          {
+            commandId: "editor.showNotesEditor",
+            label: (0, o.WZ)("Note"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.showLabelEditor",
+            label: (0, o.WZ)("Label"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.showHyperlinkEditor",
+            getLabel: (e) => e("Link(noun)") + " - " + e("Webpage"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.showTopiclinkEditor",
+            getLabel: (e) => e("Link(noun)") + " - " + e("Topic Link"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.addFileLink",
+            getLabel: (e) => e("Link(noun)") + " - " + e("Local File"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.addFolderLink",
+            getLabel: (e) => e("Link(noun)") + " - " + e("Local Folder"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.addAttachmentOnNewTopic",
+            label: (0, o.WZ)("Attachment"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.addAudioOnNewTopic",
+            label: (0, o.WZ)("Audio Note"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "workbench.toggleMarkerPanel",
+            label: (0, o.WZ)("Marker"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "workbench.toggleStickerPanel",
+            label: (0, o.WZ)("Sticker"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "workbench.toggleIllustrationPanel",
+            label: (0, o.WZ)("Illustration"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.addLocalImage",
+            label: (0, o.WZ)("Local Image"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.showEquationEditor",
+            label: (0, o.WZ)("Equation"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.markPriorityByNumber",
+            label: (0, o.WZ)("Mark Priority (1~7)"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.removeMarker",
+            label: (0, o.WZ)("Remove Marker"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.removeStickerOrImageOrEquation",
+            label: (0, o.WZ)("Remove Sticker/Image/Equation"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.removeLabel",
+            label: (0, o.WZ)("Remove Label"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.removeLink",
+            label: (0, o.WZ)("Remove Link"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.removeNote",
+            label: (0, o.WZ)("Remove Note"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.keepTextOnly",
+            label: (0, o.WZ)("Keep Text Only"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.addTodo",
+            label: (0, o.WZ)("Add Task"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.removeTodo",
+            label: (0, o.WZ)("Remove Task"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.checkTodo",
+            label: (0, o.WZ)("Mark as Completed"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.uncheckTodo",
+            label: (0, o.WZ)("Mark as Uncompleted"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.cancelTask",
+            label: (0, o.WZ)("Mark as Canceled"),
+            category: (0, o.WZ)("Insert Topics & Elements"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.showEditBox",
+            label: (0, o.WZ)("Edit Topic Text"),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.enterLineBreak",
+            label: (0, o.WZ)("Enter Line Break"),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.moveToBeginningOfText",
+            label: (0, o.WZ)("Move to Beginning of Text"),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.moveToEndOfText",
+            label: (0, o.WZ)("Move to End of Text"),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.boldText",
+            label: (0, o.WZ)("Bold"),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.italicText",
+            label: (0, o.WZ)("Italic"),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.strikethroughText",
+            label: (0, o.WZ)("Strikethrough"),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.uppercaseText",
+            label: (0, o.WZ)("Uppercase"),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.lowercaseText",
+            label: (0, o.WZ)("Lowercase"),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.capitalizeText",
+            label: (0, o.WZ)("Capitalize"),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.alignTextLeft",
+            label: (0, o.WZ)("Align Text Left"),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.centerText",
+            label: (0, o.WZ)("Center Text"),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.alignTextRight",
+            label: (0, o.WZ)("Align Text Right"),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.increaseFontSize",
+            label: (0, o.WZ)("Increase Font Size"),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.decreaseFontSize",
+            label: (0, o.WZ)("Decrease Font Size"),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.setStyleAsVeryImportant",
+            label: (0, o.WZ)('Set Style as "Very Important"'),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.setStyleAsImportant",
+            label: (0, o.WZ)('Set Style as "Important"'),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.setStyleAsCrossOut",
+            label: (0, o.WZ)('Set Style as "Cross Out"'),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.setStyleAsDefault",
+            label: (0, o.WZ)('Set Style as "Default"'),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.updateStyleToSameLevelTopics",
+            label: (0, o.WZ)("Update Style to Same-Level Topics"),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.updateStyleToSameTypeTopics",
+            label: (0, o.WZ)("Update Style to Same-Type Topics"),
+            category: (0, o.WZ)("Edit Text & Style"),
+          },
+          {
+            commandId: "editor.changeNumberingPatternToNone",
+            label: (0, o.WZ)("Set Numbering as None"),
+            category: (0, o.WZ)("Numbering"),
+          },
+          {
+            commandId: "editor.changeNumberingPatternToNumeralArabic",
+            label: (0, o.WZ)('Set Numbering as "1.2.3."'),
+            category: (0, o.WZ)("Numbering"),
+          },
+          {
+            commandId: "editor.changeNumberingPatternToAlphabetUppercase",
+            label: (0, o.WZ)('Set Numbering as "A.B.C."'),
+            category: (0, o.WZ)("Numbering"),
+          },
+          {
+            commandId: "editor.changeNumberingPatternToAlphabetLowercase",
+            label: (0, o.WZ)('Set Numbering as "a.b.c."'),
+            category: (0, o.WZ)("Numbering"),
+          },
+          {
+            commandId: "editor.changeNumberingPatternToNumeralRoman",
+            label: (0, o.WZ)('Set Numbering as "I.II.III."'),
+            category: (0, o.WZ)("Numbering"),
+          },
+          {
+            commandId: "editor.toggleNumberingTieredEnabled",
+            label: (0, o.WZ)("Set Numbering Tiered Numbers"),
+            category: (0, o.WZ)("Numbering"),
+          },
+          {
+            commandId: "editor.toggleNumberingStartsHereEnabled",
+            label: (0, o.WZ)("Set Numbering Start From Begin"),
+            category: (0, o.WZ)("Numbering"),
+          },
+          {
+            commandId: "editor.focusAndSelectCenter",
+            label: (0, o.WZ)("Go to Central Topic"),
+            category: (0, o.WZ)("Select & Move"),
+          },
+          {
+            commandId: "editor.moveSelection",
+            label: (0, o.WZ)("Move Selection"),
+            category: (0, o.WZ)("Select & Move"),
+          },
+          {
+            commandId: "editor.selectMultipleTopics",
+            label: (0, o.WZ)("Select Multiple Topics"),
+            category: (0, o.WZ)("Select & Move"),
+          },
+          {
+            commandId: "editor.exchangeSiblingTopicUp",
+            label: (0, o.WZ)("Move Topic Up"),
+            category: (0, o.WZ)("Select & Move"),
+          },
+          {
+            commandId: "editor.exchangeSiblingTopicDown",
+            label: (0, o.WZ)("Move Topic Down"),
+            category: (0, o.WZ)("Select & Move"),
+          },
+          {
+            commandId: "editor.moveTopicToTop",
+            label: (0, o.WZ)("Move Topic to Top"),
+            category: (0, o.WZ)("Select & Move"),
+          },
+          {
+            commandId: "editor.moveTopicToBottom",
+            label: (0, o.WZ)("Move Topic to Bottom"),
+            category: (0, o.WZ)("Select & Move"),
+          },
+          {
+            commandId: "selectAllDescendantTopics",
+            label: (0, o.WZ)("Select All Subtopics"),
+            category: (0, o.WZ)("Select & Move"),
+          },
+          {
+            commandId: "selectAllSiblingTopics",
+            label: (0, o.WZ)("Select All Siblings"),
+            category: (0, o.WZ)("Select & Move"),
+          },
+          {
+            commandId: "selectAllSameLevelTopics",
+            label: (0, o.WZ)("Select All Same Level Topics"),
+            category: (0, o.WZ)("Select & Move"),
+          },
+          {
+            commandId: "selectAllFloatingTopics",
+            label: (0, o.WZ)("Select All Floating Topics"),
+            category: (0, o.WZ)("Select & Move"),
+          },
+          {
+            commandId: "selectAllRelationships",
+            label: (0, o.WZ)("Select All Relationships"),
+            category: (0, o.WZ)("Select & Move"),
+          },
+          {
+            commandId: "selectAllSummaryTopics",
+            label: (0, o.WZ)("Select All Summaries"),
+            category: (0, o.WZ)("Select & Move"),
+          },
+          {
+            commandId: "selectAllBoundaries",
+            label: (0, o.WZ)("Select All Boundaries"),
+            category: (0, o.WZ)("Select & Move"),
+          },
+          {
+            commandId: "selectAllImages",
+            label: (0, o.WZ)("Select All Images"),
+            category: (0, o.WZ)("Select & Move"),
+          },
+          {
+            commandId: "selectAllEquations",
+            label: (0, o.WZ)("Select All Equations"),
+            category: (0, o.WZ)("Select & Move"),
+          },
+          {
+            commandId: "selectAllCalloutTopics",
+            label: (0, o.WZ)("Select All Callouts"),
+            category: (0, o.WZ)("Select & Move"),
+          },
+          {
+            commandId: "outliner.addTopic",
+            label: (0, o.WZ)("Create Topic"),
+            category: (0, o.WZ)("Select/Manipulate Topics (Outliner)"),
+            groupName: "outliner",
+          },
+          {
+            commandId: "outliner.deleteTopic",
+            label: (0, o.WZ)("Quick-Delete Topic"),
+            category: (0, o.WZ)("Select/Manipulate Topics (Outliner)"),
+            groupName: "outliner",
+          },
+          {
+            commandId: "outliner.indent",
+            label: (0, o.WZ)("Indent"),
+            category: (0, o.WZ)("Select/Manipulate Topics (Outliner)"),
+            groupName: "outliner",
+          },
+          {
+            commandId: "outliner.outdent",
+            label: (0, o.WZ)("Outdent"),
+            category: (0, o.WZ)("Select/Manipulate Topics (Outliner)"),
+            groupName: "outliner",
+          },
+          {
+            commandId: "outliner.multiSelectionNavigateUp",
+            label: (0, o.WZ)("Multi-Select Topics Above"),
+            category: (0, o.WZ)("Select/Manipulate Topics (Outliner)"),
+            groupName: "outliner",
+          },
+          {
+            commandId: "outliner.multiSelectionNavigateDown",
+            label: (0, o.WZ)("Multi-Select Topics Below"),
+            category: (0, o.WZ)("Select/Manipulate Topics (Outliner)"),
+            groupName: "outliner",
+          },
+          {
+            commandId: "outliner.exchangeSiblingTopicUp",
+            label: (0, o.WZ)("Move Topic Up"),
+            category: (0, o.WZ)("Select/Manipulate Topics (Outliner)"),
+            groupName: "outliner",
+          },
+          {
+            commandId: "outliner.exchangeSiblingTopicDown",
+            label: (0, o.WZ)("Move Topic Down"),
+            category: (0, o.WZ)("Select/Manipulate Topics (Outliner)"),
+            groupName: "outliner",
+          },
+          {
+            commandId: "editor.enterLineBreak",
+            label: (0, o.WZ)("Enter Line Break"),
+            category: (0, o.WZ)("Edit Text (Outliner)"),
+            groupName: "outliner",
+          },
+          {
+            commandId: "outliner.moveCaretCharacterToBeginning",
+            label: (0, o.WZ)("Move to Beginning of Current Topic"),
+            category: (0, o.WZ)("Edit Text (Outliner)"),
+            groupName: "outliner",
+          },
+          {
+            commandId: "outliner.moveCaretCharacterToEnd",
+            label: (0, o.WZ)("Move to End of Current Topic"),
+            category: (0, o.WZ)("Edit Text (Outliner)"),
+            groupName: "outliner",
+          },
+          {
+            commandId: "outliner.moveCaretCharacterToAboveSiblingTopic",
+            label: (0, o.WZ)("Move to Previous Topic of Same Level"),
+            category: (0, o.WZ)("Edit Text (Outliner)"),
+            groupName: "outliner",
+          },
+          {
+            commandId: "outliner.moveCaretCharacterToBelowSiblingTopic",
+            label: (0, o.WZ)("Move to Next Topic of Same Level"),
+            category: (0, o.WZ)("Edit Text (Outliner)"),
+            groupName: "outliner",
+          },
+          {
+            commandId: "workbench.switchToMapOrOutliner",
+            label: (0, o.WZ)("Switch to Map/Outliner"),
+            category: (0, o.WZ)("Adjust Map & View"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.toggleBranch",
+            label: (0, o.WZ)("Fold/Unfold Subtopics"),
+            category: (0, o.WZ)("Adjust Map & View"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.toggleBranchByNumber",
+            label: (0, o.WZ)("Fold/Unfold Subtopics (Level 1~9)"),
+            category: (0, o.WZ)("Adjust Map & View"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.toggleAllBranch",
+            label: (0, o.WZ)("Fold/Unfold Sub-Branches"),
+            category: (0, o.WZ)("Adjust Map & View"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.toggleBranchOnly",
+            label: (0, o.WZ)("Show Branch Only"),
+            category: (0, o.WZ)("Adjust Map & View"),
+            isSupportedInOutliner: !0,
+          },
+          null,
+          {
+            commandId: "editor.zoomIn",
+            label: (0, o.WZ)("Zoom In"),
+            category: (0, o.WZ)("Adjust Map & View"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.zoomOut",
+            label: (0, o.WZ)("Zoom Out"),
+            category: (0, o.WZ)("Adjust Map & View"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.resetZoom",
+            label: (0, o.WZ)("Actual Size"),
+            category: (0, o.WZ)("Adjust Map & View"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.fitMap",
+            label: (0, o.WZ)("Fit Map"),
+            category: (0, o.WZ)("Adjust Map & View"),
+          },
+          {
+            commandId: "frame.toggleTabbar",
+            label: (0, o.WZ)("Show Tab Bar"),
+            category: (0, o.WZ)("Adjust Map & View"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "workbench.toggleTopicNavigationPanel",
+            label: (0, o.WZ)("Show Navigation Panel - Topic"),
+            category: (0, o.WZ)("Adjust Map & View"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "workbench.toggleNoteNavigationPanel",
+            label: (0, o.WZ)("Show Navigation Panel - Note"),
+            category: (0, o.WZ)("Adjust Map & View"),
+          },
+          {
+            commandId: "workbench.toggleLabelAndMarkerNavigationPanel",
+            label: (0, o.WZ)("Show Navigation Panel - Marker & Label"),
+            category: (0, o.WZ)("Adjust Map & View"),
+          },
+          {
+            commandId: "workbench.toggleTopicPanel",
+            label: (0, o.WZ)("Show Format Panel - Style"),
+            category: (0, o.WZ)("Adjust Map & View"),
+          },
+          {
+            commandId: "workbench.toggleSlidePanel",
+            label: (0, o.WZ)("Show Format Panel - Pitch"),
+            category: (0, o.WZ)("Adjust Map & View"),
+          },
+          {
+            commandId: "workbench.toggleMapPanel",
+            label: (0, o.WZ)("Show Format Panel - Map"),
+            category: (0, o.WZ)("Adjust Map & View"),
+          },
+          {
+            commandId: "workbench.toggleSkeletonPanel",
+            label: (0, o.WZ)("Show Format Panel - Skeleton"),
+            category: (0, o.WZ)("Adjust Map & View"),
+          },
+          {
+            commandId: "workbench.toggleColorThemePanel",
+            label: (0, o.WZ)("Show Format Panel - Color Theme"),
+            category: (0, o.WZ)("Adjust Map & View"),
+          },
+          {
+            commandId: "editor.toggleTopicCountLabel",
+            label: (0, o.WZ)("Show Topic Count"),
+            category: (0, o.WZ)("Adjust Map & View"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.toggleSheetBar",
+            label: (0, o.WZ)("Show Sheet Bar"),
+            category: (0, o.WZ)("Adjust Map & View"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "editor.toggleShowGuideline",
+            label: (0, o.WZ)("Display/Hide Smart Guideline"),
+            category: (0, o.WZ)("Adjust Map & View"),
+          },
+          {
+            commandId: "workbench.exportPng1",
+            label: (0, o.WZ)("Export to PNG"),
+            category: (0, o.WZ)("Export"),
+          },
+          {
+            commandId: "workbench.exportJpeg",
+            label: (0, o.WZ)("Export to JPEG"),
+            category: (0, o.WZ)("Export"),
+          },
+          {
+            commandId: "workbench.exportSvg1",
+            label: (0, o.WZ)("Export to SVG"),
+            category: (0, o.WZ)("Export"),
+          },
+          {
+            commandId: "workbench.exportPdf",
+            label: (0, o.WZ)("Export to PDF"),
+            category: (0, o.WZ)("Export"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "workbench.exportMd",
+            label: (0, o.WZ)("Export to Markdown"),
+            category: (0, o.WZ)("Export"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "workbench.exportWord",
+            label: (0, o.WZ)("Export to Word"),
+            category: (0, o.WZ)("Export"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "workbench.exportExcel",
+            label: (0, o.WZ)("Export to Excel"),
+            category: (0, o.WZ)("Export"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "workbench.exportOPML",
+            label: (0, o.WZ)("Export to OPML"),
+            category: (0, o.WZ)("Export"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "workbench.exportTextBundle",
+            label: (0, o.WZ)("Export to TextBundle"),
+            category: (0, o.WZ)("Export"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "mapShot",
+            label: (0, o.WZ)("Map Shot"),
+            category: (0, o.WZ)("Tools & Others"),
+          },
+          {
+            commandId: "mergeXMindFiles",
+            label: (0, o.WZ)("Merge Xmind Files"),
+            category: (0, o.WZ)("Tools & Others"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "customizeTheme",
+            label: (0, o.WZ)("Create/Customize Theme"),
+            category: (0, o.WZ)("Tools & Others"),
+          },
+          {
+            commandId: "createTheme",
+            label: (0, o.WZ)("Create Theme"),
+            category: (0, o.WZ)("Tools & Others"),
+          },
+          {
+            commandId: "workbench.toggleZenMode",
+            label: (0, o.WZ)("ZEN Mode"),
+            category: (0, o.WZ)("Tools & Others"),
+          },
+          {
+            commandId: "editor.enterPitchMode",
+            label: (0, o.WZ)("Pitch Mode"),
+            category: (0, o.WZ)("Tools & Others"),
+          },
+          {
+            commandId: "editor.enterPitchModeWindowed",
+            label: (0, o.WZ)("Pitch Mode - In Window"),
+            category: (0, o.WZ)("Tools & Others"),
+          },
+          {
+            commandId: "editor.enterPitchPresenterViewMode",
+            label: (0, o.WZ)("Pitch Mode - Presenter View"),
+            category: (0, o.WZ)("Tools & Others"),
+          },
+          {
+            commandId: "keyAssist",
+            label: (0, o.WZ)("Key Assist"),
+            category: (0, o.WZ)("Tools & Others"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "workbench.setpassword",
+            label: (0, o.WZ)("Set File Password "),
+            category: (0, o.WZ)("Tools & Others"),
+            isSupportedInOutliner: !0,
+          },
+          {
+            commandId: "preferences",
+            label: (0, o.WZ)("Preferences"),
+            category: (0, o.WZ)("Tools & Others"),
+            isSupportedInOutliner: !0,
+          },
+        ].filter(Boolean),
+        i = [
+          {
+            commandId: "pitch.nextStep",
+            label: (0, o.WZ)("Next Step"),
+            category: (0, o.WZ)("Navigation"),
+            accelerator: ["Space", "||", "→", "||", "↓"],
+          },
+          {
+            commandId: "pitch.previousStep",
+            label: (0, o.WZ)("Previous Step"),
+            category: (0, o.WZ)("Navigation"),
+            accelerator: ["←", "||", "↑"],
+          },
+          {
+            commandId: "pitch.skipCurrentBranch",
+            label: (0, o.WZ)("Skip Current Branch"),
+            category: (0, o.WZ)("Navigation"),
+            accelerator: ["Shift", "+", "→"],
+          },
+          {
+            commandId: "pitch.backParentTopic",
+            label: (0, o.WZ)("Back to Parent Topic"),
+            category: (0, o.WZ)("Navigation"),
+            accelerator: ["Shift", "+", "←"],
+          },
+          {
+            commandId: "pitch.exit",
+            label: (0, o.WZ)("Exit Pitch Mode"),
+            category: (0, o.WZ)("Other"),
+            accelerator: ["Esc", "||", "Q"],
+          },
+          {
+            commandId: "pitch.toggleAnimation",
+            label: (0, o.WZ)("Enable/disable Animation"),
+            category: (0, o.WZ)("Other"),
+            accelerator: ["A"],
+          },
+          {
+            commandId: "pitch.showShortcuts",
+            label: (0, o.WZ)("Show Keyboard Shortcuts"),
+            category: (0, o.WZ)("Other"),
+            accelerator: ["?"],
+          },
+        ],
+        l = [
+          "open",
+          "saveAs",
+          "save",
+          "print",
+          "closeSimpleWindow",
+          "closeAllWindows",
+          "frame.addNewTab",
+          "frame.previousTab",
+          "frame.nextTab",
+          "undo",
+          "redo",
+          "cut",
+          "copy",
+          "paste",
+          "duplicate",
+          "delete",
+          "selectAll",
+          "switchBetweenXMindWindows",
+          "workbench.toggleFindAndReplace",
+          "editor.showEditBox",
+          "editor.boldText",
+          "editor.italicText",
+          "editor.enterLineBreak",
+          "editor.moveToBeginningOfText",
+          "editor.moveToEndOfText",
+          "editor.addSubTopic",
+          "editor.addTopic",
+          "editor.markPriorityByNumber",
+          "editor.moveSelection",
+          "editor.selectMultipleTopics",
+          "toggleFullScreen",
+          "editor.toggleBranchByNumber",
+        ];
+    },
+    53550: (e, t, a) => {
+      "use strict";
+      a.d(t, { v: () => u });
+      var o = a(2954),
+        n = a(87141),
+        i = a(54856),
+        l = a(96829),
+        r = a(90435),
+        s = a(84374),
+        d = a(27049),
+        c = a(46016);
+      function u() {
+        const {
+            sheets: e,
+            activeSheetId: t,
+            executeAction: a,
+            executeEditorAction: u,
+            isMapOverviewShowing: p,
+            getSheetViewer: m,
+          } = (0, s.nZ)(),
+          { testSheetPasteVisible: h } = (0, s.pk)(),
+          { handleCommand: v } = (0, n.JX)(),
+          g = (0, o.Fl)(() =>
+            e.value.map((e) => ({ id: e.id, title: e.title }))
+          );
+        return {
+          sheets: e,
+          activeSheetId: t,
+          sheetIdTitleList: g,
+          isMapOverviewShowing: p,
+          switchSheet: async (e) => {
+            const a = m(e);
+            ((null == a ? void 0 : a.isInited()) &&
+              !(0, c.$)().isOutlinerMode) ||
+              (t.value !== e &&
+                ((0, d.E)().updateSheetRendering({
+                  sheetRendering: !0,
+                  sheetRenderingStartAt: new Date().getTime(),
+                }),
+                await (0, l._v)(100))),
+              u({ name: "mutateEditor:switchSheet", inputValue: e });
+          },
+          newSheet: async (e) => {
+            (await r.ZP.fetch(i.Gy, {
+              name: "action.addSheet",
+              channel: (0, i.gk)(window.editorId),
+            })) && u({ name: "mutateEditor:newSheet", inputValue: e });
+          },
+          changeShowMapOverview: (e) =>
+            u({ name: "mutateEditor:changeShowMapOverview", inputValue: e }),
+          changeSheetTitle: (e, t) => {
+            u({
+              name: "mutateEditor:changeSheetTitle",
+              inputValue: e,
+              payload: { title: t },
+            });
+          },
+          deleteSheet: (e) => {
+            u({ name: "mutateEditor:deleteSheet", inputValue: e });
+          },
+          testSheetPasteVisible: h,
+          copySheet: (e, t) => {
+            a({ name: "copySheet", payload: { index: e, title: t } });
+          },
+          duplicateSheet: async (e) => {
+            (await r.ZP.fetch(i.Gy, {
+              name: "action.duplicateSheet",
+              channel: (0, i.gk)(window.editorId),
+            })) &&
+              ((0, d.E)().updateSheetRendering({
+                sheetRendering: !0,
+                sheetRenderingStartAt: new Date().getTime(),
+              }),
+              await (0, l._v)(100),
+              u({ name: "mutateEditor:duplicateSheet", inputValue: e }));
+          },
+          pasteSheet: async (t) => {
+            var o;
+            (await r.ZP.fetch(i.Gy, {
+              name: "action.duplicateSheet",
+              channel: (0, i.gk)(window.editorId),
+            })) &&
+              ((0, d.E)().updateSheetRendering({
+                sheetRendering: !0,
+                sheetRenderingStartAt: new Date().getTime(),
+              }),
+              await (0, l._v)(100),
+              a({
+                name: "pasteSheet",
+                payload: {
+                  index: t,
+                  sheetId:
+                    null === (o = e.value[t]) || void 0 === o ? void 0 : o.id,
+                },
+              }));
+          },
+          saveSheetAs: ({ sheetIndex: e }) => {
+            v("saveSheetAs", e);
+          },
+        };
+      }
+    },
+    86673: (e, t, a) => {
+      "use strict";
+      a.d(t, { Z: () => r });
+      var o = a(2954),
+        n = a(60746),
+        i = a(87141);
+      const l = (0, o.aZ)({
+        __name: "index",
+        props: {
+          typeCls: { default: "vk-tree-list-outliner" },
+          items: { default: () => [] },
+          type: { default: "checkbox" },
+          modelValue: { default: () => [] },
+          indent: { default: 0 },
+          prefix: { default: "" },
+          index: null,
+          container: null,
+          highPerformanceMode: { type: Boolean, default: !1 },
+          width: { default: 268 },
+          textWrap: { type: Boolean, default: !1 },
+          allowDirectionKey: { type: Boolean, default: !1 },
+          isLineDashVisible: { type: Boolean, default: !0 },
+        },
+        emits: ["click", "update:modelValue", "toggleitem"],
+        setup(e, { expose: t, emit: a }) {
+          const l = e,
+            { T: r } = (0, i.JE)(),
+            s = (0, n.RS)(),
+            d = (e, t) =>
+              s(
+                e,
+                `${t} -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, Roboto, "Helvetica Neue", Arial, sans-serif`
+              ),
+            c = (0, o.iH)({}),
+            u = (0, o.iH)(new Set()),
+            p = (0, o.iH)({ scrollTop: 0, clientHeight: 100 });
+          (0, o.YP)(
+            () => l.modelValue,
+            (e, t) => {
+              null != e && e !== t && (u.value = new Set(e));
+            },
+            { immediate: !0 }
+          );
+          const m = (e) => {
+              const t = e.target;
+              p.value = {
+                scrollTop: t.scrollTop,
+                clientHeight: t.clientHeight,
+              };
+            },
+            h = (e = l.container) => {
+              e &&
+                (p.value = {
+                  scrollTop: e.scrollTop,
+                  clientHeight: e.clientHeight,
+                });
+            };
+          (0, o.YP)(
+            () => l.container,
+            (e) => {
+              e && (e.addEventListener("scroll", m), h(e));
+            }
+          );
+          const v = () => {
+            h();
+          };
+          (0, o.bv)(() => {
+            window.addEventListener("resize", v);
+          }),
+            (0, o.dl)(() => {
+              h();
+            }),
+            (0, o.Jd)(() => {
+              window.removeEventListener("resize", v),
+                l.container && l.container.removeEventListener("scroll", m);
+            });
+          const g = (0, o.Fl)(() => r("<Empty Text>")),
+            b = (0, o.Fl)(() => {
+              const { items: e, indent: t } = l;
+              if (!e || !e.length) return [];
+              const a = "$ROOT_VALUE",
+                o = [],
+                n = (e, t, i = []) => {
+                  const l = e.value === a,
+                    r = e.unindent || "sheetTitle" === e.slotType ? t : t + 1;
+                  if (
+                    (l ||
+                      o.push({
+                        value: e.value,
+                        current: e,
+                        indent: r,
+                        parentValues: i.map((e) => e.value),
+                      }),
+                    e.items)
+                  )
+                    for (let t = 0; t < e.items.length; t++) {
+                      const a = e.items[t],
+                        o = i.concat(l ? [] : e);
+                      n(a, r, o);
+                    }
+                };
+              return (
+                n({ items: e, value: a }, t || -1),
+                o.forEach((e) => {
+                  const t = 4 + 20 * e.indent,
+                    a = l.width - (t + 4);
+                  let o =
+                    d(
+                      e.current.text,
+                      "sheetTitle" === e.current.slotType
+                        ? "700 21px"
+                        : e.current.isTitle
+                        ? "700 15px"
+                        : "400 14px"
+                    ) + 40;
+                  if (
+                    ((e.containerWidth = a),
+                    (e.textWidth = o),
+                    (e.singleLineWidth = t + 4 + o),
+                    l.textWrap)
+                  ) {
+                    const t = Math.ceil(o / a);
+                    e.allocatedLine = t;
+                  } else e.allocatedLine = 1;
+                }),
+                o
+              );
+            }),
+            f = (0, o.Fl)(() => {
+              const { value: e } = b,
+                t = (e) => S(e) && k(e),
+                a = {},
+                o = {},
+                n = {};
+              for (let t = 0; t < e.length; t++) {
+                const o = e[t];
+                a[o.value] = o;
+              }
+              for (let i = 0; i < e.length; i++) {
+                const l = e[i],
+                  r = l.parentValues.join(",");
+                r in n
+                  ? (o[l.value] = n[r])
+                  : (n[r] = o[l.value] =
+                      l.parentValues.every((e) => t(a[e].current)));
+              }
+              return o;
+            }),
+            y = (0, o.Fl)(() => {
+              let e = b.value.filter((e) => !!f.value[e.value]);
+              if (!l.highPerformanceMode) return { items: e, totalHeight: 0 };
+              let t = 0,
+                a = 0;
+              return (
+                e.forEach((e) => {
+                  var o, n;
+                  (e.currentTop = `${t}px`), (e.currentTopNumber = t);
+                  let i = 10 + 18 * e.allocatedLine;
+                  "sheetTitle" === e.current.slotType && (i = 63);
+                  const r = [],
+                    s =
+                      e.textWidth /
+                      (null !==
+                        (n =
+                          null === (o = e.current.text) || void 0 === o
+                            ? void 0
+                            : o.length) && void 0 !== n
+                        ? n
+                        : 0),
+                    d = Math.floor(e.containerWidth / s);
+                  if (l.textWrap && "sheetTitle" !== e.current.slotType)
+                    for (let t = 0; t < e.allocatedLine; t++)
+                      r.push(e.current.text.slice(t * d, (t + 1) * d));
+                  else
+                    (a = Math.max(e.singleLineWidth, a)),
+                      r.push(e.current.text);
+                  (e.textLines = r),
+                    1 !== r.length || r[0] || (r[0] = g.value),
+                    (t += i);
+                }),
+                (e = e.filter(
+                  (e) =>
+                    !(e.currentTopNumber < p.value.scrollTop - 100) &&
+                    !(
+                      e.currentTopNumber >
+                      p.value.scrollTop + p.value.clientHeight + 100
+                    )
+                )),
+                { items: e, totalHeight: t, commonWidth: a }
+              );
+            }),
+            k = (e) =>
+              e.value in c.value
+                ? Boolean(c.value[e.value])
+                : Boolean(e.expanded),
+            S = (e) =>
+              "items" in e && Array.isArray(e.items) && e.items.length > 0,
+            x = (e) => u.value.has(e.value),
+            I = (e) => {
+              a("click", e);
+            },
+            T = (e) => {
+              (c.value = { ...c.value, [e.value]: !k(e) }),
+                a("toggleitem", e.value);
+            },
+            w = async (e) => {
+              const t = new Set([e.value]);
+              (u.value = t), a("update:modelValue", Array.from(t)), I(e);
+            },
+            Z = async (e, t) => {
+              t.preventDefault(),
+                t.stopPropagation(),
+                T(e),
+                await (0, o.Y3)(),
+                t.currentTarget.parentNode.focus();
+            },
+            W = (e) => {
+              if (!l.allowDirectionKey) return;
+              const t = Array.from(u.value);
+              let a = null;
+              if (t.length) {
+                const o = y.value.items.findIndex((e) => e.value === t[0]);
+                a = y.value.items[o + ("up" === e ? -1 : 1)];
+              } else y.value.items.find((e) => !e.current.slotType);
+              if (a && !a.current.slotType) {
+                w(a.current);
+                const e = document.querySelector(
+                  `button[data-value="${a.value}"]`
+                );
+                e && e.focus();
+              }
+            };
+          return (
+            t({
+              emptyText: g,
+              currentItems: b,
+              visibleItems: f,
+              displayData: y,
+              isItemExpandable: S,
+              isItemExpanded: k,
+              isItemChecked: x,
+              onToggleClick: Z,
+              onClickButton: w,
+              onKeydown: W,
+            }),
+            {
+              __sfc: !0,
+              $T: r,
+              getTextWidthFn: s,
+              getTextWidth: d,
+              props: l,
+              emit: a,
+              itemExpansions: c,
+              internalValue: u,
+              scrollInfo: p,
+              containerScrollEventHandler: m,
+              updateScrollInfoByPropsContainer: h,
+              windowResizeHandler: v,
+              emptyText: g,
+              currentItems: b,
+              visibleItems: f,
+              displayData: y,
+              isItemExpanded: k,
+              isItemExpandable: S,
+              getTreeListItemIcon: (e) =>
+                "sheetTitle" === e.slotType
+                  ? ""
+                  : S(e)
+                  ? k(e)
+                    ? "arrow-fill-down"
+                    : "arrow-fill-right"
+                  : l.isLineDashVisible
+                  ? "outliner-point"
+                  : "",
+              isItemChecked: x,
+              emitClick: I,
+              toggleItem: T,
+              onClickButton: w,
+              onToggleClick: Z,
+              onKeydown: W,
+            }
+          );
+        },
+      });
+      const r = (0, a(51900).Z)(
+        l,
+        function () {
+          var e = this,
+            t = e._self._c,
+            a = e._self._setupProxy;
+          return t(
+            "ul",
+            {
+              staticClass: "uk-tree-list",
+              class: e.typeCls,
+              staticStyle: { position: "relative" },
+              style: {
+                height: e.highPerformanceMode
+                  ? `${a.displayData.totalHeight}px`
+                  : "auto",
+                "flex-shrink": 0,
+              },
+              on: {
+                keydown: [
+                  function (t) {
+                    return !t.type.indexOf("key") &&
+                      e._k(t.keyCode, "up", 38, t.key, ["Up", "ArrowUp"])
+                      ? null
+                      : a.onKeydown("up");
+                  },
+                  function (t) {
+                    return !t.type.indexOf("key") &&
+                      e._k(t.keyCode, "down", 40, t.key, ["Down", "ArrowDown"])
+                      ? null
+                      : a.onKeydown("down");
+                  },
+                ],
+              },
+            },
+            e._l(a.displayData.items, function (o) {
+              return t(
+                "li",
+                {
+                  key: o.value,
+                  class: { "uk-checked": a.isItemChecked(o.current) },
+                  staticStyle: {
+                    "min-width": "100%",
+                    "word-break": "break-all",
+                  },
+                  style: e.highPerformanceMode
+                    ? {
+                        position: "absolute",
+                        top: o.currentTop,
+                        width: e.textWrap
+                          ? "100%"
+                          : `${a.displayData.commonWidth}px`,
+                        "--vk-tree-list-indent": o.indent,
+                      }
+                    : { width: "100%", "--vk-tree-list-indent": o.indent },
+                },
+                [
+                  e._t(
+                    o.current.slotType,
+                    function () {
+                      return [
+                        t(
+                          "button",
+                          {
+                            staticClass: "uk-tree-list-item",
+                            class: {
+                              "uk-checked": a.isItemChecked(o.current),
+                              "uk-focus": a.isItemChecked(o.current),
+                              "is-title": o.current.isTitle,
+                            },
+                            attrs: {
+                              type: "button",
+                              "data-value": o.value,
+                              "data-indent": o.indent,
+                            },
+                            on: {
+                              click: function (e) {
+                                return a.onClickButton(o.current);
+                              },
+                            },
+                          },
+                          [
+                            t(
+                              "div",
+                              { staticClass: "uk-flex uk-flex-middle" },
+                              [
+                                e.highPerformanceMode
+                                  ? e._l(o.textLines, function (a, o) {
+                                      return t(
+                                        "p",
+                                        {
+                                          key: o,
+                                          staticClass:
+                                            "uk-text-nowrap uk-margin-remove uk-tree-list-item-text",
+                                        },
+                                        [
+                                          e._v(
+                                            "\n              " +
+                                              e._s(a) +
+                                              "\n            "
+                                          ),
+                                        ]
+                                      );
+                                    })
+                                  : [
+                                      t(
+                                        "span",
+                                        {
+                                          staticClass: "uk-tree-list-item-text",
+                                        },
+                                        [
+                                          e._v(
+                                            e._s(o.current.text || a.emptyText)
+                                          ),
+                                        ]
+                                      ),
+                                    ],
+                                e._v(" "),
+                                o.current.items && o.current.items.length
+                                  ? t(
+                                      "span",
+                                      {
+                                        staticClass: "uk-tree-list-item-badge",
+                                      },
+                                      [e._v(e._s(o.current.items.length))]
+                                    )
+                                  : e._e(),
+                              ],
+                              2
+                            ),
+                          ]
+                        ),
+                      ];
+                    },
+                    {
+                      data: o.current,
+                      checked: a.isItemChecked(o.current),
+                      index: e.index,
+                      offset: 20 * o.indent + 4,
+                      onClick: () => a.onClickButton(o.current),
+                    }
+                  ),
+                  e._v(" "),
+                  a.getTreeListItemIcon(o.current)
+                    ? t("span", {
+                        staticClass: "uk-tree-list-toggle",
+                        class: {
+                          "is-expandable": a.isItemExpandable(o.current),
+                        },
+                        attrs: {
+                          "uk-icon": `icon: ${a.getTreeListItemIcon(
+                            o.current
+                          )}; ratio: 0.8`,
+                        },
+                        on: {
+                          click: function (e) {
+                            return a.onToggleClick(o.current, e);
+                          },
+                        },
+                      })
+                    : e._e(),
+                  e._v(" "),
+                  e.isLineDashVisible
+                    ? e._l(
+                        Array.from({ length: o.indent - 1 }, (e, t) => t + 1),
+                        function (e) {
+                          return t("span", {
+                            key: e,
+                            staticClass: "uk-tree-list-toggle-line-dash",
+                            style: { left: 12 + 20 * (e - 1) + "px" },
+                          });
+                        }
+                      )
+                    : e._e(),
+                ],
+                2
+              );
+            }),
+            0
+          );
+        },
+        [],
+        !1,
+        null,
+        null,
+        null
+      ).exports;
+    },
+    69991: (e, t, a) => {
+      "use strict";
+      a.r(t), a.d(t, { default: () => s });
+      var o = a(2954),
+        n = a(12455),
+        i = a(86026),
+        l = a(81631);
+      const r = (0, o.aZ)({
+        __name: "readwrite-bottom-bar",
+        emits: ["work-in-process"],
+        setup(e, { emit: t }) {
+          const r = (0, o.RC)(() => a.e(7272).then(a.bind(a, 7272))),
+            s = (0, o.Fl)(
+              () => (0, n.A)().aggregatedContexts["editor.inMapShotMode"]
+            );
+          return {
+            __sfc: !0,
+            emit: t,
+            EditorTopicCount: r,
+            isInMapShotMode: s,
+            handleWorkInProcessChange: (e) => {
+              t("work-in-process", e);
+            },
+            SheetBar: i.Z,
+            ZoomControl: l.Z,
+          };
+        },
+      });
+      a(95127);
+      const s = (0, a(51900).Z)(
+        r,
+        function () {
+          var e = this,
+            t = e._self._c,
+            a = e._self._setupProxy;
+          return t(
+            "div",
+            {
+              staticClass: "uk-flex uk-flex-middle",
+              staticStyle: { height: "28px" },
+            },
+            [
+              t(
+                "div",
+                {
+                  staticClass:
+                    "uk-flex uk-flex-middle uk-flex-between uk-flex-1",
+                  staticStyle: { height: "var(--spacing-sheetbar-height)" },
+                },
+                [
+                  t(
+                    "div",
+                    { staticClass: "uk-width-expand" },
+                    [
+                      t(a.SheetBar, {
+                        on: { "work-in-process": a.handleWorkInProcessChange },
+                      }),
+                    ],
+                    1
+                  ),
+                  e._v(" "),
+                  t(
+                    "div",
+                    { staticClass: "uk-flex uk-flex-middle" },
+                    [
+                      a.isInMapShotMode ? e._e() : t(a.EditorTopicCount),
+                      e._v(" "),
+                      a.isInMapShotMode
+                        ? e._e()
+                        : t("div", {
+                            staticClass: "statusbar-divider-vertical",
+                          }),
+                      e._v(" "),
+                      t(a.ZoomControl),
+                    ],
+                    1
+                  ),
+                ]
+              ),
+            ]
+          );
+        },
+        [],
+        !1,
+        null,
+        "86573d84",
+        null
+      ).exports;
+    },
+    26070: (e, t, a) => {
+      "use strict";
+      a.r(t), a.d(t, { default: () => m });
+      var o = a(2954),
+        n = a(12455),
+        i = a(46016),
+        l = a(86026),
+        r = a(81631),
+        s = a(87141);
+      const d = (0, o.aZ)({
+        setup() {
+          const e = (0, i.$)(),
+            t = (e, ...t) => (0, s.JE)().T(e, ...t),
+            a = (0, o.Fl)(() => e.isOutlinerMode),
+            n = (0, o.Fl)(() => e.mapshotMode);
+          return {
+            editorModeLabel: (0, o.Fl)(() =>
+              a.value ? t("Mind Map") : t("Outliner")
+            ),
+            isMapshotMode: n,
+            handleEditorModeChange: () => {
+              const e = (0, s.JX)();
+              a.value
+                ? e.handleCommand("workbench.mapMode")
+                : e.handleCommand("workbench.outlineMode");
+            },
+          };
+        },
+      });
+      var c = a(51900);
+      const u = (0, c.Z)(
+          d,
+          function () {
+            var e = this,
+              t = e._self._c;
+            e._self._setupProxy;
+            return t(
+              "button",
+              {
+                directives: [
+                  {
+                    name: "focus-contexts",
+                    rawName: "v-focus-contexts:no",
+                    arg: "no",
+                  },
+                ],
+                staticClass: "vk-button-tile typography-subhead-mini",
+                staticStyle: {
+                  height: "var(--spacing-sheetbar-height)",
+                  padding: "0 8px",
+                },
+                attrs: { disabled: e.isMapshotMode },
+                on: { click: e.handleEditorModeChange },
+              },
+              [e._v("\n  " + e._s(e.editorModeLabel) + "\n")]
+            );
+          },
+          [],
+          !1,
+          null,
+          "241224bd",
+          null
+        ).exports,
+        p = (0, o.aZ)({
+          __name: "index",
+          emits: ["work-in-process"],
+          setup(e, { emit: t }) {
+            const s = (0, o.RC)(() => a.e(7272).then(a.bind(a, 7272))),
+              d = (0, o.RC)(() =>
+                Promise.all([
+                  a.e(6486),
+                  a.e(2118),
+                  a.e(4761),
+                  a.e(4559),
+                  a.e(8825),
+                  a.e(4325),
+                ]).then(a.bind(a, 64325))
+              ),
+              c = (0, i.$)(),
+              p = (0, o.Fl)(() => c.isOutlinerMode),
+              m = (0, o.Fl)(
+                () => (0, n.A)().aggregatedContexts["editor.inMapShotMode"]
+              );
+            return {
+              __sfc: !0,
+              emit: t,
+              EditorTopicCount: s,
+              OutlinerTopicCount: d,
+              workbenchStore: c,
+              isOutlineMode: p,
+              isInMapShotMode: m,
+              handleWorkInProcessChange: (e) => {
+                t("work-in-process", e);
+              },
+              SheetBar: l.Z,
+              ZoomControl: r.Z,
+              EditorMode: u,
+            };
+          },
+        });
+      a(23951);
+      const m = (0, c.Z)(
+        p,
+        function () {
+          var e = this,
+            t = e._self._c,
+            a = e._self._setupProxy;
+          return t(
+            "div",
+            {
+              staticClass: "uk-flex uk-flex-middle",
+              staticStyle: { height: "28px" },
+            },
+            [
+              t(
+                "div",
+                {
+                  staticClass:
+                    "uk-flex uk-flex-middle uk-flex-between uk-flex-1",
+                  staticStyle: { height: "var(--spacing-sheetbar-height)" },
+                },
+                [
+                  t(
+                    "div",
+                    { staticClass: "uk-width-expand" },
+                    [
+                      t(a.SheetBar, {
+                        on: { "work-in-process": a.handleWorkInProcessChange },
+                      }),
+                    ],
+                    1
+                  ),
+                  e._v(" "),
+                  t(
+                    "div",
+                    { staticClass: "uk-flex uk-flex-middle" },
+                    [
+                      a.isOutlineMode || a.isInMapShotMode
+                        ? e._e()
+                        : t(a.EditorTopicCount),
+                      e._v(" "),
+                      a.isOutlineMode && !a.isInMapShotMode
+                        ? t(a.OutlinerTopicCount)
+                        : e._e(),
+                      e._v(" "),
+                      a.isInMapShotMode
+                        ? e._e()
+                        : t("div", {
+                            staticClass: "statusbar-divider-vertical",
+                          }),
+                      e._v(" "),
+                      t(a.ZoomControl),
+                      e._v(" "),
+                      t("div", { staticClass: "statusbar-divider-vertical" }),
+                      e._v(" "),
+                      t(a.EditorMode),
+                    ],
+                    1
+                  ),
+                ]
+              ),
+            ]
+          );
+        },
+        [],
+        !1,
+        null,
+        "303bd27c",
+        null
+      ).exports;
+    },
+    86026: (e, t, a) => {
+      "use strict";
+      a.d(t, { Z: () => m });
+      var o = a(2954),
+        n = a(53550),
+        i = a(46016),
+        l = a(12455),
+        r = a(84374);
+      var s = a(80356),
+        d = a(87141),
+        c = a(67657),
+        u = a(81404);
+      const p = (0, o.aZ)({
+        __name: "sheet-bar",
+        emits: ["work-in-process"],
+        setup(e, { emit: t }) {
+          const a = (0, o.iH)(),
+            p = (0, o.iH)(),
+            m = (0, o.iH)(),
+            h = (0, o.iH)(),
+            {
+              sheets: v,
+              activeSheetId: g,
+              sheetIdTitleList: b,
+              switchSheet: f,
+              newSheet: y,
+              copySheet: k,
+              changeSheetTitle: S,
+              saveSheetAs: x,
+              testSheetPasteVisible: I,
+              pasteSheet: T,
+              duplicateSheet: w,
+              deleteSheet: Z,
+            } = (0, n.v)(),
+            {
+              isDragArea: W,
+              sheetsForDragging: C,
+              onDrop: M,
+              onDragEnd: _,
+              onDragOver: E,
+              onDragEnter: O,
+              onDragLeave: A,
+              onDragStart: P,
+            } = ((e, t, a) => {
+              const n = (0, o.iH)(),
+                i = (0, o.iH)(""),
+                l = (0, o.iH)(!1),
+                s = "application/x-sheetbar-id",
+                { executeEditorAction: d } = (0, r.nZ)();
+              return {
+                isDragArea: l,
+                sheetsForDragging: n,
+                onDragStart: (t, a) => {
+                  const o = t.target;
+                  e.value.includes(o)
+                    ? ((t.dataTransfer.effectAllowed = "all"),
+                      t.dataTransfer.setData(s, a),
+                      (i.value = a))
+                    : t.preventDefault();
+                },
+                onDragEnter: (a) => {
+                  const o = a.dataTransfer.types.includes(s);
+                  if (!i.value || !o) return;
+                  a.preventDefault();
+                  const l = e.value
+                    .slice()
+                    .sort(
+                      (e, t) =>
+                        Number(e.dataset.index) - Number(t.dataset.index)
+                    );
+                  let r,
+                    d = 0;
+                  for (; d < e.value.length; ) {
+                    let e = -1 / 0;
+                    if (l[d - 1]) {
+                      const t = l[d - 1].getBoundingClientRect();
+                      e = (t.right + t.left) / 2;
+                    }
+                    let t = 1 / 0;
+                    if (l[d]) {
+                      const e = l[d].getBoundingClientRect();
+                      t = (e.right + e.left) / 2;
+                    }
+                    if (a.clientX > e && a.clientX < t) break;
+                    d++;
+                  }
+                  const c = t.value.filter(
+                    (e) => e.id !== i.value || ((r = e), !1)
+                  );
+                  c.splice(d, 0, { id: i.value, title: r && r.title }),
+                    (n.value = c);
+                },
+                onDragOver: (e) => {
+                  i.value &&
+                    (e.preventDefault(),
+                    (l.value = !0),
+                    (e.dataTransfer.dropEffect = "move"));
+                },
+                onDrop: (e) => {
+                  if (
+                    (e.preventDefault(),
+                    (l.value = !1),
+                    !t.value || !t.value.length)
+                  )
+                    return;
+                  const a = e.dataTransfer.getData(s);
+                  if (i.value === a && i.value) {
+                    const e = n.value.findIndex((e) => e.id === i.value);
+                    d({
+                      name: "mutateEditor:moveSheetTo",
+                      inputValue: i.value,
+                      payload: { targetIndex: e },
+                    });
+                  }
+                },
+                onDragLeave: (e) => {
+                  if (!i.value) return;
+                  const t = document.elementFromPoint(e.clientX, e.clientY);
+                  a.value.contains(t) || (l.value = !1);
+                },
+                onDragEnd: () => {
+                  i.value = null;
+                },
+              };
+            })(h, b, a),
+            { T: R } = (0, d.JE)(),
+            { zenMode: N } = (0, i.$)(),
+            B = (0, l.A)(),
+            L = {
+              observeobser: null,
+              inserted: (e) => {
+                (L.observeobser = new ResizeObserver(() => {
+                  q(e), J();
+                })),
+                  L.observeobser.observe(e);
+              },
+              unbind: (e) => {
+                L.observeobser.unobserve(e);
+              },
+            },
+            F = (0, o.iH)(!1),
+            D = (0, o.iH)(!1),
+            $ = (0, o.iH)(!1),
+            V = (0, o.iH)(null),
+            H = (0, o.Fl)(() => N),
+            z = (0, o.Fl)(() =>
+              null == B ? void 0 : B.aggregatedContexts["editor.inMapShotMode"]
+            ),
+            G = (0, o.Fl)(() => (W.value && C.value) || v.value),
+            U = (e, a) => {
+              V.value = e;
+              const n = v.value.findIndex((t) => t.id === e);
+              if (-1 === n) return void (V.value = null);
+              const i = h.value[n].clientWidth;
+              t("work-in-process", !0),
+                (0, o.Y3)(function () {
+                  (m.value[0].value = a),
+                    (m.value[0].style.width = i + "px"),
+                    m.value[0].focus(),
+                    m.value[0].setSelectionRange(0, a.length);
+                });
+            },
+            j = (e) => {
+              (0, s.C)().checkLocked("mutateEditor:deleteSheet") || Z(e);
+            },
+            J = () => {
+              (0, o.Y3)(() => {
+                p.value &&
+                  ((D.value = 0 === p.value.scrollLeft),
+                  ($.value =
+                    p.value.scrollLeft + p.value.offsetWidth >=
+                    p.value.scrollWidth));
+              });
+            },
+            q = (e) => {
+              if (!e) return !1;
+              F.value = e.scrollWidth > e.offsetWidth;
+            };
+          return (
+            (0, o.YP)(
+              () => g.value,
+              (e) => {
+                if (!h.value) return;
+                const t = h.value.find(
+                  (t) => t.getAttribute("data-sheet-id") === e
+                );
+                t && t.scrollIntoView({ behavior: "smooth", block: "center" });
+              }
+            ),
+            {
+              __sfc: !0,
+              emit: t,
+              container: a,
+              sheetBarTab: p,
+              sheetTitleEditor: m,
+              sheetBarTabItems: h,
+              sheets: v,
+              activeSheetId: g,
+              sheetIdTitleList: b,
+              switchSheet: f,
+              newSheet: y,
+              copySheet: k,
+              changeSheetTitle: S,
+              saveSheetAs: x,
+              testSheetPasteVisible: I,
+              pasteSheet: T,
+              duplicateSheet: w,
+              deleteSheet: Z,
+              isDragArea: W,
+              sheetsForDragging: C,
+              onDrop: M,
+              onDragEnd: _,
+              onDragOver: E,
+              onDragEnter: O,
+              onDragLeave: A,
+              onDragStart: P,
+              $T: R,
+              zenMode: N,
+              editorSharedStore: B,
+              vResized: L,
+              isSheetGroupOverflow: F,
+              slideLeftDisable: D,
+              slideRightDisable: $,
+              editingSheetTitleId: V,
+              isZenMode: H,
+              isInMapShotMode: z,
+              currentSheets: G,
+              handleSheetItemClick: (e) => f(e),
+              handleAddSheet: () => y(),
+              showTitleEditor: U,
+              handleSheetDelete: j,
+              openSheetItemContextMenu: (e, t) => {
+                const a = v.value.findIndex((t) => t.id === e),
+                  o = new c.Menu();
+                [
+                  { label: R("Rename"), click: () => U(e, t) },
+                  { type: "separator" },
+                  { label: R("Copy"), click: () => k(a, t) },
+                  { label: R("Paste"), visible: I(), click: () => T(a) },
+                  { label: R("Duplicate"), click: () => w(e) },
+                  {
+                    label: R("Delete"),
+                    enabled: v && v.value.length > 1,
+                    click: () => j(e),
+                  },
+                  { type: "separator" },
+                  { label: R("New Sheet"), click: () => y(e) },
+                  { type: "separator" },
+                  {
+                    label: R("Save Sheet As") + "...",
+                    click: () => x({ sheetIndex: a }),
+                  },
+                ].forEach((e) => o.append(new c.MenuItem(e))),
+                  o.popup({ window: (0, c.getCurrentWindow)() });
+              },
+              saveAndHideTitleEditor: (e) => {
+                const a = v.value.find((t) => t.id === e),
+                  o = a && a.id;
+                if (o) {
+                  const e = m.value[0].value,
+                    t = a.title;
+                  e && e !== t && S(o, e);
+                }
+                (V.value = null), t("work-in-process", !1);
+              },
+              slideSheet: (e) => {
+                if (!p.value || !h.value) return;
+                let t = 0;
+                if ("left" === e) {
+                  const e = p.value.scrollLeft;
+                  for (let a of h.value) {
+                    if (t + a.offsetWidth + 1 > e)
+                      return void (p.value.scrollLeft = t - 1);
+                    t += a.offsetWidth + 1;
+                  }
+                } else if ("right" === e) {
+                  const e = p.value.scrollLeft + p.value.offsetWidth;
+                  for (let a of h.value)
+                    if (((t += a.offsetWidth + 1), t > e))
+                      return void (p.value.scrollLeft =
+                        t - p.value.offsetWidth + 1);
+                }
+              },
+              isSheetBarAbleSlide: J,
+              checkSheetGroupOverflow: q,
+              SheetSlideButton: u.Z,
+            }
+          );
+        },
+      });
+      a(33040);
+      const m = (0, a(51900).Z)(
+        p,
+        function () {
+          var e = this,
+            t = e._self._c,
+            a = e._self._setupProxy;
+          return a.currentSheets.length > 0
+            ? t(
+                "div",
+                {
+                  ref: "container",
+                  staticClass:
+                    "uk-visible-toggle uk-flex uk-flex-row uk-flex-middle uk-height-1-1 uk-position-relative",
+                  style: {
+                    visibility: a.isInMapShotMode ? "hidden" : "visible",
+                  },
+                  on: {
+                    dragover: function (e) {
+                      return a.onDragOver(e);
+                    },
+                    dragleave: function (e) {
+                      return a.onDragLeave(e);
+                    },
+                    drop: function (e) {
+                      return a.onDrop(e);
+                    },
+                    dragenter: function (e) {
+                      return (
+                        e.stopPropagation(),
+                        a.onDragEnter.apply(null, arguments)
+                      );
+                    },
+                  },
+                },
+                [
+                  a.isInMapShotMode
+                    ? t("div", {
+                        staticClass:
+                          "uk-height-1-1 uk-width-1-1 uk-position-absolute",
+                        staticStyle: { "z-index": "2" },
+                      })
+                    : e._e(),
+                  e._v(" "),
+                  t(
+                    "div",
+                    {
+                      staticClass:
+                        "uk-workbench-sheet-bar uk-height-1-1 uk-overflow-hidden",
+                      class: [
+                        {
+                          "uk-invisible-hover":
+                            1 === a.currentSheets.length &&
+                            null === a.editingSheetTitleId &&
+                            !a.isZenMode,
+                        },
+                      ],
+                    },
+                    [
+                      t(
+                        "ul",
+                        {
+                          directives: [
+                            { name: "resized", rawName: "v-resized" },
+                          ],
+                          ref: "sheetBarTab",
+                          staticClass:
+                            "uk-tab vk-tab-capsule uk-overflow-auto uk-scrollbar-hidden",
+                          staticStyle: { "flex-wrap": "nowrap" },
+                          attrs: { "uk-tab": "" },
+                          on: { scroll: a.isSheetBarAbleSlide },
+                        },
+                        e._l(
+                          a.currentSheets,
+                          function ({ id: o, title: n }, i) {
+                            return t(
+                              "li",
+                              {
+                                key: o,
+                                ref: "sheetBarTabItems",
+                                refInFor: !0,
+                                class: { "uk-active": a.activeSheetId === o },
+                                attrs: {
+                                  "data-index": i,
+                                  draggable: null === a.editingSheetTitleId,
+                                  "data-sheet-id": o,
+                                },
+                                on: {
+                                  dragstart: function (e) {
+                                    return a.onDragStart(e, o);
+                                  },
+                                  dragend: a.onDragEnd,
+                                },
+                              },
+                              [
+                                t(
+                                  "a",
+                                  {
+                                    directives: [
+                                      {
+                                        name: "focus-contexts",
+                                        rawName: "v-focus-contexts:no",
+                                        arg: "no",
+                                      },
+                                    ],
+                                    staticClass:
+                                      "uk-visible-toggle sheetbar-item uk-flex uk-flex-middle",
+                                    attrs: { draggable: "false" },
+                                    on: {
+                                      click: function (e) {
+                                        return a.handleSheetItemClick(o);
+                                      },
+                                      dblclick: function (e) {
+                                        return a.showTitleEditor(o, n);
+                                      },
+                                      contextmenu: function (e) {
+                                        return a.openSheetItemContextMenu(
+                                          o,
+                                          n ?? ""
+                                        );
+                                      },
+                                    },
+                                  },
+                                  [
+                                    a.editingSheetTitleId !== o
+                                      ? t(
+                                          "div",
+                                          {
+                                            staticClass:
+                                              "sheetbar-item-container uk-flex uk-flex-center uk-flex-middle",
+                                          },
+                                          [
+                                            t(
+                                              "span",
+                                              {
+                                                staticClass:
+                                                  "uk-text-truncate typography-subhead-mini",
+                                                staticStyle: {
+                                                  margin: "0 4px 0 20px",
+                                                },
+                                              },
+                                              [e._v(e._s(n || ""))]
+                                            ),
+                                            e._v(" "),
+                                            t("span", {
+                                              staticClass: "uk-invisible-hover",
+                                              staticStyle: {
+                                                "margin-right": "4px",
+                                              },
+                                              attrs: {
+                                                "uk-icon":
+                                                  "icon: chevron-downward; ratio: 0.6",
+                                              },
+                                              on: {
+                                                click: function (e) {
+                                                  return a.openSheetItemContextMenu(
+                                                    o,
+                                                    n || ""
+                                                  );
+                                                },
+                                              },
+                                            }),
+                                          ]
+                                        )
+                                      : t(
+                                          "div",
+                                          {
+                                            staticClass:
+                                              "sheetbar-item-container uk-flex uk-flex-row uk-flex-middle",
+                                          },
+                                          [
+                                            t("input", {
+                                              directives: [
+                                                {
+                                                  name: "focus-contexts",
+                                                  rawName: "v-focus-contexts",
+                                                  value: ["focus.input"],
+                                                  expression: "['focus.input']",
+                                                },
+                                              ],
+                                              ref: "sheetTitleEditor",
+                                              refInFor: !0,
+                                              staticClass:
+                                                "uk-input sheet-title-edit-input",
+                                              staticStyle: {
+                                                border: "none",
+                                                width: "100%",
+                                              },
+                                              attrs: { type: "text" },
+                                              on: {
+                                                keyup: function (t) {
+                                                  return !t.type.indexOf(
+                                                    "key"
+                                                  ) &&
+                                                    e._k(
+                                                      t.keyCode,
+                                                      "enter",
+                                                      13,
+                                                      t.key,
+                                                      "Enter"
+                                                    )
+                                                    ? null
+                                                    : a.saveAndHideTitleEditor(
+                                                        o
+                                                      );
+                                                },
+                                                blur: function (e) {
+                                                  return a.saveAndHideTitleEditor(
+                                                    o
+                                                  );
+                                                },
+                                              },
+                                            }),
+                                          ]
+                                        ),
+                                  ]
+                                ),
+                              ]
+                            );
+                          }
+                        ),
+                        0
+                      ),
+                    ]
+                  ),
+                  e._v(" "),
+                  t("div", {
+                    staticClass: "statusbar-divider-vertical",
+                    class: {
+                      "uk-invisible-hover": a.currentSheets.length <= 1,
+                    },
+                  }),
+                  e._v(" "),
+                  t(
+                    "div",
+                    {
+                      staticClass:
+                        "uk-flex uk-flex-row uk-flex-middle uk-height-1-1",
+                    },
+                    [
+                      t(a.SheetSlideButton, {
+                        directives: [
+                          {
+                            name: "show",
+                            rawName: "v-show",
+                            value: a.isSheetGroupOverflow,
+                            expression: "isSheetGroupOverflow",
+                          },
+                        ],
+                        attrs: {
+                          "slide-left-disable": a.slideLeftDisable,
+                          "slide-right-disable": a.slideRightDisable,
+                          "slide-left-handler": () => a.slideSheet("left"),
+                          "slide-right-handler": () => a.slideSheet("right"),
+                        },
+                      }),
+                      e._v(" "),
+                      t(
+                        "div",
+                        {
+                          staticClass: "uk-padding-remove uk-margin-remove",
+                          class: [
+                            {
+                              "uk-invisible-hover": a.currentSheets.length <= 1,
+                            },
+                          ],
+                        },
+                        [
+                          t(
+                            "button",
+                            {
+                              directives: [
+                                {
+                                  name: "focus-contexts",
+                                  rawName: "v-focus-contexts:no",
+                                  arg: "no",
+                                },
+                              ],
+                              staticClass: "vk-button-tile uk-padding-remove",
+                              staticStyle: {
+                                height: "var(--spacing-sheetbar-height)",
+                                width: "var(--spacing-sheetbar-height)",
+                              },
+                              on: { click: a.handleAddSheet },
+                            },
+                            [
+                              t("span", {
+                                attrs: { "uk-icon": "icon: add; ratio: 0.8" },
+                              }),
+                            ]
+                          ),
+                        ]
+                      ),
+                    ],
+                    1
+                  ),
+                ]
+              )
+            : e._e();
+        },
+        [],
+        !1,
+        null,
+        "3fc3929a",
+        null
+      ).exports;
+    },
+    81404: (e, t, a) => {
+      "use strict";
+      a.d(t, { Z: () => n });
+      const o = (0, a(2954).aZ)({
+        __name: "sheet-slide-button",
+        props: {
+          slideLeftDisable: { type: Boolean },
+          slideRightDisable: { type: Boolean },
+          slideRightHandler: null,
+          slideLeftHandler: null,
+        },
+        setup: (e) => ({ __sfc: !0 }),
+      });
+      const n = (0, a(51900).Z)(
+        o,
+        function () {
+          var e = this,
+            t = e._self._c;
+          e._self._setupProxy;
+          return t(
+            "div",
+            { staticClass: "uk-flex uk-flex-row uk-flex-middle uk-height-1-1" },
+            [
+              t(
+                "div",
+                {
+                  staticClass:
+                    "uk-padding-remove uk-margin-remove uk-height-1-1",
+                },
+                [
+                  t(
+                    "button",
+                    {
+                      directives: [
+                        {
+                          name: "focus-contexts",
+                          rawName: "v-focus-contexts:no",
+                          arg: "no",
+                        },
+                      ],
+                      staticClass: "vk-button-tile uk-padding-remove",
+                      staticStyle: {
+                        height: "var(--spacing-sheetbar-height)",
+                        width: "var(--spacing-sheetbar-height)",
+                      },
+                      attrs: { disabled: e.slideLeftDisable },
+                      on: { click: e.slideLeftHandler },
+                    },
+                    [
+                      t("span", {
+                        attrs: {
+                          "uk-icon": "icon: chevron-backward; ratio: 0.8",
+                        },
+                      }),
+                    ]
+                  ),
+                ]
+              ),
+              e._v(" "),
+              t(
+                "div",
+                {
+                  staticClass:
+                    "uk-padding-remove uk-margin-remove uk-height-1-1",
+                },
+                [
+                  t(
+                    "button",
+                    {
+                      directives: [
+                        {
+                          name: "focus-contexts",
+                          rawName: "v-focus-contexts:no",
+                          arg: "no",
+                        },
+                      ],
+                      staticClass: "vk-button-tile uk-padding-remove",
+                      staticStyle: {
+                        height: "var(--spacing-sheetbar-height)",
+                        width: "var(--spacing-sheetbar-height)",
+                      },
+                      attrs: { disabled: e.slideRightDisable },
+                      on: { click: e.slideRightHandler },
+                    },
+                    [
+                      t("span", {
+                        attrs: {
+                          "uk-icon": "icon: chevron-forward; ratio: 0.8",
+                        },
+                      }),
+                    ]
+                  ),
+                ]
+              ),
+            ]
+          );
+        },
+        [],
+        !1,
+        null,
+        null,
+        null
+      ).exports;
+    },
+    81631: (e, t, a) => {
+      "use strict";
+      a.d(t, { Z: () => p });
+      var o = a(2954),
+        n = a(78198),
+        i = a(86842),
+        l = a(27049),
+        r = a(46016),
+        s = a(60746),
+        d = a(67657),
+        c = a(84374);
+      const u = (0, o.aZ)({
+        __name: "zoom-control",
+        setup(e) {
+          const {
+            isZoomGroupDisabled: t,
+            handleZoomControlBtnClick: a,
+            zoomControlLabel: u,
+          } = (() => {
+            const { T: e } = (0, i.C)(),
+              {
+                updateOutlinerSheetStatus: t,
+                updateSheetStatus: a,
+                getOutlinerZoomScaleForSheet: u,
+              } = (0, l.E)(),
+              {
+                executeEditorAction: p,
+                activeSheetId: m,
+                currentZoomScale: h,
+              } = (0, c.nZ)(),
+              v = (0, o.Fl)(
+                () => (0, l.E)().sheetRendering || (0, r.$)().mapshotMode
+              ),
+              g = (0, o.Fl)(() => "outliner" === (0, r.$)().editorMode),
+              b = (0, o.Fl)(() =>
+                g.value ? n.ZP.filter((e) => e >= 80 && e <= 300) : n.ZP
+              ),
+              f = (0, o.Fl)(() => (g.value ? u(m.value) : 100 * h.value)),
+              y = (0, o.Fl)(() => {
+                let e = [...b.value, f.value];
+                return (
+                  (e = Array.from(new Set(e))),
+                  (e = e.sort((e, t) => Number(t) - Number(e))),
+                  e.map((e) => ({ text: (0, s.Ni)(e), value: e }))
+                );
+              }),
+              k = (0, o.Fl)(() => (0, s.Ni)(f.value)),
+              S = ({ value: e, isFitMap: o }) => {
+                o
+                  ? p({ name: "mutateEditor:fitMap" })
+                  : isNaN(e) ||
+                    (g.value
+                      ? t({ id: m.value, zoomScale: e })
+                      : (a({ id: m.value, zoomScale: e }),
+                        p({
+                          name: "mutateEditor:zoomScale",
+                          inputValue: Number(e) / 100,
+                        })));
+              };
+            return {
+              zoomValue: f,
+              zoomOptions: y,
+              zoomScaleLists: b,
+              zoomControlLabel: k,
+              isZoomGroupDisabled: v,
+              handleZoomControlBtnClick: () => {
+                const t = new d.Menu();
+                for (const e of y.value)
+                  t.append(
+                    new d.MenuItem({
+                      label: e.text,
+                      type: "checkbox",
+                      checked: f.value === e.value,
+                      click: async () => {
+                        S({ value: Number(e.value), isFitMap: !1 });
+                      },
+                    })
+                  );
+                g.value ||
+                  (t.append(new d.MenuItem({ type: "separator" })),
+                  t.append(
+                    new d.MenuItem({
+                      label: e("Fit Map"),
+                      type: "checkbox",
+                      click: () => {
+                        S({ isFitMap: !0 });
+                      },
+                    })
+                  )),
+                  t.popup({ window: (0, d.getCurrentWindow)() });
+              },
+            };
+          })();
+          return {
+            __sfc: !0,
+            isZoomGroupDisabled: t,
+            handleZoomControlBtnClick: a,
+            zoomControlLabel: u,
+          };
+        },
+      });
+      const p = (0, a(51900).Z)(
+        u,
+        function () {
+          var e = this,
+            t = e._self._c,
+            a = e._self._setupProxy;
+          return t(
+            "button",
+            {
+              directives: [
+                {
+                  name: "focus-contexts",
+                  rawName: "v-focus-contexts:no",
+                  arg: "no",
+                },
+              ],
+              staticClass: "vk-button-tile keep-edit-session",
+              staticStyle: {
+                height: "var(--spacing-sheetbar-height)",
+                padding: "0 4px",
+                display: "flex",
+              },
+              attrs: { disabled: a.isZoomGroupDisabled },
+              on: { click: a.handleZoomControlBtnClick },
+            },
+            [
+              t(
+                "span",
+                {
+                  staticClass: "typography-body-medium",
+                  attrs: { title: e.$T("Zoom in/out.") },
+                },
+                [e._v("\n    " + e._s(a.zoomControlLabel) + "\n  ")]
+              ),
+              e._v(" "),
+              t("span", {
+                attrs: { "uk-icon": "icon: chevron-downward; ratio: 0.6" },
+              }),
+            ]
+          );
+        },
+        [],
+        !1,
+        null,
+        "ae6521b2",
+        null
+      ).exports;
+    },
+    12366: (e, t, a) => {
+      "use strict";
+      a.r(t), a.d(t, { default: () => l });
+      var o = a(2954),
+        n = a(87141);
+      const i = (0, o.aZ)({
+        __name: "index",
+        setup: (e) => ({
+          __sfc: !0,
+          exitBranchOnlyMode: () => {
+            (0, n.JX)().handleCommand("editor.exitBranchOnly");
+          },
+        }),
+      });
+      const l = (0, a(51900).Z)(
+        i,
+        function () {
+          var e = this,
+            t = e._self._c,
+            a = e._self._setupProxy;
+          return t("div", { staticStyle: { border: "none" } }, [
+            t(
+              "button",
+              {
+                staticClass: "vk-button-secondary vk-size-small",
+                on: {
+                  click: function (e) {
+                    return (
+                      e.preventDefault(),
+                      a.exitBranchOnlyMode.apply(null, arguments)
+                    );
+                  },
+                },
+              },
+              [
+                t("span", { attrs: { "uk-icon": "icon: arrow-left" } }),
+                e._v(" "),
+                t(
+                  "span",
+                  {
+                    staticStyle: { "margin-left": "var(--spacing-margin-xxs)" },
+                  },
+                  [e._v(e._s(e.$T("Show Full Content")))]
+                ),
+              ]
+            ),
+          ]);
+        },
+        [],
+        !1,
+        null,
+        null,
+        null
+      ).exports;
+    },
+    32470: (e, t, a) => {
+      "use strict";
+      a.r(t), a.d(t, { default: () => z });
+      var o = a(2954),
+        n = a(87141),
+        i = a(46016),
+        l = a(64805),
+        r = a(69931),
+        s = a(89411),
+        d = a(84374),
+        c = a(40623),
+        u = a(77995);
+      const p = (e) => {
+        const { T: t } = (0, n.JE)(),
+          { handleCommand: a } = (0, n.JX)(),
+          {
+            activeSheet: l,
+            sheets: r,
+            executeEditorAction: s,
+            executeMutationAction: p,
+            markerModule: k,
+          } = (0, d.nZ)(),
+          S = (0, o.Fl)(() => (0, i.$)().isOutlinerMode),
+          x = (0, o.iH)(""),
+          I = (0, o.iH)(""),
+          T = (0, o.iH)(e.menuOptions),
+          w = (0, o.iH)("find"),
+          Z = (0, o.iH)([]),
+          W = (0, o.Fl)(() => Z.value[0]),
+          C = (0, o.Fl)(() => {
+            const e = x.value;
+            if (e.length <= 0) return null;
+            const t = !T.value.isCurrentMapMode,
+              a = t ? r.value.map((e) => e.rootTopic) : [l.value.rootTopic],
+              o = t
+                ? r.value
+                    .map((e) => e.relationships)
+                    .reduce((e, t) => e.concat(t))
+                : l.value.relationships,
+              { filters: n } = T.value,
+              { wholeWords: i, matchCase: s } = n;
+            return {
+              keyword: e,
+              rootTopics: a,
+              relationships: o,
+              rgx: g(e, i, s, !0),
+            };
+          }),
+          M = (0, o.Fl)(() => {
+            if (!C.value) return [];
+            const { filters: e } = T.value,
+              { rootTopics: t, relationships: a, rgx: o } = C.value;
+            let n = [];
+            const i = {};
+            return (
+              t.forEach((t) => {
+                var s, u, p, m, h, g;
+                let f = [];
+                const k = (e, t, a, o, n, i) => {
+                  f.push({
+                    isSearchResult: !0,
+                    value: t,
+                    text: a,
+                    title: o,
+                    type: e,
+                    topicId: n,
+                    slotType: "searchItem",
+                    sheetId: i,
+                  });
+                };
+                for (const a of y([t], S.value)) {
+                  if (
+                    (e.topic &&
+                      (null !== (s = a.title) && void 0 !== s ? s : "").match(
+                        o
+                      ) &&
+                      k("topic", a.id, a.title, a.title, a.id, a.ownerSheet.id),
+                    e.label)
+                  ) {
+                    let e = [];
+                    const t = r.value.find((e) => a.ownerSheet.id === e.id);
+                    if (t) {
+                      const o =
+                        null === (u = t.query({ id: a.id })) || void 0 === u
+                          ? void 0
+                          : u.asTopic();
+                      o && (e = d.HG.getLabels(o));
+                    }
+                    i[a.id] = { labels: e, sheet: t };
+                  }
+                  if (
+                    e.note &&
+                    (null === (p = a.notes) || void 0 === p
+                      ? void 0
+                      : p.text) &&
+                    a.notes.text.match(o)
+                  ) {
+                    const e = `note-${a.id}-${a.notes.text}`;
+                    k("note", e, a.notes.text, a.title, a.id, a.ownerSheet.id);
+                  }
+                  if (e.link && a.href && b(a.href) && a.href.match(o)) {
+                    const e = `link-${a.id}-${a.href}`;
+                    k("link", e, a.href, a.title, a.id, a.ownerSheet.id);
+                  }
+                  if (
+                    e.boundary &&
+                    (null === (m = a.boundaries) || void 0 === m
+                      ? void 0
+                      : m.length) > 0
+                  )
+                    for (const e of a.boundaries)
+                      (null === (h = e.title) || void 0 === h
+                        ? void 0
+                        : h.match(o)) &&
+                        k(
+                          "boundary",
+                          e.id,
+                          e.title,
+                          a.title,
+                          a.id,
+                          a.ownerSheet.id
+                        );
+                }
+                if (e.relationship && a)
+                  for (const e of a)
+                    (null === (g = e.title) || void 0 === g
+                      ? void 0
+                      : g.match(o)) &&
+                      t.ownerSheet.id === e.ownerSheet.id &&
+                      k(
+                        "relationship",
+                        e.id,
+                        e.title,
+                        e.title,
+                        null,
+                        e.ownerSheet.id
+                      );
+                e.label &&
+                  Object.keys(i).forEach((e) => {
+                    var a, n, r, s, d;
+                    let u = i[e].labels;
+                    const p = i[e].sheet;
+                    if (!p) return;
+                    if (t.ownerSheet.id !== p.id) return;
+                    const m =
+                      null === (a = p.query({ id: e })) || void 0 === a
+                        ? void 0
+                        : a.asTopic();
+                    if (!m) return;
+                    const h =
+                        null ===
+                          (r =
+                            null === (n = m.parentTopic) || void 0 === n
+                              ? void 0
+                              : n.parentTopic) || void 0 === r
+                          ? void 0
+                          : r.id,
+                      v = h
+                        ? null === (s = l.value.query({ id: h })) ||
+                          void 0 === s
+                          ? void 0
+                          : s.asTopic()
+                        : null;
+                    if (
+                      !m.extensionProviders.includes(c.vP.SPREADSHEET) &&
+                      v &&
+                      v.extensionProviders.includes(c.vP.SPREADSHEET)
+                    ) {
+                      const e =
+                        (null === (d = i[v.id]) || void 0 === d
+                          ? void 0
+                          : d.labels) || [];
+                      u = u.filter((t) => !e.includes(t));
+                    }
+                    u.sort().forEach((t) => {
+                      if (t && t.match(o)) {
+                        k(
+                          "label",
+                          `label-${e}-${t}`,
+                          t,
+                          m.title,
+                          e,
+                          m.ownerSheet.id
+                        );
+                      }
+                    });
+                  }),
+                  (f = v(o, f)),
+                  T.value.isCurrentMapMode
+                    ? (n = f)
+                    : f.length &&
+                      n.push(
+                        ((e, t) => {
+                          const a = e.map((e) => ({ ...e, unindent: !0 }));
+                          return {
+                            isSearchResult: !0,
+                            value: t.id,
+                            text: t.title,
+                            type: "topic",
+                            topicId: t.rootTopic.id,
+                            slotType: "sheetTitle",
+                            sheetId: t.id,
+                            expanded: !0,
+                            items: a,
+                          };
+                        })(f, t.ownerSheet)
+                      );
+              }),
+              n
+            );
+          }),
+          _ = (0, o.Fl)(() => {
+            const { isCurrentMapMode: e } = T.value;
+            if (!r.value.length) return [];
+            const a = (e ? [l.value] : r.value).map((e) => {
+              const { rootTopic: a, title: o } = e;
+              return {
+                value: a.id,
+                text: `[${o}]${m(a, t)}`,
+                expanded: !0,
+                items: h(
+                  a,
+                  (e) => ({
+                    value: e.id,
+                    text: m(e, t),
+                    expanded: !0,
+                    items: [],
+                    sheetId: e.ownerSheet.id,
+                    slotType: "topicItem",
+                    type: "topic",
+                  }),
+                  (e, t) => ({ ...e, items: [...e.items, t] }),
+                  S.value
+                ).items,
+                sheetId: e.id,
+                type: "topic",
+                slotType: "sheetTitle",
+              };
+            });
+            return (
+              a.map((e, t) =>
+                a[t].items.map((e, o) => {
+                  a[t].items[o].isTitle = !0;
+                })
+              ),
+              a
+            );
+          }),
+          E = (0, o.Fl)(() => {
+            const { isCurrentMapMode: e } = T.value;
+            if (!r.value.length) return [];
+            return (e ? [l.value] : r.value)
+              .map((e) => {
+                const { rootTopic: t } = e;
+                return h(
+                  t,
+                  (e) => {
+                    var t, a;
+                    return [
+                      {
+                        expanded: !0,
+                        value: e.id,
+                        text:
+                          null !==
+                            (a =
+                              null === (t = e.notes) || void 0 === t
+                                ? void 0
+                                : t.text) && void 0 !== a
+                            ? a
+                            : "",
+                        title: e.title,
+                        slotType: "noteItem",
+                        sheetId: e.ownerSheet.id,
+                        type: "note",
+                      },
+                    ];
+                  },
+                  (e, t) => e.concat(t),
+                  S.value
+                );
+              })
+              .reduce((e, t) => e.concat(t))
+              .filter((e) => e.text.length > 0);
+          }),
+          O = (0, o.Fl)(() => {
+            const e = ((e, t) => {
+                const a = new Map();
+                return e.filter((e) => !a.has(e[t]) && a.set(e[t], 1));
+              })(
+                h(
+                  l.value.rootTopic,
+                  (e) =>
+                    e.markers.map((t) => {
+                      var a;
+                      const o = k.getMarkerInfoById(t);
+                      return {
+                        type: "marker",
+                        value: t,
+                        text:
+                          (null === (a = l.value.markerDescriptionFor(t)) ||
+                          void 0 === a
+                            ? void 0
+                            : a.name) || o.name,
+                        icon: o.imageSrc,
+                        unindent: !0,
+                        slotType: "item",
+                        sheetId: e.ownerSheet.id,
+                      };
+                    }),
+                  (e, t) => e.concat(t),
+                  S.value
+                ),
+                "value"
+              ),
+              a = [];
+            e.length &&
+              a.push({
+                type: "marker",
+                isTitle: !0,
+                text: t("Marker"),
+                value: "$tag-view-marker",
+                expanded: !0,
+                items: e,
+                slotType: "item",
+                sheetId: l.value.id,
+              });
+            const o = d.HG.allLabelsFromSheet(l.value)
+              .sort()
+              .map((e) => ({
+                type: "label",
+                value: e,
+                text: e,
+                unindent: !0,
+                slotType: "item",
+                sheetId: l.value.id,
+              }));
+            o.length > 0 &&
+              a.push({
+                type: "label",
+                isTitle: !0,
+                text: t("Label"),
+                value: "$tag-view-label",
+                expanded: !0,
+                items: o,
+                slotType: "item",
+                sheetId: l.value.id,
+              });
+            const n = new Map();
+            return (
+              h(
+                l.value.rootTopic,
+                (e) => {
+                  if (e.taskPresentation) {
+                    const a = {
+                        status: 1 === e.taskProgress ? "done" : "todo",
+                      },
+                      o =
+                        "status:" +
+                        ("done" === a.status ? "checked" : "unchecked");
+                    n.has(e.id) ||
+                      n.set(o, {
+                        type: "task",
+                        value: JSON.stringify(a),
+                        text:
+                          "done" === a.status
+                            ? t("Completed")
+                            : t("Uncompleted"),
+                        icon: "",
+                        unindent: !0,
+                        slotType: "item",
+                        sheetId: e.ownerSheet.id,
+                      });
+                  }
+                },
+                () => {},
+                S.value
+              ),
+              n.size > 0 &&
+                (a.push({
+                  type: "task",
+                  isTitle: !0,
+                  text: t("Task"),
+                  value: "$tag-view-task",
+                  expanded: !0,
+                  items: Array.from(n.values()),
+                  slotType: "item",
+                  sheetId: l.value.id,
+                }),
+                n.clear()),
+              a
+            );
+          }),
+          A = (e) => {
+            p({ name: "mutate:replaceText", payload: e });
+          },
+          P = (e) => {
+            if (!C.value) return;
+            const { rgx: t } = C.value,
+              a = I.value,
+              o = e
+                .filter((e) => "topic" === e.type)
+                .map((e) => ({
+                  id: e.topicId,
+                  type: "topic",
+                  sheetId: e.sheetId,
+                })),
+              n = e
+                .filter((e) => "note" === e.type)
+                .map((e) => ({
+                  id: e.topicId,
+                  type: "note",
+                  sheetId: e.sheetId,
+                })),
+              i = e
+                .filter((e) => "label" === e.type)
+                .map((e) => ({
+                  id: `${e.topicId}-${e.value}`,
+                  type: "label",
+                  sheetId: e.sheetId,
+                  topicId: e.topicId,
+                  value: e.value,
+                })),
+              l = e
+                .filter((e) => "link" === e.type)
+                .map((e) => ({
+                  id: e.topicId,
+                  type: "link",
+                  sheetId: e.sheetId,
+                })),
+              r = e
+                .filter((e) => "boundary" === e.type)
+                .map((e) => ({
+                  id: e.value,
+                  type: "boundary",
+                  sheetId: e.sheetId,
+                })),
+              s = e
+                .filter((e) => "relationship" === e.type)
+                .map((e) => ({
+                  id: e.value,
+                  type: "relationship",
+                  sheetId: e.sheetId,
+                }));
+            A({
+              topics: o,
+              notes: n,
+              labels: i,
+              links: l,
+              boundaries: r,
+              relationships: s,
+              rgx: t,
+              text: a,
+            });
+          };
+        return (
+          (0, o.YP)(
+            () => M.value,
+            (e) => {
+              Z.value = Z.value.filter((t) =>
+                e.find((e) => {
+                  let a = !0;
+                  return (
+                    "topicId" in t &&
+                      "topicId" in e &&
+                      (a = t.topicId === e.topicId),
+                    a && t.type === e.type && t.value === e.value
+                  );
+                })
+              );
+            },
+            { immediate: !0 }
+          ),
+          {
+            mode: w,
+            searchContent: x,
+            replaceContent: I,
+            options: T,
+            searchResult: M,
+            workbookData: _,
+            workbookNotesData: E,
+            workbookTagsData: O,
+            selectedItems: Z,
+            selectedItem: W,
+            selectItem: (e) => (Z.value = [e]),
+            openSearchResultItem: (e) => {
+              var t;
+              const o = f(e),
+                n = e.type,
+                l = o ? e.topicId : e.value;
+              switch (n) {
+                case "topic":
+                  S.value
+                    ? a("editor.selectTopicById", { topicId: l })
+                    : p({
+                        name: "mutate:selectTopics",
+                        payload: { topics: [l], centerOn: !0 },
+                      });
+                  break;
+                case "note":
+                  S.value
+                    ? a("editor.selectTopicById", { topicId: l })
+                    : p({
+                        name: "mutate:selectTopics",
+                        payload: { topics: [l], centerOn: !0 },
+                      }),
+                    setTimeout(() => {
+                      (0, i.$)().setPopoverEditorVisible("notes");
+                    }, 100);
+                  break;
+                case "label":
+                  "item" === e.slotType
+                    ? s({
+                        name: "mutateEditor:setHighlightLabels",
+                        payload: Z.value
+                          .filter((e) => "label" === e.type)
+                          .map((e) => e.value),
+                      })
+                    : (S.value
+                        ? a("editor.selectTopicById", { topicId: l })
+                        : p({
+                            name: "mutate:selectTopics",
+                            payload: { topics: [l], centerOn: !0 },
+                          }),
+                      setTimeout(() => {
+                        (0, i.$)().setPopoverEditorVisible("label");
+                      }, 100));
+                  break;
+                case "link":
+                  S.value
+                    ? a("editor.selectTopicById", { topicId: l })
+                    : p({
+                        name: "mutate:selectTopics",
+                        payload: { topics: [l], centerOn: !0 },
+                      }),
+                    setTimeout(() => {
+                      (0, u.H)();
+                    }, 100);
+                  break;
+                case "boundary":
+                  s({
+                    name: "mutateEditor:unfoldTopicAncestors",
+                    payload: { topicId: l },
+                  }),
+                    p({
+                      name: "mutate:selectBoundaries",
+                      payload: { boundaries: [e.value], centerOn: !0 },
+                    });
+                  break;
+                case "relationship":
+                  s({
+                    name: "mutateEditor:unfoldTopicAncestors",
+                    payload: { topicId: l },
+                  }),
+                    p({
+                      name: "mutate:selectRelationships",
+                      payload: { relationships: [e.value], centerOn: !0 },
+                    });
+                  break;
+                case "marker":
+                  s({
+                    name: "mutateEditor:setHighlightMarkers",
+                    payload: Z.value
+                      .filter((e) => "marker" === e.type)
+                      .map((e) => e.value),
+                  });
+                  break;
+                case "task":
+                  s({
+                    name: "mutateEditor:setHighlightTasks",
+                    payload: Z.value
+                      .filter((e) => "task" === e.type)
+                      .map((e) => JSON.parse(e.value)),
+                  });
+              }
+              if (!S.value) {
+                const { activeSheetViewer: e } = (0, d.nZ)();
+                null === (t = e.value) || void 0 === t || t.focus();
+              }
+            },
+            replaceText: A,
+            onReplace: () => {
+              if (!W.value || !C.value) return;
+              const e = W.value,
+                t = f(e),
+                a = t ? e.type : "topic",
+                o = t
+                  ? ["boundary", "relationship"].includes(a)
+                    ? e.value
+                    : e.topicId
+                  : e.value,
+                n = W.value.sheetId,
+                { rgx: i } = C.value,
+                l = I.value;
+              A({
+                rgx: i,
+                text: l,
+                topics:
+                  "topic" === a ? [{ id: o, type: "topic", sheetId: n }] : [],
+                notes:
+                  "note" === a ? [{ id: o, type: "note", sheetId: n }] : [],
+                labels:
+                  "label" === a
+                    ? [
+                        {
+                          id: `${o}-${e.value}`,
+                          type: "label",
+                          sheetId: n,
+                          topicId: o,
+                          value: e.value,
+                        },
+                      ]
+                    : [],
+                links:
+                  "link" === a ? [{ id: o, type: "link", sheetId: n }] : [],
+                boundaries:
+                  "boundary" === a
+                    ? [{ id: o, type: "boundary", sheetId: n }]
+                    : [],
+                relationships:
+                  "relationship" === a
+                    ? [{ id: o, type: "relationship", sheetId: n }]
+                    : [],
+              });
+            },
+            onReplaceAll: async (e = M.value) => {
+              const { isCurrentMapMode: t } = T.value;
+              t
+                ? P(e)
+                : e.reduce(
+                    async (e, t) => (
+                      await e,
+                      new Promise((e) => {
+                        setTimeout(() => {
+                          e(P(t.items || []));
+                        });
+                      })
+                    ),
+                    Promise.resolve()
+                  );
+            },
+          }
+        );
+      };
+      function m(e, t) {
+        return e.imageSource ? `[${t("Image")}] ${e.title || ""}` : e.title;
+      }
+      function h(e, t, a, o) {
+        let n = t(e);
+        for (const i of e.children) n = a(n, h(i, t, a, o));
+        for (const i of e.detachedChildren) n = a(n, h(i, t, a, o));
+        if (!o) {
+          for (const i of e.summaries.map((e) => e.topic))
+            n = a(n, h(i, t, a, o));
+          e.callout && (n = a(n, h(e.callout, t, a, o)));
+        }
+        return n;
+      }
+      const v = (e, t) =>
+          t.map((t) => {
+            const a = t.text,
+              o = [],
+              n = a.split(e),
+              i = a.match(e);
+            let l = !1;
+            const r = n.length + i.length;
+            for (let e = 0; e < r; e++)
+              l
+                ? o.push({ text: i.shift(), isHighlight: !0 })
+                : o.push({ text: n.shift(), isHighlight: !1 }),
+                (l = !l);
+            return (t.highlight = o.filter((e) => !!e.text)), t;
+          }),
+        g = (e, t, a, o) => {
+          if (!e) return;
+          (e = ((e) => e.replace(/[-\\{}*+?|^$.[\]()#]/g, "\\$&"))(e)),
+            t &&
+              (/\B/.test(e.charAt(0)) || (e = "\\b" + e),
+              /\B/.test(e.charAt(e.length - 1)) || (e += "\\b"));
+          let n = "";
+          return a || (n += "i"), o && (n += "g"), new RegExp(e, n);
+        },
+        b = (e) => e.startsWith("http"),
+        f = (e) => !!e.isSearchResult;
+      function* y(e, t) {
+        var a, o;
+        for (const n of e) {
+          yield n;
+          for (const e of y(n.children, t)) yield e;
+          for (const e of y(
+            null !== (a = n.detachedChildren) && void 0 !== a ? a : [],
+            t
+          ))
+            yield e;
+          if (!t) {
+            for (const e of y(
+              (null !== (o = n.summaries) && void 0 !== o ? o : []).map(
+                (e) => e.topic
+              ),
+              t
+            ))
+              yield e;
+            n.callout && (yield n.callout);
+          }
+        }
+      }
+      var k = a(89019);
+      const S = (e) => {
+          const t = (0, n.JE)().T,
+            {
+              activeSheet: a,
+              sheets: l,
+              executeEditorAction: r,
+              executeMutationAction: s,
+              markerModule: p,
+            } = (0, d.nZ)(),
+            S = (0, o.iH)(""),
+            x = (0, o.iH)(""),
+            I = (0, o.iH)(e.menuOptions),
+            T = (0, o.iH)("find"),
+            w = (0, o.iH)([]),
+            Z = (0, o.Fl)(() => w.value[0]),
+            W = (0, o.Fl)(() =>
+              (0, k.c)().editingCollaborationTopics.map((e) => e.id)
+            ),
+            C = (0, o.Fl)(() => {
+              const e = S.value;
+              if (e.length <= 0) return null;
+              const t = !I.value.isCurrentMapMode,
+                o = t ? l.value.map((e) => e.rootTopic) : [a.value.rootTopic],
+                n = t
+                  ? l.value
+                      .map((e) => e.relationships)
+                      .reduce((e, t) => e.concat(t))
+                  : a.value.relationships,
+                { filters: i } = I.value,
+                { wholeWords: r, matchCase: s } = i;
+              return {
+                keyword: e,
+                rootTopics: o,
+                relationships: n,
+                rgx: g(e, r, s, !0),
+              };
+            }),
+            M = (0, o.Fl)(() => {
+              if (!C.value) return [];
+              const { filters: e } = I.value,
+                { rootTopics: t, relationships: o, rgx: n } = C.value;
+              let i = [];
+              const r = {};
+              return (
+                t.forEach((t) => {
+                  var s, u, p, m, h, g;
+                  let f = [];
+                  const k = (e, t, a, o, n, i) => {
+                    f.push({
+                      isSearchResult: !0,
+                      value: t,
+                      text: a,
+                      title: o,
+                      type: e,
+                      topicId: n,
+                      slotType: "searchItem",
+                      sheetId: i,
+                    });
+                  };
+                  for (const a of y([t], !1))
+                    if (!W.value.includes(a.id)) {
+                      if (
+                        (e.topic &&
+                          (null !== (s = a.title) && void 0 !== s
+                            ? s
+                            : ""
+                          ).match(n) &&
+                          k(
+                            "topic",
+                            a.id,
+                            a.title,
+                            a.title,
+                            a.id,
+                            a.ownerSheet.id
+                          ),
+                        e.label)
+                      ) {
+                        let e = [];
+                        const t = l.value.find((e) => a.ownerSheet.id === e.id);
+                        if (t) {
+                          const o =
+                            null === (u = t.query({ id: a.id })) || void 0 === u
+                              ? void 0
+                              : u.asTopic();
+                          o && (e = d.HG.getLabels(o));
+                        }
+                        r[a.id] = { labels: e, sheet: t };
+                      }
+                      if (
+                        e.note &&
+                        (null === (p = a.notes) || void 0 === p
+                          ? void 0
+                          : p.text) &&
+                        a.notes.text.match(n)
+                      ) {
+                        const e = `note-${a.id}-${a.notes.text}`;
+                        k(
+                          "note",
+                          e,
+                          a.notes.text,
+                          a.title,
+                          a.id,
+                          a.ownerSheet.id
+                        );
+                      }
+                      if (e.link && a.href && b(a.href) && a.href.match(n)) {
+                        const e = `link-${a.id}-${a.href}`;
+                        k("link", e, a.href, a.title, a.id, a.ownerSheet.id);
+                      }
+                      if (
+                        e.boundary &&
+                        (null === (m = a.boundaries) || void 0 === m
+                          ? void 0
+                          : m.length) > 0
+                      )
+                        for (const e of a.boundaries)
+                          (null === (h = e.title) || void 0 === h
+                            ? void 0
+                            : h.match(n)) &&
+                            k(
+                              "boundary",
+                              e.id,
+                              e.title,
+                              a.title,
+                              a.id,
+                              a.ownerSheet.id
+                            );
+                    }
+                  if (e.relationship && o)
+                    for (const e of o)
+                      (null === (g = e.title) || void 0 === g
+                        ? void 0
+                        : g.match(n)) &&
+                        t.ownerSheet.id === e.ownerSheet.id &&
+                        k(
+                          "relationship",
+                          e.id,
+                          e.title,
+                          e.title,
+                          null,
+                          e.ownerSheet.id
+                        );
+                  e.label &&
+                    Object.keys(r).forEach((e) => {
+                      var o, i, l, s, d;
+                      let u = r[e].labels;
+                      const p = r[e].sheet;
+                      if (!p) return;
+                      if (t.ownerSheet.id !== p.id) return;
+                      const m =
+                        null === (o = p.query({ id: e })) || void 0 === o
+                          ? void 0
+                          : o.asTopic();
+                      if (!m) return;
+                      const h =
+                          null ===
+                            (l =
+                              null === (i = m.parentTopic) || void 0 === i
+                                ? void 0
+                                : i.parentTopic) || void 0 === l
+                            ? void 0
+                            : l.id,
+                        v = h
+                          ? null === (s = a.value.query({ id: h })) ||
+                            void 0 === s
+                            ? void 0
+                            : s.asTopic()
+                          : null;
+                      if (
+                        !m.extensionProviders.includes(c.vP.SPREADSHEET) &&
+                        v &&
+                        v.extensionProviders.includes(c.vP.SPREADSHEET)
+                      ) {
+                        const e =
+                          (null === (d = r[v.id]) || void 0 === d
+                            ? void 0
+                            : d.labels) || [];
+                        u = u.filter((t) => !e.includes(t));
+                      }
+                      u.sort().forEach((t) => {
+                        if (t && t.match(n)) {
+                          k(
+                            "label",
+                            `label-${e}-${t}`,
+                            t,
+                            m.title,
+                            e,
+                            m.ownerSheet.id
+                          );
+                        }
+                      });
+                    }),
+                    (f = v(n, f)),
+                    I.value.isCurrentMapMode
+                      ? (i = f)
+                      : f.length &&
+                        i.push(
+                          ((e, t) => {
+                            const a = e.map((e) => ({ ...e, unindent: !0 }));
+                            return {
+                              isSearchResult: !0,
+                              value: t.id,
+                              text: t.title,
+                              type: "topic",
+                              topicId: t.rootTopic.id,
+                              slotType: "sheetTitle",
+                              sheetId: t.id,
+                              expanded: !0,
+                              items: a,
+                            };
+                          })(f, t.ownerSheet)
+                        );
+                }),
+                i
+              );
+            }),
+            _ = (0, o.Fl)(() => {
+              const { isCurrentMapMode: e } = I.value;
+              if (!l.value.length) return [];
+              const o = (e ? [a.value] : l.value).map((e) => {
+                const { rootTopic: a, title: o } = e;
+                return {
+                  value: a.id,
+                  text: `[${o}]${m(a, t)}`,
+                  expanded: !0,
+                  items: h(
+                    a,
+                    (e) => ({
+                      value: e.id,
+                      text: m(e, t),
+                      expanded: !0,
+                      items: [],
+                      sheetId: e.ownerSheet.id,
+                      slotType: "topicItem",
+                      type: "topic",
+                    }),
+                    (e, t) => ({ ...e, items: [...e.items, t] }),
+                    !1
+                  ).items,
+                  sheetId: e.id,
+                  type: "topic",
+                  slotType: "sheetTitle",
+                };
+              });
+              return (
+                o.map((e, t) =>
+                  o[t].items.map((e, a) => {
+                    o[t].items[a].isTitle = !0;
+                  })
+                ),
+                o
+              );
+            }),
+            E = (0, o.Fl)(() => {
+              const { isCurrentMapMode: e } = I.value;
+              if (!l.value.length) return [];
+              return (e ? [a.value] : l.value)
+                .map((e) => {
+                  const { rootTopic: t } = e;
+                  return h(
+                    t,
+                    (e) => {
+                      var t, a;
+                      return [
+                        {
+                          expanded: !0,
+                          value: e.id,
+                          text:
+                            null !==
+                              (a =
+                                null === (t = e.notes) || void 0 === t
+                                  ? void 0
+                                  : t.text) && void 0 !== a
+                              ? a
+                              : "",
+                          title: e.title,
+                          slotType: "noteItem",
+                          sheetId: e.ownerSheet.id,
+                          type: "note",
+                        },
+                      ];
+                    },
+                    (e, t) => e.concat(t),
+                    !1
+                  );
+                })
+                .reduce((e, t) => e.concat(t))
+                .filter((e) => e.text.length > 0);
+            }),
+            O = (0, o.Fl)(() => {
+              const e = ((e, t) => {
+                  const a = new Map();
+                  return e.filter((e) => !a.has(e[t]) && a.set(e[t], 1));
+                })(
+                  h(
+                    a.value.rootTopic,
+                    (e) =>
+                      e.markers.map((t) => {
+                        var o;
+                        const n = p.getMarkerInfoById(t);
+                        return {
+                          type: "marker",
+                          value: t,
+                          text:
+                            (null === (o = a.value.markerDescriptionFor(t)) ||
+                            void 0 === o
+                              ? void 0
+                              : o.name) || n.name,
+                          icon: n.imageSrc,
+                          unindent: !0,
+                          slotType: "item",
+                          sheetId: e.ownerSheet.id,
+                        };
+                      }),
+                    (e, t) => e.concat(t),
+                    !1
+                  ),
+                  "value"
+                ),
+                o = [];
+              e.length &&
+                o.push({
+                  type: "marker",
+                  isTitle: !0,
+                  text: t("Marker"),
+                  value: "$tag-view-marker",
+                  expanded: !0,
+                  items: e,
+                  slotType: "item",
+                  sheetId: a.value.id,
+                });
+              const n = d.HG.allLabelsFromSheet(a.value)
+                .sort()
+                .map((e) => ({
+                  type: "label",
+                  value: e,
+                  text: e,
+                  unindent: !0,
+                  slotType: "item",
+                  sheetId: a.value.id,
+                }));
+              n.length > 0 &&
+                o.push({
+                  type: "label",
+                  isTitle: !0,
+                  text: t("Label"),
+                  value: "$tag-view-label",
+                  expanded: !0,
+                  items: n,
+                  slotType: "item",
+                  sheetId: a.value.id,
+                });
+              const i = new Map();
+              return (
+                h(
+                  a.value.rootTopic,
+                  (e) => {
+                    if (e.taskPresentation) {
+                      const a = {
+                          status: 1 === e.taskProgress ? "done" : "todo",
+                        },
+                        o =
+                          "status:" +
+                          ("done" === a.status ? "checked" : "unchecked");
+                      i.has(e.id) ||
+                        i.set(o, {
+                          type: "task",
+                          value: JSON.stringify(a),
+                          text:
+                            "done" === a.status
+                              ? t("Completed")
+                              : t("Uncompleted"),
+                          icon: "",
+                          unindent: !0,
+                          slotType: "item",
+                          sheetId: e.ownerSheet.id,
+                        });
+                    }
+                  },
+                  () => {},
+                  !1
+                ),
+                i.size > 0 &&
+                  (o.push({
+                    type: "task",
+                    isTitle: !0,
+                    text: t("Task"),
+                    value: "$tag-view-task",
+                    expanded: !0,
+                    items: Array.from(i.values()),
+                    slotType: "item",
+                    sheetId: a.value.id,
+                  }),
+                  i.clear()),
+                o
+              );
+            }),
+            A = (e) => {
+              s({ name: "mutate:replaceText", payload: e });
+            },
+            P = (e) => {
+              if (!C.value) return;
+              const { rgx: t } = C.value,
+                a = x.value,
+                o = e
+                  .filter((e) => "topic" === e.type)
+                  .map((e) => ({
+                    id: e.topicId,
+                    type: "topic",
+                    sheetId: e.sheetId,
+                  })),
+                n = e
+                  .filter((e) => "note" === e.type)
+                  .map((e) => ({
+                    id: e.topicId,
+                    type: "note",
+                    sheetId: e.sheetId,
+                  })),
+                i = e
+                  .filter((e) => "label" === e.type)
+                  .map((e) => ({
+                    id: `${e.topicId}-${e.value}`,
+                    type: "label",
+                    sheetId: e.sheetId,
+                    topicId: e.topicId,
+                    value: e.value,
+                  })),
+                l = e
+                  .filter((e) => "link" === e.type)
+                  .map((e) => ({
+                    id: e.topicId,
+                    type: "link",
+                    sheetId: e.sheetId,
+                  })),
+                r = e
+                  .filter((e) => "boundary" === e.type)
+                  .map((e) => ({
+                    id: e.value,
+                    type: "boundary",
+                    sheetId: e.sheetId,
+                  })),
+                s = e
+                  .filter((e) => "relationship" === e.type)
+                  .map((e) => ({
+                    id: e.value,
+                    type: "relationship",
+                    sheetId: e.sheetId,
+                  }));
+              A({
+                topics: o,
+                notes: n,
+                labels: i,
+                links: l,
+                boundaries: r,
+                relationships: s,
+                rgx: t,
+                text: a,
+              });
+            };
+          return (
+            (0, o.YP)(
+              () => M.value,
+              (e) => {
+                w.value = w.value.filter((t) =>
+                  e.find((e) => {
+                    let a = !0;
+                    return (
+                      "topicId" in t &&
+                        "topicId" in e &&
+                        (a = t.topicId === e.topicId),
+                      a && t.type === e.type && t.value === e.value
+                    );
+                  })
+                );
+              },
+              { immediate: !0 }
+            ),
+            {
+              mode: T,
+              searchContent: S,
+              replaceContent: x,
+              options: I,
+              searchResult: M,
+              workbookData: _,
+              workbookNotesData: E,
+              workbookTagsData: O,
+              selectedItems: w,
+              selectedItem: Z,
+              selectItem: (e) => (w.value = [e]),
+              openSearchResultItem: (e) => {
+                const t = f(e),
+                  a = e.type,
+                  o = t ? e.topicId : e.value;
+                switch (a) {
+                  case "topic":
+                    s({
+                      name: "mutate:selectTopics",
+                      payload: { topics: [o], centerOn: !0 },
+                    });
+                    break;
+                  case "note":
+                    s({
+                      name: "mutate:selectTopics",
+                      payload: { topics: [o], centerOn: !0 },
+                    }),
+                      setTimeout(() => {
+                        (0, i.$)().setPopoverEditorVisible("notes");
+                      }, 100);
+                    break;
+                  case "label":
+                    "item" === e.slotType
+                      ? r({
+                          name: "mutateEditor:setHighlightLabels",
+                          payload: w.value
+                            .filter((e) => "label" === e.type)
+                            .map((e) => e.value),
+                        })
+                      : (s({
+                          name: "mutate:selectTopics",
+                          payload: { topics: [o], centerOn: !0 },
+                        }),
+                        setTimeout(() => {
+                          (0, i.$)().setPopoverEditorVisible("label");
+                        }, 100));
+                    break;
+                  case "link":
+                    s({
+                      name: "mutate:selectTopics",
+                      payload: { topics: [o], centerOn: !0 },
+                    }),
+                      setTimeout(() => {
+                        (0, u.H)();
+                      }, 100);
+                    break;
+                  case "boundary":
+                    r({
+                      name: "mutateEditor:unfoldTopicAncestors",
+                      payload: { topicId: o },
+                    }),
+                      s({
+                        name: "mutate:selectBoundaries",
+                        payload: { boundaries: [e.value], centerOn: !0 },
+                      });
+                    break;
+                  case "relationship":
+                    r({
+                      name: "mutateEditor:unfoldTopicAncestors",
+                      payload: { topicId: o },
+                    }),
+                      s({
+                        name: "mutate:selectRelationships",
+                        payload: { relationships: [e.value], centerOn: !0 },
+                      });
+                    break;
+                  case "marker":
+                    r({
+                      name: "mutateEditor:setHighlightMarkers",
+                      payload: w.value
+                        .filter((e) => "marker" === e.type)
+                        .map((e) => e.value),
+                    });
+                    break;
+                  case "task":
+                    r({
+                      name: "mutateEditor:setHighlightTasks",
+                      payload: w.value
+                        .filter((e) => "task" === e.type)
+                        .map((e) => JSON.parse(e.value)),
+                    });
+                }
+              },
+              replaceText: A,
+              onReplace: () => {
+                if (!Z.value || !C.value) return;
+                const e = Z.value,
+                  t = f(e),
+                  a = t ? e.type : "topic",
+                  o = t
+                    ? ["boundary", "relationship"].includes(a)
+                      ? e.value
+                      : e.topicId
+                    : e.value,
+                  n = Z.value.sheetId,
+                  { rgx: i } = C.value,
+                  l = x.value;
+                A({
+                  rgx: i,
+                  text: l,
+                  topics:
+                    "topic" === a ? [{ id: o, type: "topic", sheetId: n }] : [],
+                  notes:
+                    "note" === a ? [{ id: o, type: "note", sheetId: n }] : [],
+                  labels:
+                    "label" === a
+                      ? [
+                          {
+                            id: `${o}-${e.value}`,
+                            type: "label",
+                            sheetId: n,
+                            topicId: o,
+                            value: e.value,
+                          },
+                        ]
+                      : [],
+                  links:
+                    "link" === a ? [{ id: o, type: "link", sheetId: n }] : [],
+                  boundaries:
+                    "boundary" === a
+                      ? [{ id: o, type: "boundary", sheetId: n }]
+                      : [],
+                  relationships:
+                    "relationship" === a
+                      ? [{ id: o, type: "relationship", sheetId: n }]
+                      : [],
+                });
+              },
+              onReplaceAll: async (e = M.value) => {
+                const { isCurrentMapMode: t } = I.value;
+                t
+                  ? P(e)
+                  : e.reduce(
+                      async (e, t) => (
+                        await e,
+                        new Promise((e) => {
+                          setTimeout(() => {
+                            e(P(t.items || []));
+                          });
+                        })
+                      ),
+                      Promise.resolve()
+                    );
+              },
+            }
+          );
+        },
+        x = {
+          menuOptions: {
+            isReplaceMode: !1,
+            isCurrentMapMode: !0,
+            filters: {
+              topic: !0,
+              label: !0,
+              note: !0,
+              link: !0,
+              boundary: !0,
+              relationship: !0,
+            },
+          },
+        },
+        I = (e = x) =>
+          (0, s.FU)().source.startsWith("cloud://") ? S(e) : p(e);
+      var T = a(3004),
+        w = a(86673),
+        Z = a(67657),
+        W = a(60746);
+      const C = (0, o.aZ)({
+        __name: "toolbar",
+        props: {
+          searchContent: { default: "" },
+          replaceContent: { default: "" },
+          showFiltersOptions: { type: Boolean, default: !0 },
+          showReplaceOptions: { type: Boolean, default: !0 },
+          menuOptions: null,
+          searchText: null,
+          replaceText: null,
+          disabledSearch: { type: Boolean, default: !1 },
+          disabledReplace: { type: Boolean, default: !0 },
+          disabledReplaceAll: { type: Boolean, default: !0 },
+          disabledItems: { default: () => [] },
+        },
+        emits: [
+          "update:searchContent",
+          "update:replaceContent",
+          "update:menuOptions",
+          "replace",
+          "replaceAll",
+        ],
+        setup(e, { emit: t }) {
+          const a = e,
+            { T: i } = (0, n.JE)(),
+            { Menu: l } = Z,
+            r = (0, o.iH)(null),
+            s = (e) => !a.disabledItems.includes(e),
+            d = (e, o) => {
+              let n = { ...a.menuOptions };
+              ["isReplaceMode", "isCurrentMapMode"].includes(e)
+                ? (n[e] = o)
+                : ((n = Object.assign({}, a.menuOptions)),
+                  (n.filters = Object.assign({}, a.menuOptions.filters)),
+                  (n.filters[e] = o)),
+                t("update:menuOptions", n);
+            },
+            c = (e, t) => {
+              const { filters: o } = a.menuOptions;
+              return {
+                label: t,
+                id: e,
+                click: (t) => {
+                  d(e, !o[e]), (t.checked = !o[e]);
+                },
+                type: "checkbox",
+                enabled: s(e),
+                checked: o[e],
+              };
+            };
+          return (
+            (0, o.bv)(() => {
+              var e, t;
+              null ===
+                (t = null === (e = r.value) || void 0 === e ? void 0 : e.$el) ||
+                void 0 === t ||
+                t.querySelector("input").focus();
+            }),
+            {
+              __sfc: !0,
+              $T: i,
+              Menu: l,
+              props: a,
+              emit: t,
+              searchInput: r,
+              onUpdateSearchContent: (e) => t("update:searchContent", e),
+              onUpdateReplaceContent: (e) => t("update:replaceContent", e),
+              onReplace: () => t("replace", a.replaceContent),
+              onReplaceAll: () => {
+                t("replaceAll", a.replaceContent);
+              },
+              getMenuOptionEnabled: s,
+              updateMenuOptions: d,
+              getCheckboxMenuOption: c,
+              onToggleConfig: () => {
+                const { isReplaceMode: e, isCurrentMapMode: t } = a.menuOptions;
+                let o = [
+                  { type: "separator" },
+                  {
+                    label: i("Current Map"),
+                    id: "currentMap",
+                    click: (e) => {
+                      d("isCurrentMapMode", !0), (e.checked = !0);
+                    },
+                    type: "radio",
+                    enabled: s("currentMap"),
+                    checked: t,
+                  },
+                  {
+                    label: i("Current File"),
+                    id: "wholeWorkbook",
+                    click: (e) => {
+                      d("isCurrentMapMode", !1), (e.checked = !0);
+                    },
+                    type: "radio",
+                    enabled: s("wholeWorkbook"),
+                    checked: !t,
+                  },
+                  { type: "separator" },
+                  c("wholeWords", i("Whole Words")),
+                  c("matchCase", i("Match Case")),
+                ];
+                a.showReplaceOptions &&
+                  (o = [
+                    {
+                      label: i("Find"),
+                      id: "find",
+                      click: (e) => {
+                        d("isReplaceMode", !1), (e.checked = !0);
+                      },
+                      type: "radio",
+                      enabled: s("find"),
+                      checked: !e,
+                    },
+                    {
+                      label: i("Find & Replace").replace(/(&)/g, "$1$1"),
+                      id: "replace",
+                      click: (e) => {
+                        d("isReplaceMode", !0), (e.checked = !0);
+                      },
+                      type: "radio",
+                      enabled: s("replace"),
+                      checked: e,
+                    },
+                  ].concat(o)),
+                  a.showFiltersOptions &&
+                    (o = o.concat([
+                      { type: "separator" },
+                      c("topic", i("Topic")),
+                      c("note", i("Note")),
+                      c("relationship", i("Relationship")),
+                      c("boundary", i("Boundary")),
+                      c("label", i("Label")),
+                      c("link", i("Link(noun)")),
+                    ])),
+                  l
+                    .buildFromTemplate(o)
+                    .popup({ window: Z.getCurrentWindow() });
+              },
+              showInputMenu: W.Sr,
+            }
+          );
+        },
+      });
+      var M = a(51900);
+      const _ = (0, M.Z)(
+        C,
+        function () {
+          var e = this,
+            t = e._self._c,
+            a = e._self._setupProxy;
+          return t(
+            "div",
+            {
+              staticClass: "uk-flex uk-flex-middle uk-flex-between",
+              staticStyle: { margin: "0 20px" },
+            },
+            [
+              t(
+                "div",
+                { staticStyle: { width: "306px" } },
+                [
+                  t("vk-input", {
+                    directives: [
+                      {
+                        name: "focus-contexts",
+                        rawName: "v-focus-contexts",
+                        value: ["focus.input"],
+                        expression: "['focus.input']",
+                      },
+                    ],
+                    ref: "searchInput",
+                    attrs: {
+                      prefix: "search",
+                      placeholder: e.searchText || a.$T("Find"),
+                      disabled: e.disabledSearch,
+                      value: e.searchContent,
+                    },
+                    on: {
+                      input: a.onUpdateSearchContent,
+                      contextmenu: a.showInputMenu,
+                    },
+                  }),
+                  e._v(" "),
+                  t("vk-input", {
+                    directives: [
+                      {
+                        name: "show",
+                        rawName: "v-show",
+                        value: e.menuOptions.isReplaceMode,
+                        expression: "menuOptions.isReplaceMode",
+                      },
+                      {
+                        name: "focus-contexts",
+                        rawName: "v-focus-contexts",
+                        value: ["focus.input"],
+                        expression: "['focus.input']",
+                      },
+                    ],
+                    staticClass: "uk-margin-small-top",
+                    attrs: {
+                      prefix: "eyedrop",
+                      placeholder: e.replaceText || a.$T("Replace"),
+                      value: e.replaceContent,
+                    },
+                    on: { input: a.onUpdateReplaceContent },
+                  }),
+                  e._v(" "),
+                  t(
+                    "div",
+                    {
+                      directives: [
+                        {
+                          name: "show",
+                          rawName: "v-show",
+                          value: e.menuOptions.isReplaceMode,
+                          expression: "menuOptions.isReplaceMode",
+                        },
+                      ],
+                      staticClass:
+                        "uk-margin-small-top uk-flex uk-flex-row uk-flex-right",
+                    },
+                    [
+                      t(
+                        "button",
+                        {
+                          directives: [
+                            {
+                              name: "focus-contexts",
+                              rawName: "v-focus-contexts:no",
+                              arg: "no",
+                            },
+                          ],
+                          staticClass:
+                            "vk-button-default vk-size-small uk-margin-small-right",
+                          attrs: { disabled: e.disabledReplace },
+                          on: { click: a.onReplace },
+                        },
+                        [
+                          e._v(
+                            "\n        " + e._s(a.$T("Replace")) + "\n      "
+                          ),
+                        ]
+                      ),
+                      e._v(" "),
+                      t(
+                        "button",
+                        {
+                          directives: [
+                            {
+                              name: "focus-contexts",
+                              rawName: "v-focus-contexts:no",
+                              arg: "no",
+                            },
+                          ],
+                          staticClass: "vk-button-default vk-size-small",
+                          attrs: { disabled: e.disabledReplaceAll },
+                          on: { click: a.onReplaceAll },
+                        },
+                        [
+                          e._v(
+                            "\n        " +
+                              e._s(a.$T("Replace All")) +
+                              "\n      "
+                          ),
+                        ]
+                      ),
+                    ]
+                  ),
+                ],
+                1
+              ),
+              e._v(" "),
+              t(
+                "button",
+                {
+                  staticClass: "vk-button-link-secondary",
+                  on: { click: a.onToggleConfig },
+                },
+                [t("span", { attrs: { "uk-icon": "setting" } })]
+              ),
+            ]
+          );
+        },
+        [],
+        !1,
+        null,
+        null,
+        null
+      ).exports;
+      var E = a(53775);
+      const O = (0, o.aZ)({
+        __name: "topic-panel",
+        props: { panelWidth: null, sheetRendering: { type: Boolean } },
+        setup(e) {
+          const {
+              searchContent: t,
+              replaceContent: a,
+              options: n,
+              searchResult: l,
+              workbookData: r,
+              selectedItem: s,
+              selectItem: d,
+              openSearchResultItem: c,
+              onReplace: u,
+              onReplaceAll: p,
+            } = I(),
+            m = (0, o.iH)(),
+            h = (0, o.Fl)(() => t.value.length > 0),
+            v = (0, o.Fl)(() => (0, i.$)().isOutlinerMode),
+            g = (0, o.Fl)(
+              () => !t.value || !s.value || !("isSearchResult" in s.value)
+            ),
+            b = (0, o.Fl)(() => {
+              const { isCurrentMapMode: e } = n.value;
+              if (!t.value) return !0;
+              if (e) {
+                if (!l.value || !l.value.length) return !0;
+              } else if (
+                l.value.every((e) => {
+                  var t;
+                  return (
+                    0 ===
+                    (null === (t = e.items) || void 0 === t ? void 0 : t.length)
+                  );
+                })
+              )
+                return !0;
+              return !1;
+            }),
+            f = (0, o.Fl)(() =>
+              h.value &&
+              l.value &&
+              l.value[0] &&
+              "sheetTitle" !== l.value[0].slotType
+                ? "margin: 24px 0 20px"
+                : "margin: 24px 0 0"
+            ),
+            y = (0, E.Ds)((e) => {
+              t.value = e;
+            }, 300);
+          return (
+            (0, o.YP)(
+              () => v.value,
+              (e) => {
+                (n.value.filters.relationship = !e),
+                  (n.value.filters.boundary = !e);
+              },
+              { immediate: !1 }
+            ),
+            {
+              __sfc: !0,
+              searchContent: t,
+              replaceContent: a,
+              options: n,
+              searchResult: l,
+              workbookData: r,
+              selectedItem: s,
+              selectItem: d,
+              openSearchResultItem: c,
+              onReplace: u,
+              onReplaceAll: p,
+              containerEl: m,
+              isSearchMode: h,
+              isOutlinerMode: v,
+              computedDisabledReplace: g,
+              computedDisabledReplaceALL: b,
+              dividerStyle: f,
+              handleSelect: (e) => {
+                d(e), c(e);
+              },
+              handleSearchContentUpdate: y,
+              CommonNonePanel: T.Z,
+              TreeListV2: w.Z,
+              Toolbar: _,
+            }
+          );
+        },
+      });
+      a(80108);
+      const A = (0, M.Z)(
+        O,
+        function () {
+          var e = this,
+            t = e._self._c,
+            a = e._self._setupProxy;
+          return t(
+            "div",
+            {
+              staticClass:
+                "uk-flex uk-flex-column uk-height-expand uk-panel uk-flex-column",
+              staticStyle: { "padding-right": "1px" },
+            },
+            [
+              t(a.Toolbar, {
+                attrs: {
+                  "search-content": a.searchContent,
+                  "replace-content": a.replaceContent,
+                  "menu-options": a.options,
+                  "disabled-search": e.sheetRendering,
+                  "disabled-replace": a.computedDisabledReplace,
+                  "disabled-replace-all": a.computedDisabledReplaceALL,
+                  "disabled-items": a.isOutlinerMode
+                    ? ["relationship", "boundary"]
+                    : [],
+                },
+                on: {
+                  "update:searchContent": a.handleSearchContentUpdate,
+                  "update:replaceContent": (e) => (a.replaceContent = e),
+                  "update:menuOptions": (e) => (a.options = e),
+                  replace: function (e) {
+                    return a.onReplace();
+                  },
+                  replaceAll: function (e) {
+                    return a.onReplaceAll();
+                  },
+                },
+              }),
+              e._v(" "),
+              t("hr", {
+                staticClass: "vk-divider-on-surface",
+                style: a.dividerStyle,
+              }),
+              e._v(" "),
+              a.isSearchMode && 0 === a.searchResult.length
+                ? t(a.CommonNonePanel, {
+                    attrs: {
+                      type: "NO_RESULT",
+                      "section-style": "margin-top: -30px;",
+                    },
+                  })
+                : t(
+                    "div",
+                    {
+                      ref: "containerEl",
+                      staticClass:
+                        "uk-height-expand uk-panel uk-overflow-auto uk-flex uk-flex-column",
+                      class: { "uk-disabled": !1 },
+                      staticStyle: { width: "100%", padding: "0 20px" },
+                      style: { zIndex: 0, opacity: 1 },
+                    },
+                    [
+                      t(
+                        "keep-alive",
+                        [
+                          t(a.TreeListV2, {
+                            attrs: {
+                              items: a.isSearchMode
+                                ? a.searchResult
+                                : a.workbookData,
+                              "high-performance-mode": !0,
+                              container: a.containerEl,
+                              "model-value": a.selectedItem
+                                ? [a.selectedItem.value]
+                                : [],
+                              width: e.panelWidth,
+                              "is-line-dash-visible": !a.isSearchMode,
+                              "allow-direction-key": "",
+                              type: "radio",
+                            },
+                            on: { click: a.handleSelect },
+                            scopedSlots: e._u([
+                              {
+                                key: "sheetTitle",
+                                fn: function ({ data: a }) {
+                                  return [
+                                    t(
+                                      "div",
+                                      {
+                                        staticClass: "search-panel-sheet-title",
+                                      },
+                                      [
+                                        e._v(
+                                          "\n            " +
+                                            e._s(a.text) +
+                                            "\n          "
+                                        ),
+                                      ]
+                                    ),
+                                  ];
+                                },
+                              },
+                              {
+                                key: "searchItem",
+                                fn: function ({
+                                  data: a,
+                                  onClick: o,
+                                  checked: n,
+                                }) {
+                                  return [
+                                    t(
+                                      "button",
+                                      {
+                                        staticClass:
+                                          "uk-tree-list-item uk-width-1-1 uk-position-relative",
+                                        class: {
+                                          "uk-checked": n,
+                                          "uk-focus": n,
+                                        },
+                                        style: {
+                                          "padding-left":
+                                            16 +
+                                            ("topic" !== a.type ? 18 : 0) +
+                                            "px",
+                                        },
+                                        on: { click: o },
+                                      },
+                                      [
+                                        "topic" !== a.type
+                                          ? t("img", {
+                                              staticClass:
+                                                "uk-icon uk-position-absolute",
+                                              class: { "uk-checked": n },
+                                              staticStyle: {
+                                                top: "7px",
+                                                left: "16px",
+                                                opacity: "0.7",
+                                              },
+                                              attrs: {
+                                                "uk-svg": "",
+                                                "data-src": e.$toResourceURL(
+                                                  `static/images/search-panel-icon/${a.type}.svg`
+                                                ),
+                                                draggable: "false",
+                                              },
+                                            })
+                                          : e._e(),
+                                        e._v(" "),
+                                        a.highlight
+                                          ? t(
+                                              "p",
+                                              {
+                                                staticClass: "uk-margin-remove",
+                                                staticStyle: {
+                                                  "line-height": "1.4em",
+                                                },
+                                              },
+                                              e._l(
+                                                a.highlight,
+                                                function (
+                                                  { text: a, isHighlight: o },
+                                                  n
+                                                ) {
+                                                  return t(
+                                                    "span",
+                                                    {
+                                                      key: n,
+                                                      class: {
+                                                        "uk-tree-list-highlight":
+                                                          o,
+                                                      },
+                                                    },
+                                                    [e._v(e._s(a))]
+                                                  );
+                                                }
+                                              ),
+                                              0
+                                            )
+                                          : t(
+                                              "p",
+                                              {
+                                                staticClass: "uk-margin-remove",
+                                              },
+                                              [e._v(e._s(a.text))]
+                                            ),
+                                      ]
+                                    ),
+                                  ];
+                                },
+                              },
+                            ]),
+                          }),
+                        ],
+                        1
+                      ),
+                    ],
+                    1
+                  ),
+            ],
+            1
+          );
+        },
+        [],
+        !1,
+        null,
+        "0fb2d3e2",
+        null
+      ).exports;
+      const P = (0, o.aZ)({
+        __name: "note-panel",
+        props: {
+          highlightParam: { default: null },
+          sheetRendering: { type: Boolean },
+        },
+        setup(e) {
+          const t = e,
+            { T: a } = (0, n.JE)(),
+            {
+              searchContent: i,
+              searchResult: l,
+              replaceContent: r,
+              workbookNotesData: s,
+              options: d,
+              selectedItem: c,
+              selectItem: u,
+              onReplace: p,
+              onReplaceAll: m,
+              openSearchResultItem: h,
+            } = I({ menuOptions: { filters: { note: !0 } } });
+          (0, o.YP)(
+            () => t.highlightParam,
+            (e) => {
+              (0, o.Y3)(() => {
+                u({
+                  value: e.topicId,
+                  text: void 0,
+                  sheetId: void 0,
+                  type: void 0,
+                });
+              });
+            },
+            { immediate: !0 }
+          );
+          const v = (0, o.Fl)(() => a("<Empty Text>")),
+            g = (0, o.Fl)(() => {
+              const { isCurrentMapMode: e } = d.value,
+                t = [];
+              return (
+                e
+                  ? t.push(...l.value)
+                  : l.value.forEach((e) => {
+                      t.push(...e.items);
+                    }),
+                t
+                  .filter((e) => "note" === e.type)
+                  .map((e) => ({ ...e, type: "note", slotType: "noteItem" }))
+              );
+            }),
+            b = (0, o.Fl)(() => i.value.length > 0),
+            f = (0, o.Fl)(
+              () => !i.value || !c.value || !("isSearchResult" in c.value)
+            ),
+            y = (0, o.Fl)(() => {
+              const { isCurrentMapMode: e } = d.value;
+              if (!i.value) return !0;
+              if (e) {
+                if (!l.value || !l.value.length) return !0;
+              } else if (
+                l.value.every((e) => {
+                  var t;
+                  return (
+                    0 ===
+                    (null === (t = e.items) || void 0 === t ? void 0 : t.length)
+                  );
+                })
+              )
+                return !0;
+              return !1;
+            });
+          return {
+            __sfc: !0,
+            $T: a,
+            props: t,
+            searchContent: i,
+            searchResult: l,
+            replaceContent: r,
+            workbookNotesData: s,
+            options: d,
+            selectedItem: c,
+            selectItem: u,
+            onReplace: p,
+            onReplaceAll: m,
+            openSearchResultItem: h,
+            emptyText: v,
+            noteSearchResult: g,
+            isSearchMode: b,
+            handleSelect: (e) => {
+              u(e), h(e);
+            },
+            computedDisabledReplace: f,
+            computedDisabledReplaceALL: y,
+            CommonNonePanel: T.Z,
+            TreeListV2: w.Z,
+            Toolbar: _,
+          };
+        },
+      });
+      a(98085);
+      const R = (0, M.Z)(
+        P,
+        function () {
+          var e = this,
+            t = e._self._c,
+            a = e._self._setupProxy;
+          return t(
+            "div",
+            { staticClass: "uk-height-expand uk-panel uk-flex uk-flex-column" },
+            [
+              t(a.Toolbar, {
+                attrs: {
+                  "search-content": a.searchContent,
+                  "replace-content": a.replaceContent,
+                  "menu-options": a.options,
+                  "disabled-search": e.sheetRendering,
+                  "disabled-replace": a.computedDisabledReplace,
+                  "disabled-replace-all": a.computedDisabledReplaceALL,
+                  "search-text": a.$T("Search notes"),
+                  "show-filters-options": !1,
+                },
+                on: {
+                  "update:searchContent": (e) => (a.searchContent = e),
+                  "update:replaceContent": (e) => (a.replaceContent = e),
+                  "update:menuOptions": (e) => (a.options = e),
+                  replace: function (e) {
+                    return a.onReplace();
+                  },
+                  replaceAll: function (e) {
+                    return a.onReplaceAll();
+                  },
+                },
+              }),
+              e._v(" "),
+              t("hr", {
+                staticClass: "vk-divider-on-surface",
+                staticStyle: {
+                  margin: "var(--spacing-margin-l) 0 var(--spacing-margin-m)",
+                },
+              }),
+              e._v(" "),
+              (
+                a.isSearchMode
+                  ? 0 === a.noteSearchResult.length
+                  : 0 === a.workbookNotesData.length
+              )
+                ? t(a.CommonNonePanel, {
+                    attrs: {
+                      type: a.isSearchMode ? "NO_RESULT" : "NO_NOTE",
+                      "section-style": "margin-top: -30px;",
+                    },
+                  })
+                : t(
+                    "div",
+                    {
+                      staticClass:
+                        "uk-height-expand uk-panel uk-overflow-auto uk-flex uk-flex-column",
+                      class: { "uk-disabled": e.sheetRendering },
+                      staticStyle: { width: "100%" },
+                      style: { zIndex: 0, opacity: e.sheetRendering ? 0.3 : 1 },
+                    },
+                    [
+                      t(a.TreeListV2, {
+                        attrs: {
+                          items: a.isSearchMode
+                            ? a.noteSearchResult
+                            : a.workbookNotesData,
+                          "is-line-dash-visible": !1,
+                          "model-value": a.selectedItem
+                            ? [a.selectedItem.value]
+                            : [],
+                        },
+                        on: {
+                          "!click": function (e) {
+                            return a.handleSelect.apply(null, arguments);
+                          },
+                        },
+                        scopedSlots: e._u([
+                          {
+                            key: "sheetTitle",
+                            fn: function ({ data: a, offset: o }) {
+                              return [
+                                t("hr", { staticClass: "uk-separator" }),
+                                e._v(" "),
+                                t(
+                                  "button",
+                                  {
+                                    staticClass:
+                                      "uk-tree-list-item uk-tree-list-solid-background",
+                                    style: { "padding-left": o + "px" },
+                                  },
+                                  [
+                                    e._v(
+                                      "\n          " +
+                                        e._s(a.text) +
+                                        "\n        "
+                                    ),
+                                  ]
+                                ),
+                                e._v(" "),
+                                t("hr", { staticClass: "uk-separator" }),
+                              ];
+                            },
+                          },
+                          {
+                            key: "noteItem",
+                            fn: function ({ data: o, checked: n, onClick: i }) {
+                              return [
+                                t(
+                                  "button",
+                                  {
+                                    staticClass: "uk-tree-list-item",
+                                    class: { "uk-checked": n, "uk-focus": n },
+                                    staticStyle: {
+                                      padding: "16px",
+                                      "overflow-wrap": "break-word",
+                                    },
+                                    attrs: { name: o.value },
+                                    on: { click: i },
+                                  },
+                                  [
+                                    t(
+                                      "div",
+                                      {
+                                        staticClass: "typography-subhead-small",
+                                      },
+                                      [
+                                        e._v(
+                                          "\n            " +
+                                            e._s(o.title || a.emptyText) +
+                                            "\n          "
+                                        ),
+                                      ]
+                                    ),
+                                    e._v(" "),
+                                    t(
+                                      "div",
+                                      {
+                                        staticClass:
+                                          "note-panel-note-text typography-body-large uk-text-line-clamp",
+                                      },
+                                      [
+                                        a.isSearchMode && o.highlight
+                                          ? t(
+                                              "p",
+                                              {
+                                                staticClass: "uk-margin-remove",
+                                              },
+                                              e._l(
+                                                o.highlight,
+                                                function (
+                                                  { text: a, isHighlight: o },
+                                                  n
+                                                ) {
+                                                  return t(
+                                                    "span",
+                                                    {
+                                                      key: n,
+                                                      class: {
+                                                        "uk-tree-list-highlight":
+                                                          o,
+                                                      },
+                                                    },
+                                                    [e._v(e._s(a))]
+                                                  );
+                                                }
+                                              ),
+                                              0
+                                            )
+                                          : t(
+                                              "p",
+                                              {
+                                                staticClass: "uk-margin-remove",
+                                              },
+                                              [
+                                                e._v(
+                                                  "\n              " +
+                                                    e._s(
+                                                      o.text || a.emptyText
+                                                    ) +
+                                                    "\n            "
+                                                ),
+                                              ]
+                                            ),
+                                      ]
+                                    ),
+                                  ]
+                                ),
+                                e._v(" "),
+                                t("hr", {
+                                  staticClass: "uk-separator",
+                                  staticStyle: { padding: "0 16px" },
+                                }),
+                              ];
+                            },
+                          },
+                        ]),
+                      }),
+                    ],
+                    1
+                  ),
+            ],
+            1
+          );
+        },
+        [],
+        !1,
+        null,
+        "f08e9528",
+        null
+      ).exports;
+      var N = a(45578),
+        B = a.n(N),
+        L = a(90435),
+        F = a(54856),
+        D = a(20993);
+      const $ = (0, o.aZ)({
+        __name: "tag-panel",
+        props: {
+          highlightParam: { default: null },
+          sheetRendering: { type: Boolean },
+        },
+        setup(e) {
+          const t = e,
+            {
+              workbookTagsData: a,
+              selectedItem: n,
+              selectedItems: i,
+              openSearchResultItem: l,
+              selectItem: r,
+            } = I();
+          (0, o.YP)(
+            () => t.highlightParam,
+            (e) => {
+              (0, o.Y3)(() => {
+                const t = {
+                  value: void 0,
+                  text: void 0,
+                  sheetId: void 0,
+                  type: void 0,
+                };
+                e.selectedLabel
+                  ? ((t.value = e.selectedLabel), (t.type = "label"))
+                  : e.markerId
+                  ? ((t.value = e.markerId), (t.type = "marker"))
+                  : e.taskInfo &&
+                    ((t.value = JSON.stringify(e.taskInfo)), (t.type = "task")),
+                  r(t);
+              });
+            },
+            { immediate: !0 }
+          );
+          const s = (e) => i.value.find((t) => t.value === e.value),
+            d = (e) => {
+              const t = a.value.find((t) => t.type === e);
+              return (
+                !!t &&
+                i.value.filter((t) => t.type === e).length === t.items.length
+              );
+            };
+          return {
+            __sfc: !0,
+            props: t,
+            workbookTagsData: a,
+            selectedItem: n,
+            selectedItems: i,
+            openSearchResultItem: l,
+            selectItem: r,
+            handleSelect: async (e) => {
+              if (
+                await L.ZP.fetch(F.Gy, {
+                  name: "action.topicFilter",
+                  channel: (0, F.gk)(window.editorId),
+                })
+              ) {
+                if ("task" === e.type)
+                  try {
+                    const t = JSON.parse(e.value);
+                    (0, D.kI)(
+                      "done" === t.status
+                        ? "highlightCheckedTask"
+                        : "highlightUncheckedTask"
+                    );
+                  } catch (e) {}
+                e.isTitle
+                  ? d(e.type)
+                    ? (i.value = i.value.filter((t) => t.type !== e.type))
+                    : (i.value = B()([...i.value, ...e.items], "value"))
+                  : s(e)
+                  ? (i.value = i.value.filter((t) => t.value !== e.value))
+                  : (i.value = B()([...i.value, e], "value")),
+                  l(e);
+              }
+            },
+            isItemChecked: s,
+            isTitleChecked: d,
+            CommonNonePanel: T.Z,
+            TreeListV2: w.Z,
+          };
+        },
+      });
+      a(71887);
+      const V = (0, M.Z)(
+          $,
+          function () {
+            var e = this,
+              t = e._self._c,
+              a = e._self._setupProxy;
+            return t(
+              "div",
+              {
+                staticClass: "uk-height-expand uk-panel uk-flex uk-flex-column",
+              },
+              [
+                t("hr", {
+                  staticClass: "vk-divider-on-surface",
+                  staticStyle: { margin: "12px 0 var(--spacing-margin-m)" },
+                }),
+                e._v(" "),
+                0 === a.workbookTagsData.length
+                  ? t(a.CommonNonePanel, {
+                      attrs: {
+                        type: "NO_TAG",
+                        "section-style": "margin-top: -30px;",
+                      },
+                    })
+                  : t(
+                      "div",
+                      {
+                        staticClass:
+                          "uk-height-expand uk-panel uk-overflow-auto uk-flex uk-flex-column",
+                        class: { "uk-disabled": e.sheetRendering },
+                        staticStyle: { width: "100%", padding: "0 20px" },
+                        style: {
+                          zIndex: 0,
+                          opacity: e.sheetRendering ? 0.3 : 1,
+                        },
+                      },
+                      [
+                        t(a.TreeListV2, {
+                          attrs: {
+                            items: a.workbookTagsData,
+                            "model-value": a.selectedItem
+                              ? [a.selectedItem.value]
+                              : [],
+                            "is-line-dash-visible": !1,
+                          },
+                          scopedSlots: e._u([
+                            {
+                              key: "item",
+                              fn: function ({ data: o }) {
+                                return [
+                                  t(
+                                    "button",
+                                    {
+                                      staticClass:
+                                        "uk-tree-list-item lm-view-item",
+                                      class: { "is-title": o.isTitle },
+                                      attrs: {
+                                        "lm-checked": !0,
+                                        name: o.value,
+                                        "data-indent": o.indent,
+                                      },
+                                      on: { click: () => a.handleSelect(o) },
+                                    },
+                                    [
+                                      "marker" !== o.type || o.isTitle
+                                        ? e._e()
+                                        : t("img", {
+                                            staticStyle: {
+                                              width: "16px",
+                                              height: "16px",
+                                              "vertical-align": "middle",
+                                            },
+                                            attrs: {
+                                              draggable: "false",
+                                              "uk-img": "",
+                                              src: o.icon,
+                                            },
+                                          }),
+                                      e._v(" "),
+                                      t(
+                                        "span",
+                                        {
+                                          staticClass: "uk-tree-list-item-text",
+                                        },
+                                        [e._v(e._s(o.text))]
+                                      ),
+                                      e._v(" "),
+                                      t(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "lm-select-icon uk-float-right",
+                                          style: (
+                                            o.isTitle
+                                              ? a.isTitleChecked(o.type)
+                                              : a.isItemChecked(o)
+                                          )
+                                            ? "visibility: visible !important;"
+                                            : "",
+                                        },
+                                        [
+                                          t("div", {
+                                            directives: [
+                                              {
+                                                name: "focus-contexts",
+                                                rawName: "v-focus-contexts:no",
+                                                arg: "no",
+                                              },
+                                            ],
+                                            staticClass:
+                                              "uk-filter uk-display-inline-block",
+                                            class: {
+                                              "uk-checked": o.isTitle
+                                                ? a.isTitleChecked(o.type)
+                                                : a.isItemChecked(o),
+                                            },
+                                            attrs: {
+                                              src: (
+                                                o.isTitle
+                                                  ? a.isTitleChecked(o.type)
+                                                  : a.isItemChecked(o)
+                                              )
+                                                ? e.$toResourceURL(
+                                                    "/static/images/navigation-panel/sun-fill.svg"
+                                                  )
+                                                : e.$toResourceURL(
+                                                    "/static/images/navigation-panel/sun.svg"
+                                                  ),
+                                              "uk-svg": "",
+                                            },
+                                          }),
+                                        ]
+                                      ),
+                                    ]
+                                  ),
+                                ];
+                              },
+                            },
+                          ]),
+                        }),
+                      ],
+                      1
+                    ),
+              ],
+              1
+            );
+          },
+          [],
+          !1,
+          null,
+          "72789004",
+          null
+        ).exports,
+        H = (0, o.aZ)({
+          __name: "index",
+          props: { panelWidth: { default: 378 } },
+          setup(e) {
+            const t = (e, ...t) => (0, n.JE)().T(e, ...t),
+              { updateSearchPanel: a, updateSearchPanelHighlightItem: s } = (0,
+              i.$)(),
+              c = (0, o.Fl)(() => (0, n.S)().appearance),
+              u = (0, o.Fl)(() =>
+                "dark" === c.value
+                  ? (0, r.ju)("static/assets/images/close-btn-dark.svg")
+                  : (0, r.ju)("static/assets/images/close-btn-light.svg")
+              ),
+              p = (0, o.Fl)(() => (0, i.$)().searchPanelTab),
+              m = (0, o.Fl)(() => (0, i.$)().searchPanelHighlightParam),
+              h = (0, o.Fl)(() => (0, i.$)().isOutlinerMode),
+              v = (0, o.Fl)(() =>
+                l.JK.map((e) => ({
+                  ...e,
+                  label: t("$$", e.label),
+                  tooltip: t("$$", e.tooltip),
+                }))
+              ),
+              g = (0, o.Fl)(() => {
+                switch (p.value) {
+                  case l.It.TOPIC:
+                    return A;
+                  case l.It.NOTE:
+                    return R;
+                  case l.It.TAG:
+                    return V;
+                }
+              }),
+              b = (e) => {
+                a({ tab: e });
+              },
+              f = () => {
+                s({});
+                const { executeEditorAction: e } = (0, d.nZ)();
+                e({ name: "mutateEditor:setHighlightLabels", payload: [] }),
+                  e({ name: "mutateEditor:setHighlightMarkers", payload: [] }),
+                  e({ name: "mutateEditor:setHighlightTasks", payload: [] });
+              };
+            (0, o.YP)(
+              () => (0, i.$)().searchPanelTab,
+              (e, t) => {
+                t === l.It.TAG && e !== l.It.TAG && f();
+              }
+            );
+            return (
+              (0, o.YP)(
+                () => (0, i.$)().isOutlinerMode,
+                (e) => {
+                  e && b(l.It.TOPIC);
+                }
+              ),
+              {
+                __sfc: !0,
+                $T: t,
+                updateSearchPanel: a,
+                updateSearchPanelHighlightItem: s,
+                appearance: c,
+                closeIcon: u,
+                searchPanelTab: p,
+                searchPanelHighlightParam: m,
+                isOutlinerMode: h,
+                searchPanelTabs: v,
+                searchPanelTabComponent: g,
+                switchSearchPanelTab: b,
+                handleLeaveTagPanel: f,
+                handleSearchPanelClose: () => {
+                  a({ visible: !1 }), f();
+                },
+              }
+            );
+          },
+        });
+      const z = (0, M.Z)(
+        H,
+        function () {
+          var e = this,
+            t = e._self._c,
+            a = e._self._setupProxy;
+          return t(
+            "div",
+            {
+              directives: [
+                {
+                  name: "focus-contexts",
+                  rawName: "v-focus-contexts:group",
+                  value: ["focus.searchPanel"],
+                  expression: "['focus.searchPanel']",
+                  arg: "group",
+                },
+              ],
+              staticClass:
+                "uk-flex uk-flex-column uk-height-1-1 uk-panel uk-position-left uk-format-panel vk-scrollbar",
+              style: `width: ${e.panelWidth}px`,
+            },
+            [
+              t(
+                "div",
+                {
+                  staticClass: "uk-flex uk-flex-between uk-flex-middle",
+                  staticStyle: { margin: "0 20px 12px" },
+                },
+                [
+                  t("div", { staticStyle: { height: "40px" } }, [
+                    a.isOutlinerMode
+                      ? e._e()
+                      : t(
+                          "ul",
+                          {
+                            staticClass: "uk-tab vk-tab-indicator",
+                            attrs: { "uk-tab": "" },
+                          },
+                          e._l(a.searchPanelTabs, function (o) {
+                            return t(
+                              "li",
+                              {
+                                key: o.key,
+                                class: {
+                                  "uk-active": o.key === a.searchPanelTab,
+                                },
+                                on: {
+                                  click: function (e) {
+                                    return a.switchSearchPanelTab(o.key);
+                                  },
+                                },
+                              },
+                              [
+                                t(
+                                  "a",
+                                  {
+                                    attrs: {
+                                      href: "#",
+                                      title: o.tooltip,
+                                      draggable: "false",
+                                    },
+                                  },
+                                  [
+                                    e._v(
+                                      "\n            " +
+                                        e._s(o.label) +
+                                        "\n          "
+                                    ),
+                                  ]
+                                ),
+                              ]
+                            );
+                          }),
+                          0
+                        ),
+                  ]),
+                  e._v(" "),
+                  t("img", {
+                    staticStyle: {
+                      position: "absolute",
+                      right: "16px",
+                      top: "16px",
+                    },
+                    attrs: { draggable: "false", src: a.closeIcon },
+                    on: { click: a.handleSearchPanelClose },
+                  }),
+                ]
+              ),
+              e._v(" "),
+              t(
+                "keep-alive",
+                [
+                  t(a.searchPanelTabComponent, {
+                    tag: "component",
+                    attrs: {
+                      "panel-width": e.panelWidth,
+                      "highlight-param": a.searchPanelHighlightParam,
+                    },
+                  }),
+                ],
+                1
+              ),
+            ],
+            1
+          );
+        },
+        [],
+        !1,
+        null,
+        "6d5b14ba",
+        null
+      ).exports;
+    },
+    90715: (e, t, a) => {
+      "use strict";
+      a.r(t), a.d(t, { default: () => B });
+      var o = a(2954),
+        n = a(77282),
+        i = a(53775),
+        l = a(63111),
+        r = a(87141),
+        s = a(96829),
+        d = a(64805),
+        c = a(46016),
+        u = a(27049),
+        p = a(84374),
+        m = a(19741),
+        h = a(89411),
+        v = a(89019),
+        g = a(18621),
+        b = a(69297),
+        f = a(66040),
+        y = a(60746),
+        k = a(3004),
+        S = a(5361),
+        x = a(32470),
+        I = a(26070),
+        T = a(69991),
+        w = a(12366),
+        Z = a(7836),
+        W = a(69931),
+        C = a(38629),
+        M = a(2563),
+        _ = a(12455),
+        E = a(54856),
+        O = a(90435);
+      const A = (0, o.aZ)({
+        __name: "color-mode",
+        emits: ["is-original-change"],
+        setup(e, { emit: t }) {
+          const a = (0, r.JE)().T,
+            {
+              activeSheetId: n,
+              activeSheetViewerAppearance: i,
+              activeSheetViewerOriginalAppearance: d,
+              getSheetViewer: m,
+            } = (0, p.nZ)(),
+            { setZenModeNightMode: h } = (0, c.$)(),
+            { updateIgnoreAppearance: v } = (0, M.O)(),
+            { updateSheetRendering: b } = (0, u.E)(),
+            f = {},
+            y = (0, o.Fl)(() => i.value || d.value),
+            k = (0, o.Fl)(() => "dark" === (0, r.S)().appearance),
+            S = (0, o.Fl)(() =>
+              (0, W.ju)(
+                k.value
+                  ? "static/assets/images/pro/pro-small-with-no-border-dark.svg"
+                  : "static/assets/images/pro/pro-small-with-no-border.svg"
+              )
+            ),
+            x = (0, o.Fl)(() => [
+              {
+                value: p.QS.Light,
+                label: a("Light"),
+                icon: "sun",
+                trialRequest: "action.switchZenModeColor",
+              },
+              {
+                value: p.QS.Dark,
+                label: a("Dark"),
+                icon: "moon",
+                trialRequest: "action.switchZenModeColor",
+              },
+              {
+                value: p.QS.UltraLight,
+                label: a("Ultra Light"),
+                icon: "sun",
+                trialRequest: "action.switchZenModeColor",
+              },
+              {
+                value: p.QS.UltraDark,
+                label: a("Ultra Dark"),
+                icon: "moon",
+                trialRequest: "action.switchZenModeColor",
+              },
+            ]),
+            I = (e) => [p.QS.Dark, p.QS.UltraDark].includes(e),
+            T = (e) => {
+              const t = I(e);
+              (0, C.Z)(t ? "dark" : "default");
+            },
+            w = (e) => {
+              (0, g.L9)({
+                eventAction: "swithAppearance",
+                eventName: {
+                  light: "Light",
+                  dark: "Dark",
+                  "ultra-light": "UltraLight",
+                  "ultra-dark": "UltraDark",
+                }[e],
+              });
+            },
+            A = (0, o.Fl)(() => {
+              const { activeSheet: e, allTopicsWithin: t } = (0, p.nZ)();
+              return e.value ? Array.from(t([e.value.rootTopic])).length : 0;
+            }),
+            P = (0, o.Fl)(() => (0, _.A)().contexts["activation.isValid"]);
+          return (
+            (0, o.YP)(
+              () => y.value,
+              async (e) => {
+                if (!e) return;
+                const {
+                  updateSheetRendering: a,
+                  sheetRenderingStartAt: o,
+                  sheetRendering: n,
+                } = (0, u.E)();
+                if (n && o) {
+                  const e = new Date().getTime() - o;
+                  e < l.oY && (await (0, s._v)(l.oY - e)),
+                    a({ sheetRendering: !1, sheetRenderingStartAt: null });
+                }
+                T(e), t("is-original-change", e === d.value);
+                const i = I(e);
+                h(!i);
+              },
+              { immediate: !0 }
+            ),
+            (0, o.bv)(() => {
+              v(!0);
+            }),
+            (0, o.Jd)(() => {
+              Object.entries(f).forEach(([e, t]) => {
+                const a = m(e);
+                a && a.setSheetAppearance(t);
+              }),
+                v(!1),
+                h(!1);
+            }),
+            {
+              __sfc: !0,
+              emit: t,
+              $T: a,
+              activeSheetId: n,
+              activeSheetViewerAppearance: i,
+              activeSheetViewerOriginalAppearance: d,
+              getSheetViewer: m,
+              setZenModeNightMode: h,
+              updateIgnoreAppearance: v,
+              updateSheetRendering: b,
+              resetAppearanceMap: f,
+              displayedColorMode: y,
+              isDarkMode: k,
+              proIcon: S,
+              colorModeItems: x,
+              isDarkTheme: I,
+              changeAppearanceByColorMode: T,
+              trackSwithAppearance: w,
+              topicCount: A,
+              handleColorModeChange: async (e, t) => {
+                if (d.value !== e && t) {
+                  if (
+                    !(await O.ZP.fetch(E.Gy, {
+                      name: t,
+                      channel: (0, E.gk)(window.editorId),
+                    }))
+                  )
+                    return;
+                }
+                A.value >= l.pD &&
+                  b({
+                    sheetRendering: !0,
+                    sheetRenderingStartAt: new Date().getTime(),
+                  }),
+                  n.value in f || (f[n.value] = i.value);
+                m(n.value).setSheetAppearance(e === d.value ? null : e), w(e);
+              },
+              isActivationValid: P,
+              Vue2Teleport: Z.Z,
+            }
+          );
+        },
+      });
+      a(19305);
+      var P = a(51900);
+      const R = (0, P.Z)(
+          A,
+          function () {
+            var e = this,
+              t = e._self._c,
+              a = e._self._setupProxy;
+            return t(
+              "li",
+              {
+                directives: [
+                  {
+                    name: "focus-contexts",
+                    rawName: "v-focus-contexts:group",
+                    value: ["focus.popover"],
+                    expression: "['focus.popover']",
+                    arg: "group",
+                  },
+                ],
+                attrs: { title: a.$T("Switch appearance.") },
+              },
+              [
+                t("label", [
+                  t("input", {
+                    directives: [
+                      {
+                        name: "focus-contexts",
+                        rawName: "v-focus-contexts:no",
+                        arg: "no",
+                      },
+                    ],
+                    attrs: { type: "radio", name: "left-bar" },
+                  }),
+                  e._v(" "),
+                  t("span", {
+                    directives: [
+                      {
+                        name: "focus-contexts",
+                        rawName: "v-focus-contexts:no",
+                        arg: "no",
+                      },
+                    ],
+                    staticClass: "vk-segment-button",
+                    attrs: {
+                      id: "change-color-mode-btn",
+                      "uk-icon": "icon: progress-half",
+                    },
+                  }),
+                ]),
+                e._v(" "),
+                t(
+                  a.Vue2Teleport,
+                  { attrs: { to: "#popover-container-for-editor" } },
+                  [
+                    t(
+                      "div",
+                      {
+                        ref: "popover",
+                        staticClass: "color-mode-popover",
+                        attrs: {
+                          "uk-popover": "",
+                          "data-target": "#change-color-mode-btn",
+                          "data-toggle": "#change-color-mode-btn",
+                          tabindex: "-1",
+                          "data-sel-close": "[uk-menu] > li > button",
+                        },
+                      },
+                      [
+                        t(
+                          "ul",
+                          { attrs: { "uk-menu": "" } },
+                          e._l(a.colorModeItems, function (o) {
+                            return t("li", { key: o.value }, [
+                              t(
+                                "button",
+                                {
+                                  staticClass: "uk-flex-between",
+                                  staticStyle: {
+                                    "padding-left": "4px",
+                                    "padding-right": "4px",
+                                  },
+                                  on: {
+                                    click: function (e) {
+                                      return a.handleColorModeChange(
+                                        o.value,
+                                        o.trialRequest
+                                      );
+                                    },
+                                  },
+                                },
+                                [
+                                  t(
+                                    "div",
+                                    { staticClass: "uk-flex uk-flex-middle" },
+                                    [
+                                      t("span", {
+                                        style: {
+                                          visibility:
+                                            a.displayedColorMode === o.value
+                                              ? "visible"
+                                              : "hidden",
+                                        },
+                                        attrs: { "uk-icon": "check" },
+                                      }),
+                                      e._v(" "),
+                                      t(
+                                        "span",
+                                        {
+                                          staticStyle: { "margin-left": "8px" },
+                                        },
+                                        [
+                                          e._v(
+                                            "\n                " +
+                                              e._s(o.label) +
+                                              "\n              "
+                                          ),
+                                        ]
+                                      ),
+                                      e._v(" "),
+                                      a.activeSheetViewerOriginalAppearance ===
+                                      o.value
+                                        ? t(
+                                            "span",
+                                            {
+                                              staticStyle: {
+                                                "margin-left": "4px",
+                                              },
+                                            },
+                                            [
+                                              e._v(
+                                                "\n                " +
+                                                  e._s(a.$T("(Original)")) +
+                                                  "\n              "
+                                              ),
+                                            ]
+                                          )
+                                        : e._e(),
+                                      e._v(" "),
+                                      a.activeSheetViewerOriginalAppearance !==
+                                        o.value &&
+                                      o.trialRequest &&
+                                      !a.isActivationValid
+                                        ? t("img", {
+                                            staticStyle: {
+                                              "margin-left": "8px",
+                                              height: "14px",
+                                            },
+                                            attrs: { src: a.proIcon },
+                                          })
+                                        : e._e(),
+                                    ]
+                                  ),
+                                  e._v(" "),
+                                  t("span", { attrs: { "uk-icon": o.icon } }),
+                                ]
+                              ),
+                            ]);
+                          }),
+                          0
+                        ),
+                      ]
+                    ),
+                  ]
+                ),
+              ],
+              1
+            );
+          },
+          [],
+          !1,
+          null,
+          "4ab154af",
+          null
+        ).exports,
+        N = (0, o.aZ)({
+          __name: "index",
+          setup(e) {
+            const t = {
+                ...("darwin" === n.platform
+                  ? {
+                      Command: "⌘",
+                      Shift: "⇧",
+                      Ctrl: "⌃",
+                      Alt: "⌥",
+                      Option: "⌥",
+                    }
+                  : {
+                      Meta: "Meta",
+                      Shift: "Shift",
+                      Ctrl: "Ctrl",
+                      Alt: "Alt",
+                      Option: "Alt",
+                    }),
+              },
+              a = {},
+              Z = (0, r.JE)().T,
+              W = (0, m.y)(),
+              C = (0, c.$)(),
+              { updateSheetStatus: M } = (0, u.E)(),
+              {
+                selection: _,
+                isInBranchOnly: E,
+                activeSheet: O,
+                activeSheetViewerState: A,
+                getSheetViewer: P,
+                executeAction: N,
+              } = (0, p.nZ)(),
+              B = (0, o.iH)(null),
+              L = (0, o.iH)(`popover_${(0, s.hb)()}`),
+              F = (0, o.iH)(`popover_${(0, s.hb)()}`),
+              D = (0, o.iH)(-1),
+              $ = (0, o.iH)(0),
+              V = (0, o.iH)(""),
+              H = (0, o.iH)(!0),
+              z = (0, o.iH)(null),
+              G = (0, o.iH)(!1),
+              U = (0, o.iH)(!1),
+              j = (0, o.Fl)(() => (0, h.FU)().source.startsWith("cloud://")),
+              J = (0, o.Fl)(() => (0, v.c)().connectionMode),
+              q = (0, o.Fl)(() => C.isRightbarVisible),
+              Y = (0, o.Fl)(() => C.isSearchPanelVisible),
+              Q = (0, o.Fl)(() => C.rightBarPanel),
+              X = (0, o.Fl)(() => B.value === d.QN.FORMAT && !H.value),
+              K = (0, o.Fl)(() => E.value),
+              ee = (0, o.Fl)(() => C.zenModeNightMode),
+              te = (0, o.Fl)(() => [
+                {
+                  panel: d.QN.IMAGE,
+                  tooltip: Z("Add a marker to selected topics."),
+                  icon: "marker",
+                  commandId: "workbench.toggleMarkerPanel",
+                },
+                {
+                  panel: d.QN.FORMAT,
+                  tooltip: Z("Show or hide style and format options."),
+                  icon: "right-panel",
+                  commandId: "workbench.toggleRightPanel",
+                },
+              ]),
+              ae = (0, o.Fl)(() =>
+                [
+                  [
+                    "editor.addTopic",
+                    "editor.addSubTopic",
+                    "editor.addRelationship",
+                    "editor.addSummary",
+                    "editor.addBoundary",
+                  ],
+                  [
+                    "editor.showHyperlinkEditor",
+                    "editor.showTopiclinkEditor",
+                    "vana_mas" !== n.env.VANA_RELEASE_ENV
+                      ? "editor.addFileLink"
+                      : null,
+                    "vana_mas" !== n.env.VANA_RELEASE_ENV
+                      ? "editor.addFolderLink"
+                      : null,
+                    "editor.showNotesEditor",
+                    "editor.showLabelEditor",
+                    "editor.addLocalImage",
+                    "editor.addAudioOnNewTopic",
+                  ],
+                  [
+                    "editor.zoomIn",
+                    "editor.zoomOut",
+                    "editor.resetZoom",
+                    "editor.focusAndSelectCenter",
+                  ],
+                ]
+                  .map((e) =>
+                    e
+                      .filter(Boolean)
+                      .map((e) => {
+                        const t = f.ed.find((t) => t && t.commandId === e);
+                        if (t)
+                          return {
+                            ...t,
+                            label: t.getLabel
+                              ? t.getLabel(Z)
+                              : Z("$$", t.label),
+                            accelerator: (0, r.f7)().keybindingByCommandId(
+                              t.commandId
+                            ),
+                          };
+                      })
+                      .filter(Boolean)
+                  )
+                  .filter((e) => e.length)
+              ),
+              oe = (0, o.Fl)(() => {
+                const e = (Y.value ? 264 : 0) + 30 + 8;
+                return {
+                  width: `calc(100% - ${e + ((q.value ? 264 : 0) + 30 + 8)}px)`,
+                  left: `${e}px`,
+                };
+              }),
+              ne = () => {
+                (0, r.JX)().handleCommand("workbench.toggleZenMode");
+              },
+              ie = () => {
+                const e = (0, b.N1)()[
+                  new Date(new Date().setHours(0, 0, 0, 0)).getTime()
+                ];
+                return (null == e ? void 0 : e.dwellTimeInZenMode) || 0;
+              };
+            let le = null;
+            const re = (e) => ("0" + e).slice(-2),
+              se = (e) => {
+                let t = Math.floor(e / 1e3),
+                  a = Math.floor(t / 60);
+                t %= 60;
+                let o = Math.floor(a / 60);
+                return (a %= 60), `${re(o)}:${re(a)}:${re(t)}`;
+              },
+              de = () => {
+                ce();
+                const e = new Date();
+                (D.value = e.getTime()), ($.value = e.getDate());
+                const t = ie();
+                (V.value = se(t)),
+                  le ||
+                    (le = setInterval(() => {
+                      (0, b.Do)();
+                      const e = new Date().getTime() - D.value + t;
+                      V.value = se(e);
+                    }, 1e3));
+              },
+              ce = () => {
+                le && (clearInterval(le), (le = null));
+              },
+              ue = () => {
+                if (D.value < 0) return;
+                let e = new Date(),
+                  t = $.value == e.getDate() ? e.getTime() - D.value : 0;
+                (0, g.L9)({
+                  eventCategory: "ZenMode",
+                  eventAction: "durationZenMode",
+                  eventValue: t,
+                }),
+                  (D.value = -1);
+              },
+              pe = () => {
+                ce(), ue();
+              },
+              me = () => {
+                de();
+              };
+            let he = null;
+            const ve = (0, i.Ds)((e) => {
+                if (!z.value || !e) return;
+                const t = z.value.getBoundingClientRect(),
+                  a = t.left,
+                  o = t.top - 17.5,
+                  n = t.height + 35,
+                  i = t.width,
+                  l = e.pageX,
+                  r = e.pageY,
+                  s = a < l && a + i > l,
+                  d = o < r && o + n > r;
+                G.value = s && d;
+              }, 100),
+              ge = () => {
+                W.registerCommands([
+                  {
+                    id: "editor.copyStyle",
+                    provider: `editor/${window.editorId}/mindmap`,
+                    enabledFn: () => !0,
+                    handler: () => {
+                      ee.value && N({ name: "copyStyle" });
+                    },
+                  },
+                  {
+                    id: "editor.pasteStyle",
+                    provider: `editor/${window.editorId}/mindmap`,
+                    enabledFn: () => !0,
+                    handler: () => {
+                      ee.value && N({ name: "pasteStyle" });
+                    },
+                  },
+                  {
+                    id: "editor.resetStyle",
+                    provider: `editor/${window.editorId}/mindmap`,
+                    enabledFn: () => !0,
+                    handler: () => {
+                      ee.value && N({ name: "mutate:resetStyle" });
+                    },
+                  },
+                  {
+                    id: "workbench.outlineMode",
+                    provider: `editor/${window.editorId}`,
+                    handler: () => {
+                      ne(),
+                        setTimeout(() => {
+                          C.setEditorMode(l.Pq);
+                        });
+                    },
+                  },
+                ]);
+              },
+              be = () => {
+                W.unregisterCommands([
+                  {
+                    id: "editor.copyStyle",
+                    provider: `editor/${window.editorId}/mindmap`,
+                  },
+                  {
+                    id: "editor.pasteStyle",
+                    provider: `editor/${window.editorId}/mindmap`,
+                  },
+                  {
+                    id: "editor.resetStyle",
+                    provider: `editor/${window.editorId}/mindmap`,
+                  },
+                  {
+                    id: "workbench.outlineMode",
+                    provider: `editor/${window.editorId}`,
+                  },
+                ]);
+              };
+            return (
+              (0, o.bv)(() => {
+                ge(),
+                  window.addEventListener("blur", pe),
+                  window.addEventListener("focus", me),
+                  window.addEventListener("mousemove", ve),
+                  de();
+              }),
+              (0, o.Jd)(() => {
+                be(),
+                  window.removeEventListener("blur", pe),
+                  window.removeEventListener("focus", me),
+                  window.removeEventListener("mousemove", ve),
+                  D.value > 0 && (ce(), ue()),
+                  he && window.clearTimeout(he),
+                  Object.keys(a).forEach((e) => {
+                    const t = P(e);
+                    if (!t) return;
+                    const o = a[e];
+                    M({ id: e, zoomScale: 100 * o }), t.changeZoomScale(o);
+                  });
+              }),
+              (0, o.YP)(
+                () => Q.value,
+                (e) => {
+                  e === d.QN.IMAGE && (B.value = d.QN.IMAGE),
+                    [d.QN.FORMAT, d.QN.THEME].includes(e) &&
+                      (B.value = d.QN.FORMAT);
+                }
+              ),
+              (0, o.YP)(
+                () => {
+                  var e;
+                  return null === (e = A.value) || void 0 === e
+                    ? void 0
+                    : e.zoomScale;
+                },
+                (e) => {
+                  var t;
+                  const o =
+                    null === (t = O.value) || void 0 === t ? void 0 : t.id;
+                  if (!o || a[o]) return;
+                  a[o] = e;
+                  const n = P(o);
+                  M({ id: o, zoomScale: 150 }), n.changeZoomScale(1.5);
+                },
+                { immediate: !0 }
+              ),
+              {
+                __sfc: !0,
+                AcceleratorSymbols: t,
+                resetZoomMap: a,
+                $T: Z,
+                appStore: W,
+                workbenchStore: C,
+                updateSheetStatus: M,
+                selection: _,
+                isInBranchOnly: E,
+                activeSheet: O,
+                activeSheetViewerState: A,
+                getSheetViewer: P,
+                executeAction: N,
+                activatedPanel: B,
+                shortcutPopoverId: L,
+                zenModeTimerPopoverId: F,
+                startTime: D,
+                startDate: $,
+                timerString: V,
+                isZenOriginalColorMode: H,
+                bottomBarRef: z,
+                isHoveringOnBottomBar: G,
+                isBottomBarWorkInProcess: U,
+                isFromCloud: j,
+                connectionMode: J,
+                isRightbarVisible: q,
+                isSearchPanelVisible: Y,
+                rightBarPanel: Q,
+                isRightNonePanelVisible: X,
+                isBranchOnlyMode: K,
+                isZenModeNightMode: ee,
+                panelItems: te,
+                shortcutGroups: ae,
+                bottomBarStyles: oe,
+                exitZenMode: ne,
+                toAcceleratorSymbol: (e) => {
+                  const a = e.split("+").map((e) => t[e] || e),
+                    o = { Control: !1, undefined: !1 };
+                  return a
+                    .filter((e) => void 0 === o[e])
+                    .join(" ")
+                    .replace("=", "+");
+                },
+                openShortcutsDialog: () => {
+                  (0, r.JX)().handleCommand("preferences", {
+                    query: { tab: "shortcuts" },
+                  });
+                },
+                switchRightPanel: (e) => {
+                  let t = !1;
+                  if (((t = B.value !== e || !q.value), e === d.QN.IMAGE))
+                    return (
+                      C.updateRightBarPanel({
+                        panel: d.QN.IMAGE,
+                        tab: d.ll.MARKER,
+                        visible: t,
+                      }),
+                      void (B.value = d.QN.IMAGE)
+                    );
+                  _.value.isMulti
+                    ? C.updateRightBarPanel({
+                        panel: d.QN.FORMAT,
+                        tab: d.zZ.TOPIC,
+                        visible: t,
+                      })
+                    : C.updateRightBarPanel({
+                        panel: d.QN.THEME,
+                        tab: d.x9.MAP,
+                        visible: t,
+                      }),
+                    (B.value = d.QN.FORMAT);
+                },
+                getDwellTimeInZenMode: ie,
+                timer: le,
+                formatNumberWithTwoDigit: re,
+                toTimerString: se,
+                startTimer: de,
+                stopTimer: ce,
+                storeTimer: ue,
+                handleBlur: pe,
+                handleFocus: me,
+                bottomBarTimer: he,
+                bottomBarHoveringDetect: ve,
+                handleBottomBarWorkStatusChange: (e) => {
+                  const t = U.value && !e;
+                  null !== he && (e || t) && (clearTimeout(he), (he = null)),
+                    t
+                      ? (he = setTimeout(() => {
+                          (U.value = e), (he = null);
+                        }, 3e3))
+                      : (U.value = e);
+                },
+                registerCommands: ge,
+                unregisterCommands: be,
+                wrappedTooltipWithKeybinding: y.RL,
+                CommonNonePanel: k.Z,
+                FormatPanel: S.default,
+                SearchPanel: x.default,
+                BottomBar: I.default,
+                ReadwriteBottomBar: T.default,
+                BranchOnlyBar: w.default,
+                ColorMode: R,
+              }
+            );
+          },
+        });
+      a(5577);
+      const B = (0, P.Z)(
+        N,
+        function () {
+          var e = this,
+            t = e._self._c,
+            a = e._self._setupProxy;
+          return t(
+            "div",
+            { staticClass: "uk-position-relative zen-mode-bar" },
+            [
+              t(
+                "div",
+                {
+                  staticClass:
+                    "zen-mode-top-bar uk-position-absolute uk-position-right uk-flex uk-flex-row uk-flex-right",
+                  staticStyle: { "-webkit-app-region": "no-drag" },
+                },
+                [
+                  t(
+                    "ul",
+                    {
+                      staticClass:
+                        "vk-segment-button-group uk-margin-small-right",
+                    },
+                    [
+                      t("li", { attrs: { title: a.$T("Exit ZEN Mode.") } }, [
+                        t("label", [
+                          t("input", {
+                            directives: [
+                              {
+                                name: "focus-contexts",
+                                rawName: "v-focus-contexts:no",
+                                arg: "no",
+                              },
+                            ],
+                            attrs: { type: "radio", name: "left-bar" },
+                          }),
+                          e._v(" "),
+                          t("span", {
+                            directives: [
+                              {
+                                name: "focus-contexts",
+                                rawName: "v-focus-contexts:no",
+                                arg: "no",
+                              },
+                            ],
+                            staticClass: "vk-segment-button",
+                            attrs: { "uk-icon": "signout" },
+                            on: { click: a.exitZenMode },
+                          }),
+                        ]),
+                      ]),
+                      e._v(" "),
+                      t(
+                        "li",
+                        {
+                          directives: [
+                            {
+                              name: "focus-contexts",
+                              rawName: "v-focus-contexts:group",
+                              value: ["focus.popover"],
+                              expression: "['focus.popover']",
+                              arg: "group",
+                            },
+                          ],
+                          attrs: { title: a.$T("View common shortcuts.") },
+                        },
+                        [
+                          t("label", [
+                            t("input", {
+                              directives: [
+                                {
+                                  name: "focus-contexts",
+                                  rawName: "v-focus-contexts:no",
+                                  arg: "no",
+                                },
+                              ],
+                              attrs: { type: "radio", name: "left-bar" },
+                            }),
+                            e._v(" "),
+                            t("span", {
+                              directives: [
+                                {
+                                  name: "focus-contexts",
+                                  rawName: "v-focus-contexts:no",
+                                  arg: "no",
+                                },
+                              ],
+                              staticClass: "vk-segment-button",
+                              attrs: {
+                                id: a.shortcutPopoverId,
+                                "uk-icon": "keyboard",
+                              },
+                            }),
+                          ]),
+                        ]
+                      ),
+                      e._v(" "),
+                      t(
+                        "li",
+                        { attrs: { title: a.$T("Show or hide timer.") } },
+                        [
+                          t("label", [
+                            t("input", {
+                              directives: [
+                                {
+                                  name: "focus-contexts",
+                                  rawName: "v-focus-contexts:no",
+                                  arg: "no",
+                                },
+                              ],
+                              attrs: { type: "radio", name: "left-bar" },
+                            }),
+                            e._v(" "),
+                            t("span", {
+                              directives: [
+                                {
+                                  name: "focus-contexts",
+                                  rawName: "v-focus-contexts:no",
+                                  arg: "no",
+                                },
+                              ],
+                              staticClass: "vk-segment-button",
+                              attrs: {
+                                id: a.zenModeTimerPopoverId,
+                                "uk-icon": "recent",
+                              },
+                            }),
+                          ]),
+                        ]
+                      ),
+                      e._v(" "),
+                      t(a.ColorMode, {
+                        on: {
+                          "is-original-change": (e) =>
+                            (a.isZenOriginalColorMode = e),
+                        },
+                      }),
+                    ],
+                    1
+                  ),
+                  e._v(" "),
+                  t(
+                    "ul",
+                    { staticClass: "vk-segment-button-group" },
+                    e._l(a.panelItems, function (o) {
+                      return t(
+                        "li",
+                        {
+                          key: o.panel,
+                          class: {
+                            "uk-active":
+                              a.isRightbarVisible &&
+                              a.activatedPanel === o.panel,
+                          },
+                          attrs: {
+                            title: a.wrappedTooltipWithKeybinding(
+                              o.tooltip,
+                              o.commandId
+                            ),
+                          },
+                        },
+                        [
+                          t("label", [
+                            t("input", {
+                              directives: [
+                                {
+                                  name: "focus-contexts",
+                                  rawName: "v-focus-contexts:no",
+                                  arg: "no",
+                                },
+                              ],
+                              attrs: { type: "radio", name: "right-bar" },
+                              domProps: {
+                                checked:
+                                  a.isRightbarVisible &&
+                                  a.activatedPanel === o.panel,
+                              },
+                            }),
+                            e._v(" "),
+                            t("span", {
+                              staticClass: "vk-segment-button",
+                              attrs: { "uk-icon": o.icon },
+                              on: {
+                                click: function (e) {
+                                  return a.switchRightPanel(o.panel);
+                                },
+                              },
+                            }),
+                          ]),
+                        ]
+                      );
+                    }),
+                    0
+                  ),
+                ]
+              ),
+              e._v(" "),
+              t(
+                "div",
+                {
+                  staticStyle: {
+                    width: "264px",
+                    "max-height": "600px",
+                    outline: "none",
+                  },
+                  attrs: {
+                    "uk-popover": "",
+                    "data-toggle": "#" + a.shortcutPopoverId,
+                    tabindex: "-1",
+                  },
+                },
+                [
+                  t(
+                    "div",
+                    {
+                      staticClass: "uk-flex uk-flex-column uk-flex-left",
+                      staticStyle: { padding: "20px", outline: "none" },
+                      attrs: { autofocus: "", tabindex: "-1" },
+                    },
+                    [
+                      t(
+                        "h2",
+                        {
+                          staticClass:
+                            "shortcut-list-title typography-headline-small",
+                        },
+                        [
+                          e._v(
+                            "\n        " +
+                              e._s(a.$T("Shortcut List")) +
+                              "\n      "
+                          ),
+                        ]
+                      ),
+                      e._v(" "),
+                      e._l(a.shortcutGroups, function (o, n) {
+                        return [
+                          e._l(o, function (o) {
+                            return [
+                              o.accelerator
+                                ? t(
+                                    "div",
+                                    {
+                                      key: o.commandId,
+                                      staticClass:
+                                        "uk-flex uk-flex-between uk-width-1-1 shortcut-list-item",
+                                    },
+                                    [
+                                      t(
+                                        "span",
+                                        {
+                                          staticClass: "typography-body-medium",
+                                        },
+                                        [e._v(e._s(o.label))]
+                                      ),
+                                      e._v(" "),
+                                      t("span", [
+                                        e._v(
+                                          e._s(
+                                            a.toAcceleratorSymbol(o.accelerator)
+                                          )
+                                        ),
+                                      ]),
+                                    ]
+                                  )
+                                : e._e(),
+                            ];
+                          }),
+                          e._v(" "),
+                          a.shortcutGroups.length - 1 !== n
+                            ? t("hr", {
+                                key: n,
+                                staticClass: "vk-divider-on-surface",
+                                staticStyle: { margin: "12px 0 4px" },
+                              })
+                            : e._e(),
+                        ];
+                      }),
+                      e._v(" "),
+                      t(
+                        "button",
+                        {
+                          directives: [
+                            {
+                              name: "focus-contexts",
+                              rawName: "v-focus-contexts:no",
+                              arg: "no",
+                            },
+                          ],
+                          staticClass:
+                            "vk-button-default vk-size-small uk-width-1-1",
+                          staticStyle: { "margin-top": "16px" },
+                          on: { click: a.openShortcutsDialog },
+                        },
+                        [
+                          e._v(
+                            "\n        " +
+                              e._s(a.$T("Customize Shortcut")) +
+                              "\n      "
+                          ),
+                        ]
+                      ),
+                    ],
+                    2
+                  ),
+                ]
+              ),
+              e._v(" "),
+              t(
+                "div",
+                {
+                  staticStyle: { width: "194px", outline: "none" },
+                  attrs: {
+                    "uk-popover": "",
+                    "data-toggle": "#" + a.zenModeTimerPopoverId,
+                    tabindex: "-1",
+                  },
+                },
+                [
+                  t(
+                    "div",
+                    {
+                      staticClass:
+                        "uk-padding uk-flex uk-flex-column uk-flex-left",
+                    },
+                    [
+                      t(
+                        "span",
+                        {
+                          staticClass: "uk-text-muted uk-text-bold",
+                          staticStyle: { "font-size": "16px" },
+                        },
+                        [
+                          e._v(
+                            "\n        " +
+                              e._s(a.$T("Today in ZEN")) +
+                              "\n      "
+                          ),
+                        ]
+                      ),
+                      e._v(" "),
+                      t(
+                        "span",
+                        {
+                          staticClass: "uk-margin-xsmall-top",
+                          staticStyle: {
+                            "line-height": "1",
+                            "font-size": "20px",
+                          },
+                        },
+                        [e._v("\n        " + e._s(a.timerString) + "\n      ")]
+                      ),
+                    ]
+                  ),
+                ]
+              ),
+              e._v(" "),
+              t("transition", { attrs: { name: "slide-fade-right" } }, [
+                a.isRightbarVisible
+                  ? t(
+                      "div",
+                      { staticClass: "zen-mode-right-bar uk-position-fixed" },
+                      [
+                        t(
+                          "keep-alive",
+                          [
+                            a.isRightNonePanelVisible
+                              ? t(
+                                  "div",
+                                  {
+                                    staticClass:
+                                      "uk-format-panel uk-box-shadow-floating uk-border-rounded uk-background-default uk-height-1-1 uk-flex uk-flex-middle uk-flex-column uk-flex-center",
+                                  },
+                                  [
+                                    t(a.CommonNonePanel, {
+                                      attrs: { type: "BULB" },
+                                    }),
+                                  ],
+                                  1
+                                )
+                              : t(a.FormatPanel, {
+                                  staticClass:
+                                    "uk-box-shadow-floating uk-border-rounded uk-background-default uk-overflow-hidden",
+                                  staticStyle: {
+                                    width: "268px",
+                                    "user-select": "none",
+                                  },
+                                }),
+                          ],
+                          1
+                        ),
+                      ],
+                      1
+                    )
+                  : e._e(),
+              ]),
+              e._v(" "),
+              t("transition", { attrs: { name: "slide-fade-left" } }, [
+                a.isSearchPanelVisible
+                  ? t(
+                      "div",
+                      {
+                        staticClass:
+                          "zen-mode-left-bar uk-position-fixed uk-height-1-1 uk-box-shadow-floating uk-border-rounded uk-background-default",
+                      },
+                      [t(a.SearchPanel)],
+                      1
+                    )
+                  : e._e(),
+              ]),
+              e._v(" "),
+              t(
+                "div",
+                {
+                  ref: "bottomBarRef",
+                  staticClass:
+                    "zen-mode-bottom-bar uk-position-fixed uk-flex uk-flex-middle",
+                  class: {
+                    "is-active":
+                      a.isBottomBarWorkInProcess || a.isHoveringOnBottomBar,
+                  },
+                  style: a.bottomBarStyles,
+                },
+                [
+                  a.isFromCloud && "readwrite" === a.connectionMode
+                    ? t(a.ReadwriteBottomBar, {
+                        staticClass:
+                          "uk-width-1-1 uk-box-shadow-floating uk-border-rounded uk-background-default uk-height-1-1",
+                        on: {
+                          "work-in-process": a.handleBottomBarWorkStatusChange,
+                        },
+                      })
+                    : t(a.BottomBar, {
+                        staticClass:
+                          "uk-width-1-1 uk-box-shadow-floating uk-border-rounded uk-background-default uk-height-1-1",
+                        on: {
+                          "work-in-process": a.handleBottomBarWorkStatusChange,
+                        },
+                      }),
+                ],
+                1
+              ),
+              e._v(" "),
+              a.isBranchOnlyMode
+                ? t(
+                    "div",
+                    {
+                      staticClass:
+                        "zen-mode-show-full-content uk-position-fixed",
+                    },
+                    [t(a.BranchOnlyBar)],
+                    1
+                  )
+                : e._e(),
+            ],
+            1
+          );
+        },
+        [],
+        !1,
+        null,
+        "5a840b36",
+        null
+      ).exports;
+    },
+    95127: (e, t, a) => {
+      var o = a(15070);
+      o.__esModule && (o = o.default),
+        "string" == typeof o && (o = [[e.id, o, ""]]),
+        o.locals && (e.exports = o.locals);
+      (0, a(45346).Z)("6ab5417e", o, !0, {});
+    },
+    23951: (e, t, a) => {
+      var o = a(85901);
+      o.__esModule && (o = o.default),
+        "string" == typeof o && (o = [[e.id, o, ""]]),
+        o.locals && (e.exports = o.locals);
+      (0, a(45346).Z)("013874c3", o, !0, {});
+    },
+    33040: (e, t, a) => {
+      var o = a(23834);
+      o.__esModule && (o = o.default),
+        "string" == typeof o && (o = [[e.id, o, ""]]),
+        o.locals && (e.exports = o.locals);
+      (0, a(45346).Z)("3415697e", o, !0, {});
+    },
+    98085: (e, t, a) => {
+      var o = a(4143);
+      o.__esModule && (o = o.default),
+        "string" == typeof o && (o = [[e.id, o, ""]]),
+        o.locals && (e.exports = o.locals);
+      (0, a(45346).Z)("8e95c344", o, !0, {});
+    },
+    71887: (e, t, a) => {
+      var o = a(47063);
+      o.__esModule && (o = o.default),
+        "string" == typeof o && (o = [[e.id, o, ""]]),
+        o.locals && (e.exports = o.locals);
+      (0, a(45346).Z)("d7dc4abc", o, !0, {});
+    },
+    80108: (e, t, a) => {
+      var o = a(35278);
+      o.__esModule && (o = o.default),
+        "string" == typeof o && (o = [[e.id, o, ""]]),
+        o.locals && (e.exports = o.locals);
+      (0, a(45346).Z)("588e7da6", o, !0, {});
+    },
+    19305: (e, t, a) => {
+      var o = a(61610);
+      o.__esModule && (o = o.default),
+        "string" == typeof o && (o = [[e.id, o, ""]]),
+        o.locals && (e.exports = o.locals);
+      (0, a(45346).Z)("b633742a", o, !0, {});
+    },
+    5577: (e, t, a) => {
+      var o = a(38536);
+      o.__esModule && (o = o.default),
+        "string" == typeof o && (o = [[e.id, o, ""]]),
+        o.locals && (e.exports = o.locals);
+      (0, a(45346).Z)("6d80eabc", o, !0, {});
+    },
+  },
+]);
